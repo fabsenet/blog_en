@@ -1,0 +1,12 @@
+---
+title: Bild zu Runderneuerung
+id: 312
+tags:
+  - Büroleben
+date: 2009-01-11 22:18:40
+---
+
+ Ich war da wohl im letzten Eintrag ein Bild schuldig geblieben...
+
+Blick aus meinem B&#252;ro:
+ [![752](https://az275061.vo.msecnd.net/blogmedia/2009/01/752-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2009/01/752.jpg)

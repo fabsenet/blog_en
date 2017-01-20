@@ -1,0 +1,15 @@
+---
+title: Digitales Portfolio
+id: 56
+tags:
+  - Studium
+date: 2007-04-05 10:21:41
+---
+
+Wir sollen ja im Rahmen unseres Studienbegleitprogramms nicht nur verschiedene Dokumente (MicroAbstracts und Anwenderberichte)&nbsp;verfassen, sondern am Ende des Studiums soll auch ein digitales Portfolie entstehen.
+
+Aus dem Portfolie soll erkennbar sein, was man die letzten 3 Jahre so im Studium und im Praxiseinsatz getrieben hat. Es soll als Bewerbungsunterstützung dienen.
+
+Jedenfalls gibt es da einen Kommilitionen der <strike>ein Streber</strike> fleißiger Mensch ist. [Sebastian Larisch](http://www.sebastian-larisch.de "Digitales Portfolie von Sebastian Larisch") hat das Portfolie bereits jetzt erstellt.
+
+Das baut jetzt irgendwie Druck auf, dass ich das auch brauche (in besser! *g*)
