@@ -35,10 +35,8 @@ addthis:
 favicon:
 
 # Social Accounts
-twitter_url:
+twitter_url: https://twitter.com/fabsenet
 twitter_handle: fabsenet
 facebook_url: https://facebook.com/fabsenet
 github_url: https://github.com/fabsenet
-gitlab_url:
-linkedin_url:
 mailto: fabse@fabse.net

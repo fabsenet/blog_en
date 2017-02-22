@@ -6,6 +6,7 @@ tags:
   - BizTalk
   - coding
 date: 2016-10-04 15:50:47
+author: Fabian Wetzel
 ---
 
 **Problem: **I tried to compile my BizTalk project and all I got was this compile time (!) error:

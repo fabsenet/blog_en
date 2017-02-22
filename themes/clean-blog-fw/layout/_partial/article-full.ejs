@@ -17,9 +17,10 @@
                     <span class="meta">
                         <!-- Date and Author -->
                         <% if(item.author) { %>
-                            Posted by <%- item.author %> on
+                            <svg class="icon icon-author"><use xlink:href="<%- url_for("icons.svg") %>#icon-author"></use></svg> <%- item.author %> <br />
                         <% } %>
-                        <%= item.date.format(config.date_format) %>
+                        <svg class="icon icon-calendar"><use xlink:href="<%- url_for("icons.svg") %>#icon-calendar"></use></svg> <%= item.date.format(config.date_format) %><br />
+                        <svg class="icon icon-clock"><use xlink:href="<%- url_for("icons.svg") %>#icon-clock"></use></svg> <%- readingTime(page.content) %>
                     </span>
                 </div>
             </div>
