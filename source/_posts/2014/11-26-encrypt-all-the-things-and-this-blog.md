@@ -5,7 +5,8 @@ comment: false
 tags:
   - DIY
   - über diese Seite
-date: 2014-11-26 11:21:51
+date: 2014-11-26T11:21:51.000Z
+author: Fabian Wetzel
 ---
 
 Google started to favor secure sites in search results. “Encrypt all the things” is trying to create a certificate authority to provide free SSL certificates. And last but not least are all the news stories about government agencies doing evil stuff here and there. This was enough motivation for me to secure my blog with https as well.

@@ -6,7 +6,8 @@ tags:
   - 'C#'
   - coding
   - Lösung
-date: 2010-02-17 11:32:11
+date: 2010-02-17T11:32:11.000Z
+author: Fabian Wetzel
 ---
 
 Sitzt man mal wieder vor dem Debugger und interessiert sich, was nun eigentlich für Daten in diesem Stream stehen, dann hilft das Immediate Window. Aber selbst damit ist es mir bisher nicht unbedingt einfach gefallen.

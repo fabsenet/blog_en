@@ -3,7 +3,8 @@ title: XBox Gamertag
 id: 366
 tags:
   - xbox
-date: 2009-06-12 14:20:11
+date: 2009-06-12T14:20:11.000Z
+author: Fabian Wetzel
 ---
 
 Fabse.net gibts jetzt auch mit meinem Gamertag drauf:

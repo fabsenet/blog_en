@@ -3,7 +3,8 @@ title: Team Fortress 2 Screens
 id: 227
 tags:
   - Fun
-date: 2008-08-02 21:03:12
+date: 2008-08-02T21:03:12.000Z
+author: Fabian Wetzel
 ---
 
 Nachfolgend mal ein paar Screenshots, die sich so auf meiner Festplatte beim Spielen angesammelt haben. &#214;ffnet den Beitrag und es gibt noch ein paar mehr!

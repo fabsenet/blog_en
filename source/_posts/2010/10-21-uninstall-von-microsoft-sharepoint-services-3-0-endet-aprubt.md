@@ -4,7 +4,8 @@ id: 487
 tags:
   - coding
   - SharePoint
-date: 2010-10-21 13:48:59
+date: 2010-10-21T13:48:59.000Z
+author: Fabian Wetzel
 ---
 
 Man muss die SharePoint Services deinstallieren, bevor man den SharePoint Server installieren kann.

@@ -4,7 +4,8 @@ id: 107
 tags:
   - Erfahrungen
   - Usability
-date: 2007-12-16 15:34:45
+date: 2007-12-16T15:34:45.000Z
+author: Fabian Wetzel
 ---
 
 Wenn man irgendwo im Web eine Liste von z.B. Suchtreffern hat, dann bekommt man immer folgende Ansicht, wenn man blättern will:

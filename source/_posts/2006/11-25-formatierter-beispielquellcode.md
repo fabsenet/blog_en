@@ -3,7 +3,8 @@ title: Formatierter Beispielquellcode
 id: 28
 tags:
   - .net
-date: 2006-11-25 00:38:03
+date: 2006-11-25T00:38:03.000Z
+author: Fabian Wetzel
 ---
 
 <pre class="csharpcode"><span class="rem">//Billiges search and replace im Clipboard</span>

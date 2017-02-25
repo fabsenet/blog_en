@@ -6,7 +6,8 @@ tags:
   - coding
   - Linq
   - XML
-date: 2012-12-03 11:39:41
+date: 2012-12-03T11:39:41.000Z
+author: Fabian Wetzel
 ---
 
 …and it is easy to setup as well! If you already have an Entity Framework DataContext in your solution, you just need to add a WCF Data Service:

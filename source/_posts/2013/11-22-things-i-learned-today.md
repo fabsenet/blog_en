@@ -4,7 +4,8 @@ id: 2044
 comment: false
 tags:
   - Things I learned
-date: 2013-11-22 17:18:42
+date: 2013-11-22T17:18:42.000Z
+author: Fabian Wetzel
 ---
 
 I decided to just write down the stuff, I learned today in a random order, to let you know and (maybe) let you learn as well!

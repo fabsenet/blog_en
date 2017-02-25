@@ -4,7 +4,8 @@ id: 158
 tags:
   - Auslandspraktikum
   - Büroleben
-date: 2008-05-21 21:59:21
+date: 2008-05-21T21:59:21.000Z
+author: Fabian Wetzel
 ---
 
 Gestern gab es um die Mittagszeit hier bei T-Mobile ein gratis Eis! Es gab sogar Magnum! Das fande ich voll gut.

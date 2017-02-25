@@ -3,7 +3,8 @@ title: Welcher Grilltyp bist du?
 id: 358
 tags:
   - grillen
-date: 2009-05-18 19:23:52
+date: 2009-05-18T19:23:52.000Z
+author: Fabian Wetzel
 ---
 
 [![image](https://az275061.vo.msecnd.net/blogmedia/2009/05/image-thumb6.png "image")](https://az275061.vo.msecnd.net/blogmedia/2009/05/image19.png) 

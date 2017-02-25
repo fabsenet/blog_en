@@ -4,7 +4,8 @@ id: 463
 tags:
   - 'C#'
   - im Netz gefunden
-date: 2010-07-04 20:34:33
+date: 2010-07-04T20:34:33.000Z
+author: Fabian Wetzel
 ---
 
 Wenn ich einen Wert mal non-standard formatiert ausgeben will, muss ich regelmäßig die MSDN rauf und runter suchen, weil mir der richtige Formatstring fehlt.

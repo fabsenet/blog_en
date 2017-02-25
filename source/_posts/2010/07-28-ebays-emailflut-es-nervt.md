@@ -4,7 +4,8 @@ id: 471
 tags:
   - Erfahrungen
   - im Netz gefunden
-date: 2010-07-28 18:20:25
+date: 2010-07-28T18:20:25.000Z
+author: Fabian Wetzel
 ---
 
 Ich kaufe einen Artikel per Sofortkauf bei Ebay, klicke mich auch direkt weiter durch und bezahle sofort per Paypal. Alles nach einer Minute fertig, braucht nur noch das Paket zu kommen.

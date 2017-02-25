@@ -5,7 +5,8 @@ tags:
   - Amazon
   - Aus dem Leben
   - Heimkino
-date: 2009-11-04 21:24:41
+date: 2009-11-04T21:24:41.000Z
+author: Fabian Wetzel
 ---
 
 Nach der langen Herbstpause mal wieder was von mir. Gibt ja jetzt so Filme auch in HD und zu kaufen gibt es das dann auf Blu-Ray.

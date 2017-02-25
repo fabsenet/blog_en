@@ -3,7 +3,8 @@ title: Du bist Web 2.0 ;-)
 id: 42
 tags:
   - Blogwelt
-date: 2007-02-09 09:06:11
+date: 2007-02-09T09:06:11.000Z
+author: Fabian Wetzel
 ---
 
 Also wer das Video bis jetzt nicht gesehen hat, sollte es unbedint nachholen. Es erklärt Web 2.0 und ist allgemein sehr gut gemacht.

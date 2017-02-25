@@ -4,7 +4,8 @@ id: 2047
 comment: false
 tags:
   - Allgemein
-date: 2014-01-06 11:33:11
+date: 2014-01-06T11:33:11.000Z
+author: Fabian Wetzel
 ---
 
 OLTP is [Online Transaction Processing](http://en.wikipedia.org/wiki/Online_transaction_processing)

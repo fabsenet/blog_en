@@ -3,7 +3,8 @@ title: Mein erstes YouTube-Video!
 id: 49
 tags:
   - Fun
-date: 2007-02-20 18:57:59
+date: 2007-02-20T18:57:59.000Z
+author: Fabian Wetzel
 ---
 
 Entstanden aus einer spontanen Laune heraus hab ich in einer Nacht-und-Nebel-Aktion dieses kurze Video aufgenommen.

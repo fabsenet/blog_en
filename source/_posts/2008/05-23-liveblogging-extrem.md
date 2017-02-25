@@ -5,7 +5,8 @@ tags:
   - Auslandspraktikum
   - Büroleben
   - Fun
-date: 2008-05-23 11:01:16
+date: 2008-05-23T11:01:16.000Z
+author: Fabian Wetzel
 ---
 
 Ebend ist der Feueralarm angegangen und ich bin auf dem Weg die Treppe runter!

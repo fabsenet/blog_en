@@ -5,7 +5,8 @@ tags:
   - Azure
   - Cloud Computing
   - Install
-date: 2012-03-24 13:39:30
+date: 2012-03-24T13:39:30.000Z
+author: Fabian Wetzel
 ---
 
 While developing in Windows Azure I am RDP-ing into the roles from time to time. It is quite handy to be able to browse the web from there as well. I decided to let my roles download and install Firefox on every publish. Here is how I did it:

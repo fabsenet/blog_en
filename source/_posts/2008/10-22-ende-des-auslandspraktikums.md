@@ -4,7 +4,8 @@ id: 269
 tags:
   - Auslandspraktikum
   - Erfahrungen
-date: 2008-10-22 20:46:06
+date: 2008-10-22T20:46:06.000Z
+author: Fabian Wetzel
 ---
 
 Ich bin nun einige Tage wieder in Deutschland und stelle nun fest, dass ich mehr englifiziert wurde, als ich immer dachte. Sagte ich in England zu den Pfund fast immer Euro, sage ich nun zu den Euros Pfund! Genauso ist es mit dem Straßenverkehr! Ich gehe links, ich schaue nach rechts und ich hab Probleme beim Abbiegen oder bei Rechts-Vor-Links! Bisher ist nix passiert und wird es auch nicht mehr, aber es erstaunt mich schon irgendwie.

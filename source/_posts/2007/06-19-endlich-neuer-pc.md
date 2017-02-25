@@ -4,7 +4,8 @@ id: 75
 tags:
   - Träume
   - Vista
-date: 2007-06-19 21:47:41
+date: 2007-06-19T21:47:41.000Z
+author: Fabian Wetzel
 ---
 
 So es war vor kurzem so weit, ich habe einen neuen PC erworben. Also eigentlich nur eine Hand voll Komponenten. Jedenfalls seht selbst:

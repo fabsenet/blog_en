@@ -4,7 +4,8 @@ id: 71
 tags:
   - Office
   - Vista
-date: 2007-02-07 08:44:14
+date: 2007-02-07T08:44:14.000Z
+author: Fabian Wetzel
 ---
 
 So weit ich mich erinnern kann, war ich irgendwann im November des vergangenen Jahres auf der Roadshow. Als Give-Away sollte es Office und Vista geben, so wie es verfügbar ist. Verfügbar ist es seit dem 30\. Januar.

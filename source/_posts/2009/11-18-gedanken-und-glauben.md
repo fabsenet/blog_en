@@ -4,7 +4,8 @@ id: 433
 tags:
   - Erfahrungen
   - Träume
-date: 2009-11-18 20:54:01
+date: 2009-11-18T20:54:01.000Z
+author: Fabian Wetzel
 ---
 
 Ich bin eines morgens nach dem Aufstehen ziemlich müde gewesen. Was hab ich also gedacht? “Man ich bin noch sooo müde, das wird ein beschissener Arbeitstag” naja und so kam es dann auch! Ich war lustlos, antriebslos und habe oft auf die Uhr geschaut. Ende vom Lied war, dass ich früher als gedacht heim gegangen bin.

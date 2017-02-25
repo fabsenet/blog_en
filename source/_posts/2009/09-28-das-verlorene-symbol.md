@@ -3,7 +3,8 @@ title: Das verlorene Symbol
 id: 426
 tags:
   - Amazon
-date: 2009-09-28 18:24:51
+date: 2009-09-28T18:24:51.000Z
+author: Fabian Wetzel
 ---
 
 Nein, kein Computer-Beitrag :-)

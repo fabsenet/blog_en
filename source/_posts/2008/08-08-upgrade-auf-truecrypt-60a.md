@@ -3,7 +3,8 @@ title: Upgrade auf Truecrypt 6.0a
 id: 235
 tags:
   - My Setup
-date: 2008-08-08 18:15:08
+date: 2008-08-08T18:15:08.000Z
+author: Fabian Wetzel
 ---
 
 Heute hab ich das Update auf die aktuelle Truecrypt Version 6.0a gewagt. Hier sind Screenshots, wo man schön die Steigerung der Kompressionsraten sehen kann. Jetzt sollte Truecrypt auch endlich nicht mehr der Flaschenhals beim Kopieren von großen Datenmengen auf meinen Platten sein.

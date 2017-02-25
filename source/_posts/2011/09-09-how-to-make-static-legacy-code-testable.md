@@ -5,7 +5,8 @@ tags:
   - coding
   - mocking
   - unittesting
-date: 2011-09-09 15:32:37
+date: 2011-09-09T15:32:37.000Z
+author: Fabian Wetzel
 ---
 
 I had the opportunity to work in a team developing and improving a large legacy application. The project had some unit tests already but there was a long way to go in terms of increasing the test coverage.

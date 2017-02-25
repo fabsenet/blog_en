@@ -5,7 +5,8 @@ tags:
   - 'C#'
   - coding
   - Netzwerk
-date: 2008-10-29 21:00:50
+date: 2008-10-29T21:00:50.000Z
+author: Fabian Wetzel
 ---
 
 Den [Standardweg](http://dotnet-snippets.de/dns/c-broadcast-senden-SID567.aspx) (_Da ist übrigens ein Fehler drin: SocketOptionName.Broadcast muss auf 1 statt auf 0 gesetzt werden), _wie man Broadcasts versendet, hatte auf meinem Rechner zur Folge, dass nur ein einziger Netzwerkadapter die Broadcasts versendete. Dies war nicht das, was ich wollte, denn es war auch noch ein VMWare-Adapter.

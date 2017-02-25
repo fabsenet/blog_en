@@ -8,7 +8,8 @@ tags:
   - Backup
   - DIY
   - Windows 8.1
-date: 2013-09-13 15:43:49
+date: 2013-09-13T15:43:49.000Z
+author: Fabian Wetzel
 ---
 
 [![Windows 8.1 Setup: Keep Windows settings, personal files, and apps](https://az275061.vo.msecnd.net/blogmedia/2013/09/windows81howtokeepwindowssettingspersonalfilesandapps_thumb.png "Windows 8.1 Setup: Keep Windows settings, personal files, and apps")](https://az275061.vo.msecnd.net/blogmedia/2013/09/windows81howtokeepwindowssettingspersonalfilesandapps.png)   

@@ -4,7 +4,8 @@ id: 45
 tags:
   - Office
   - Vista
-date: 2007-02-15 22:34:17
+date: 2007-02-15T22:34:17.000Z
+author: Fabian Wetzel
 ---
 
 Nach dem ich mich hier auf dem Blog beschwert hatte, dass es doch ziemlich lange dauert, konnte ich zwei Tage später das Packet von der Post abholen.

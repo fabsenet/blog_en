@@ -5,7 +5,8 @@ tags:
   - Azure
   - SQL Azure
   - SQL Server
-date: 2011-07-14 20:24:03
+date: 2011-07-14T20:24:03.000Z
+author: Fabian Wetzel
 ---
 
 _This is a direct follow-up to my earlier article _[_“Ideas about NoSql on Windows Azure: RavenDB”_](https://fabse.net/blog/2011/07/13/ideas-about-nosql-on-windows-azure-ravendb/)_. You should read it first._

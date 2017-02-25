@@ -4,7 +4,8 @@ id: 414
 tags:
   - Aus dem Leben
   - Büroleben
-date: 2009-09-04 16:10:37
+date: 2009-09-04T16:10:37.000Z
+author: Fabian Wetzel
 ---
 
 Nicht nur, dass ich im 3.OG ohne Aufzug wohne – nein! – wir hatten diese Woche in der Firma zwei mal Feueralarm. Das bedeutet zwei mal aus dem zehnten Stock zu Fuß das Gebäude verlassen.

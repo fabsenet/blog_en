@@ -4,7 +4,8 @@ id: 44
 tags:
   - Blogwelt
   - Office
-date: 2007-02-09 09:59:58
+date: 2007-02-09T09:59:58.000Z
+author: Fabian Wetzel
 ---
 
 Wie tief kann man eigentlich als Fernsehmoderator sinken?

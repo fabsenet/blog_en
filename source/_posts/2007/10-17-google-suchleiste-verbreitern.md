@@ -3,7 +3,8 @@ title: Google Suchleiste verbreitern
 id: 89
 tags:
   - coding
-date: 2007-10-17 10:43:21
+date: 2007-10-17T10:43:21.000Z
+author: Fabian Wetzel
 ---
 
 Nach dem ich jetzt arbeitstechnisch neben Java, JSP und HTML auch mit JavaScript zu tun habe, habe ich zu der L&#xF6;sung auch das passende Problem gefunden ;)

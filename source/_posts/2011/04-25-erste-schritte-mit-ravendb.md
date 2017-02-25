@@ -5,7 +5,8 @@ tags:
   - 'C#'
   - coding
   - RavenDB
-date: 2011-04-25 21:47:00
+date: 2011-04-25T21:47:00.000Z
+author: Fabian Wetzel
 ---
 
 …sind ganz einfach! Runterladen, entpacken und Server starten über Batchdatei. Dann eines der Samples öffnen – bei mir war es SimpleClient.

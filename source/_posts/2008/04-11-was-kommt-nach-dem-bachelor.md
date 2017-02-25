@@ -4,7 +4,8 @@ id: 147
 tags:
   - Studium
   - Träume
-date: 2008-04-11 09:24:52
+date: 2008-04-11T09:24:52.000Z
+author: Fabian Wetzel
 ---
 
 Ich habe zusammen mit meinen Kommilitonen hier aus Bielefeld mal etwas &#252;berlegt, wie es nach dem Bachelor weitergehen k&#246;nnte. Die erste Frage ist, will ich einen Master machen? Wenn ja, wie will ich den Master machen? Eventuell noch wann?

@@ -5,7 +5,8 @@ tags:
   - coding
   - Erfahrungen
   - 'K2 [Blackpearl]'
-date: 2009-05-05 11:10:29
+date: 2009-05-05T11:10:29.000Z
+author: Fabian Wetzel
 ---
 
 Wenn man mit K2 arbeitet, findet man hin und wieder K2-Eigenarten vor. Die folgende hat mich schon den ganzen Tag beschäftigt.

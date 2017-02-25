@@ -6,7 +6,8 @@ tags:
   - Tutorial
   - Video
   - Youtube
-date: 2013-10-07 22:29:00
+date: 2013-10-07T22:29:00.000Z
+author: Fabian Wetzel
 ---
 
 I decided to try to make some video tutorials about software stuff and I created the first three ones already! Apperently, I decided to do them in German, so you may have a hard time to follow them, if you cannot understand German.

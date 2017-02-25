@@ -6,7 +6,8 @@ tags:
   - Certification
   - coding
   - Erfahrungen
-date: 2012-11-15 16:00:52
+date: 2012-11-15T16:00:52.000Z
+author: Fabian Wetzel
 ---
 
 Today, I took my first Microsoft exam ever. My exam topics were HTML5, JavaScript and CSS3 ([exam 70-480](http://www.microsoft.com/learning/en/us/exam.aspx?id=70-480 "Programming in HTML5 with JavaScript and CSS3")).

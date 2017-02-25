@@ -4,7 +4,8 @@ id: 23
 tags:
   - Fun
   - Träume
-date: 2006-11-22 23:34:52
+date: 2006-11-22T23:34:52.000Z
+author: Fabian Wetzel
 ---
 
 Hey ho, wiedermal hab ich Kaffeeflecken auf <span style="text-decoration: line-through;">un</span>wichtige Dokumente gemacht. Jedenfalls guck ich den so an und stelle eine verblüffende Ähnlichkeit mit dem Logo eines sehr bekannten Egoshooters fest.

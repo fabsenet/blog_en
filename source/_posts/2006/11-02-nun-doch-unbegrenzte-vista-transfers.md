@@ -3,7 +3,8 @@ title: Nun doch unbegrenzte Vista Transfers ?!
 id: 10
 tags:
   - Vista
-date: 2006-11-02 23:25:25
+date: 2006-11-02T23:25:25.000Z
+author: Fabian Wetzel
 ---
 
 Wie auf [Windows-Now](http://www.windows-now.com/blogs/robert/archive/2006/11/02/microsoft-listens-vista-eula-changes.aspx) und dem [Windows Vista Blog](http://windowsvistablog.com/blogs/windowsvista/archive/2006/11/02/news-revision-to-windows-vista-retail-licensing-terms.aspx) zu lesen ist, will Microsoft nun doch den unbegrenzten Transfer einer Vista Lizenz erlauben.

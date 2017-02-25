@@ -2,7 +2,7 @@ var recursive = require('recursive-readdir');
 var fs = require('fs');
 // var parser = require('parser-front-matter');
 var matter = require('gray-matter');
-recursive("./source/_posts/2015/", (err, files) => {
+recursive("./source/_posts/", (err, files) => {
     files.forEach(function (file) {
         // console.log(file);
 
@@ -11,22 +11,20 @@ recursive("./source/_posts/2015/", (err, files) => {
                 console.error(err);
                 return;
             }
-
+            console.log("working on " + file);
             var postObject = matter(fileContentBuffer.toString());
 
             //actual modify
-            if(!postObject.Author){
-                postObject.Author = "Fabian Wetzel";
+            if (!postObject.data.author) {
+                postObject.data.author = "Fabian Wetzel";
             }
 
             //write back
             var content = postObject.content;
-            delete postObject.content;
-            var newFileContent = matter.stringify(postObject.content,postObject);
-            console.log(newFileContent);
+            var newFileContent = matter.stringify(postObject.content, postObject.data);
 
-            console.log("\n\n#####################################################\n\n\n");
+            fs.writeFile(file, newFileContent, err =>{if(err) console.error(err)});
         });
 
     }, this);
-})
+});

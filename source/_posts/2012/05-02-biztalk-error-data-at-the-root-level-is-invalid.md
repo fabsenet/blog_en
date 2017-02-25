@@ -4,7 +4,8 @@ id: 668
 tags:
   - BizTalk
   - coding
-date: 2012-05-02 12:35:13
+date: 2012-05-02T12:35:13.000Z
+author: Fabian Wetzel
 ---
 
 **Problem: **My orchestration looks perfectly fine with no error symbols anywhere but whenever I try to build the solution I get:

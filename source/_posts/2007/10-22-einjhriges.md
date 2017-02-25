@@ -3,7 +3,8 @@ title: Einjähriges!
 id: 90
 tags:
   - Blogwelt
-date: 2007-10-22 08:47:17
+date: 2007-10-22T08:47:17.000Z
+author: Fabian Wetzel
 ---
 
 Guten Tag geliebte Leser, ich kann freudig verk&#xFC;nden, dass mein Blog am heutigen Tag seinen ersten Geburtstag feiert!

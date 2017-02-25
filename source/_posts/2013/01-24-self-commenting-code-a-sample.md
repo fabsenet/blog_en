@@ -5,7 +5,8 @@ tags:
   - 'C#'
   - clean code
   - coding
-date: 2013-01-24 01:02:31
+date: 2013-01-24T01:02:31.000Z
+author: Fabian Wetzel
 ---
 
 I stumbled upon a piece of code in a Codeproject article. Tthe download contains 1000s of lines of code and I am not going to link to it here but it is this piece of code I saw:

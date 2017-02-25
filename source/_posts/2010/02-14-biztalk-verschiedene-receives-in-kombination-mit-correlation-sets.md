@@ -5,7 +5,8 @@ tags:
   - BizTalk
   - coding
   - Lösung
-date: 2010-02-14 19:38:38
+date: 2010-02-14T19:38:38.000Z
+author: Fabian Wetzel
 ---
 
 Ausgangslage ist eine Orchestration, die eine Nachricht empfängt und auf Grundlage dieser Nachricht verschiedene Aktionen ausführt. Aus der ersten Nachricht ist auch abzuleiten, ob weitere Nachrichten empfangen werden müssen um die Aufgabe zu leisten.

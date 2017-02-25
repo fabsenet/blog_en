@@ -4,7 +4,8 @@ id: 299
 tags:
   - BDC
   - SharePoint
-date: 2008-12-12 15:24:41
+date: 2008-12-12T15:24:41.000Z
+author: Fabian Wetzel
 ---
 
 I am using [this Virtual PC-Image](http://www.microsoft.com/downloads/details.aspx?familyid=DD939ED9-87A5-4C13-B212-A922CC02B469&amp;displaylang=en) and while changing the view of a BDC list I got the following error:

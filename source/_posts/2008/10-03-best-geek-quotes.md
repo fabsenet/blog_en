@@ -4,7 +4,8 @@ id: 263
 tags:
   - Fun
   - im Netz gefunden
-date: 2008-10-03 14:32:25
+date: 2008-10-03T14:32:25.000Z
+author: Fabian Wetzel
 ---
 
 Hier ne Liste lustiger Kommentare, allerdings auf Englisch!

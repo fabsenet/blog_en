@@ -5,7 +5,8 @@ tags:
   - .net
   - 'C#'
   - coding
-date: 2012-05-22 20:13:46
+date: 2012-05-22T20:13:46.000Z
+author: Fabian Wetzel
 ---
 
 As a really late note to my article [Dependency injection &amp; their Pitfalls](https://fabse.net/blog/2011/09/25/dependency-injection-their-pitfalls/) I want to provide some insights to Spring.Net. The core component is an IoC container and the documentation states:

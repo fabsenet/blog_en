@@ -4,7 +4,8 @@ id: 135
 comment: false
 tags:
   - Googlehack
-date: 2008-03-06 17:20:35
+date: 2008-03-06T17:20:35.000Z
+author: Fabian Wetzel
 ---
 
 Google Suche -&gt; down, Google Reader -&gt; down, Google Mail -&gt; down!

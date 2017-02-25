@@ -7,7 +7,8 @@ tags:
   - Cloud Computing
   - Google AppEngine
   - Web 2.0
-date: 2009-02-23 20:39:19
+date: 2009-02-23T20:39:19.000Z
+author: Fabian Wetzel
 ---
 
 Ich mache ja demnächst selbst einen Vortrag zu Cloud Computing und da hab ich mich schon gefreut, als in meinem ITunes unter /Dev/Radio [ein Podcast zu diesem Thema](http://ulm.ccc.de/dev/radio/detail?id=124) erschien. Nun wollte ich den natürlich direkt hören und hab ihn mir auf dem Heimweg und dann auch zu Hause komplett angehört.

@@ -4,7 +4,8 @@ id: 88
 tags:
   - coding
   - spring
-date: 2007-10-09 17:06:07
+date: 2007-10-09T17:06:07.000Z
+author: Fabian Wetzel
 ---
 
 Ich arbeite ja nun auf der Arbeit an einem Webprojekt mit Spring und Hibernate. Nun konnte ich bisher au&#xDF;er Standard-Java und etwas GUI nicht wirklich viel, war nun aber in der Position, mir das Wissen &#xFC;ber Spring und Hibernate aneignen zu <strike>m&#xFC;ssen</strike> d&#xFC;rfen.

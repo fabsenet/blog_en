@@ -3,7 +3,8 @@ title: 'Ideas about NoSql on Windows Azure: Azure Storage'
 id: 563
 tags:
   - Azure
-date: 2011-08-02 21:47:40
+date: 2011-08-02T21:47:40.000Z
+author: Fabian Wetzel
 ---
 
 _This article is the third and last in my small series about NoSql-Solutions on Windows Azure. You may want to read them in order._

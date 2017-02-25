@@ -3,7 +3,8 @@ title: Vista Verpackungen
 id: 9
 tags:
   - Vista
-date: 2006-10-31 22:39:36
+date: 2006-10-31T22:39:36.000Z
+author: Fabian Wetzel
 ---
 
 Auf [Windows-Now](http://www.windows-now.com/blogs/robert/archive/2006/10/30/Final-Windows-Vista-Packaging-Revealed.aspx "Windows-Now") hab ich gelesen, dass MS die Designs der Vista und Office Packungen bekannt gegeben hat.

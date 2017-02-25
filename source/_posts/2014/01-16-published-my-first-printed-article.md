@@ -7,7 +7,8 @@ tags:
   - Azure
   - Firsts
   - Windows Phone
-date: 2014-01-16 12:56:00
+date: 2014-01-16T12:56:00.000Z
+author: Fabian Wetzel
 ---
 
 I published an article! Cool, isn’t it? You can find it in [web&amp;mobile developer issue 01/14](http://www.webundmobile.de/Aktuelles-Heft/Inhalt-web-mobile-developer-1-2014-10219.html) (german). It was an interesting experience writing this article as I was writing about a subject which I am interested in myself for quite some time.

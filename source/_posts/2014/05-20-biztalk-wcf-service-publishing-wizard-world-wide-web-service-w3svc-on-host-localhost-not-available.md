@@ -8,7 +8,8 @@ tags:
   - BizTalk
   - coding
   - Lösung
-date: 2014-05-20 11:55:56
+date: 2014-05-20T11:55:56.000Z
+author: Fabian Wetzel
 ---
 
 I tried to publish an orchestration using the WCF service publishing wizard and observed the following error:
@@ -18,11 +19,13 @@ I tried to publish an orchestration using the WCF service publishing wizard and 
 And after clicking next I only observed:
 
 ![WcfPublishingWizard_Error2](https://az275061.vo.msecnd.net/blogmedia/2014/05/WcfPublishingWizard_Error2.png "WcfPublishingWizard_Error2")
- > Invalid project location "[http://localhost/VIP.Orchestrations.ContractPositionProcessor"](http://localhost/VIP.Orchestrations.ContractPositionProcessor&quot;).
+
+>Invalid project location 
+>"http://localhost/VIP.Orchestrations.ContractPositionProcessor".
 > 
-> (Microsoft.BizTalk.Adapter.Wcf.Publishing.WebDirectory.WebDirectoryException) World Wide Web service (W3SVC) on host "localhost" not available.
+>(Microsoft.BizTalk.Adapter.Wcf.Publishing.WebDirectory.WebDirectoryException) World Wide Web service (W3SVC) on host "localhost" not available.
 > 
-> **The following Windows component may not be installed: Application Server -&gt; Internet Information Services (IIS) -&gt; Common Files.**
+>**The following Windows component may not be installed: Application Server -&gt; Internet Information Services (IIS) -&gt; Common Files.**
 > 
 > Unknown error (0x80005000)
 > 

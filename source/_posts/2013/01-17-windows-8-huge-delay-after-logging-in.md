@@ -5,7 +5,8 @@ tags:
   - DIY
   - Look Inside
   - Windows 8
-date: 2013-01-17 11:46:23
+date: 2013-01-17T11:46:23.000Z
+author: Fabian Wetzel
 ---
 
 I read Scot Hanselmans blogpost "[The Internet is not a black box. Look inside. ](http://www.hanselman.com/blog/TheInternetIsNotABlackBoxLookInside.aspx)". I remembered the article while waiting like forever today while starting my windows 8 machine. After doing my picture password login, the machine waits like 2 minutes doing nothing and then I get to finally see my desktop. I started googling and there seems to be many root causes for this problem. I tried some, but nothing worked so far.

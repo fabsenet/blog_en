@@ -5,7 +5,8 @@ tags:
   - architecture
   - BizTalk
   - coding
-date: 2012-05-03 17:11:48
+date: 2012-05-03T17:11:48.000Z
+author: Fabian Wetzel
 ---
 
 In a customer project we made the observation that receiving many large IDOCs from a SAP system was really slow. We were using a WCF-Custom receive location and the port had a map. The BizTalk group consists of multiple application servers but it was clear that only one BizTalk server was receiving the IDOCs at a time. Neither the network nor the cpu were significantly used. There had to be something we could do to improve performance.

@@ -7,7 +7,8 @@ tags:
   - DIY
   - IoT
   - Raspberry PI 2
-date: 2015-06-18 19:45:33
+date: 2015-06-18T19:45:33.000Z
+author: Fabian Wetzel
 ---
 
 So I finally came around to play with my raspberry pi 2 a little bit and my first objective was to install Windows 10 IoT core on it. The full [getting started tutorial](https://ms-iot.github.io/content/en-US/win10/SetupRPI.htm) has all the needed steps written.
@@ -26,5 +27,7 @@ Important is to copy the content from the Dism folder directly into folder and n
 [![windows10-iot-raspberry-pi2-flash-folder](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder.png)](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder.png)
 
 At this point I opened a powershell command prompt as an administrator and executed the Dism-command.
-> D:\win10-on-rpi&gt; ./dism.exe /Apply-Image /ImageFile:Flash.ffu /ApplyDrive:\\.\PhysicalDrive7 /SkipPlatformCheck
+```
+D:\win10-on-rpi&gt; ./dism.exe /Apply-Image /ImageFile:Flash.ffu /ApplyDrive:\\.\PhysicalDrive7 /SkipPlatformCheck
+```
 [![windows10-iot-raspberry-pi2-flash-folder-dism-completed](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder-dism-completed.png)](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder-dism-completed.png)

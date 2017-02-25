@@ -4,7 +4,8 @@ id: 1691
 tags:
   - Blogwelt
   - über diese Seite
-date: 2012-08-26 21:21:04
+date: 2012-08-26T21:21:04.000Z
+author: Fabian Wetzel
 ---
 
 From now on, Google is displaying search results of my blog with my picture:

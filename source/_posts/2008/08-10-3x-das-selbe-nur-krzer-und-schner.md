@@ -4,7 +4,8 @@ id: 237
 tags:
   - .net
   - coding
-date: 2008-08-10 14:45:13
+date: 2008-08-10T14:45:13.000Z
+author: Fabian Wetzel
 ---
 
 Ich entdecke neue C#-Features...für die einen sicher ein alter Hut und für die anderen sowieso ein Buch mit 7 Siegeln, aber für mich noch frisch und neu :-)<pre class="csharpcode"><span class="rem">//So hab ich es immer gemacht</span>

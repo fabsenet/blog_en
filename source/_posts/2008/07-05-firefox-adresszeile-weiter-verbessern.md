@@ -4,7 +4,8 @@ id: 176
 tags:
   - Firefox
   - My Setup
-date: 2008-07-05 10:38:59
+date: 2008-07-05T10:38:59.000Z
+author: Fabian Wetzel
 ---
 
 Normalerweise werden ja anhand des eingegebenen Textes in der Adresszeile nur besuchte Links angezeigt. Das ist schon sehr ool, aber es geht noch cooler:

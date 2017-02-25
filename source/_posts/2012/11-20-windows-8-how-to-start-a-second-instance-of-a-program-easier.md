@@ -6,7 +6,8 @@ tags:
   - Erfahrungen
   - im Netz gefunden
   - Windows 8
-date: 2012-11-20 18:25:04
+date: 2012-11-20T18:25:04.000Z
+author: Fabian Wetzel
 ---
 
 I was struggling how to[ start a second instance of a program](https://fabse.net/blog/2012/11/12/windows-8-how-to-start-a-second-instance-of-a-program/ "Windows 8: How to start a second instance of a program") lately. My best shot in my last article was to shift+click in the start menu.

@@ -4,7 +4,8 @@ id: 38
 tags:
   - Allgemein
   - Studium
-date: 2007-01-12 15:51:37
+date: 2007-01-12T15:51:37.000Z
+author: Fabian Wetzel
 ---
 
 Wie ich [unlängst klargestellt](https://fabse.net/blog/2006/11/13/cinebench-auf-arbeit/) habe, war mir mein Rechner auf Arbeit etwas zu langsam. Nun hatte ich das Glück, dass ein besserer PC nicht mehr benötigt wurde, so durfte ich den nun haben.

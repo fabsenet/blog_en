@@ -4,7 +4,8 @@ id: 98
 tags:
   - Blogwelt
   - Stöckchen
-date: 2007-11-11 12:36:18
+date: 2007-11-11T12:36:18.000Z
+author: Fabian Wetzel
 ---
 
 Ich hab so ein St&#xF6;kchen vom [Eike](http://www.oneiric.de/blog/2007/10/18/macs-stckchen/) erhalten und nun soll ich vor euch allen meine Desktops nackig machen. OK!

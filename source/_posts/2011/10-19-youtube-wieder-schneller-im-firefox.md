@@ -3,7 +3,8 @@ title: Youtube wieder schneller im Firefox
 id: 605
 tags:
   - Allgemein
-date: 2011-10-19 20:45:40
+date: 2011-10-19T20:45:40.000Z
+author: Fabian Wetzel
 ---
 
 _While I had decided to write new articles only in English, the following article has a pure German audience so I figured out to make an exception for this article._

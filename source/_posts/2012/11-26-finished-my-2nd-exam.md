@@ -3,7 +3,8 @@ title: Finished my 2nd exam
 id: 1889
 tags:
   - Certification
-date: 2012-11-26 12:00:04
+date: 2012-11-26T12:00:04.000Z
+author: Fabian Wetzel
 ---
 
 ![Developing ASP.NET MVC 4.5 Web Applications](https://az275061.vo.msecnd.net/blogmedia/2012/11/112612_0959_Finishedmy21.png)

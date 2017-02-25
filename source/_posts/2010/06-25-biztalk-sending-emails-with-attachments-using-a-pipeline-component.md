@@ -5,7 +5,8 @@ tags:
   - BizTalk
   - 'C#'
   - coding
-date: 2010-06-25 07:33:02
+date: 2010-06-25T07:33:02.000Z
+author: Fabian Wetzel
 ---
 
 There are [several locations](http://www.tech-archive.net/Archive/BizTalk/microsoft.public.biztalk.general/2006-12/msg00141.html) on the web where you are told how to send emails and also how to send attachments with them as well.

@@ -5,7 +5,8 @@ tags:
   - Azure
   - coding
   - über diese Seite
-date: 2012-06-10 19:42:15
+date: 2012-06-10T19:42:15.000Z
+author: Fabian Wetzel
 ---
 
 In case you missed it, Azure had a big wave of new features and stuff. I suggest you to watch this video: [![image](https://az275061.vo.msecnd.net/blogmedia/2012/06/image87.png "image")](http://www.meetwindowsazure.com/Conversations)

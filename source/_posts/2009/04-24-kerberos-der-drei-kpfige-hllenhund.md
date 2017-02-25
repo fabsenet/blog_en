@@ -6,7 +6,8 @@ tags:
   - Erfahrungen
   - Kerberos
   - Kryptographie
-date: 2009-04-24 15:54:13
+date: 2009-04-24T15:54:13.000Z
+author: Fabian Wetzel
 ---
 
 Will man ein Service Principal Name (SPN) einrichten, dann benötigt man dafür auf jeden Fall einen Domain-Admin-Account. 

@@ -4,7 +4,8 @@ id: 340
 tags:
   - coding
   - Fun
-date: 2009-04-03 18:04:00
+date: 2009-04-03T18:04:00.000Z
+author: Fabian Wetzel
 ---
 
 ich hab den [“Ich, ein DAU”](http://blogs.msdn.com/dparys/archive/2009/04/02/ich-ein-dau.aspx)-Beitrag gelesen und hab eine ähnliche Story:

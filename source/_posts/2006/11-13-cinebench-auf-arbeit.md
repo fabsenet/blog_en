@@ -3,7 +3,8 @@ title: Cinebench auf Arbeit
 id: 18
 tags:
   - Allgemein
-date: 2006-11-13 12:48:15
+date: 2006-11-13T12:48:15.000Z
+author: Fabian Wetzel
 ---
 
 Hier nun noch die Ergebnisse von Cinebench an meinem Arbeitsrechner. Ich denke ein großer Kommentar ist nicht nötig. _Ja, ich muss jeden Tag damit "Arbeiten"!_

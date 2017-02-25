@@ -5,7 +5,8 @@ tags:
   - Azure
   - coding
   - über diese Seite
-date: 2012-06-10 20:33:02
+date: 2012-06-10T20:33:02.000Z
+author: Fabian Wetzel
 ---
 
 While waiting for my Website preview access, I decided to move all pictures and media to the Blob Storage. My idea is to deliver them through the Azure CDN. [This blog post](http://www.wadewegner.com/2011/08/using-windows-azure-blob-storage-and-cdn-with-wordpress/) gives a good overview of the action to take.

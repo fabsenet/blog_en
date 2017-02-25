@@ -5,7 +5,8 @@ tags:
   - AJAX
   - coding
   - Java
-date: 2007-10-26 11:27:52
+date: 2007-10-26T11:27:52.000Z
+author: Fabian Wetzel
 ---
 
 Wie bereits &#xF6;fter schon hier erw&#xE4;hnt, arbeite ich zur Zeit an einer Webanwendung. Nat&#xFC;rlich nutze ich auch AJAX! Allerdings nutze ich zur &#xDC;bergabe nicht XML sondern [JSON](http://json.org/). Ich nutze auf der Serverseite [SOJO](http://sojo.sourceforge.net/) um zwischen Java-Objekten nach JSON hin und her zu konvertieren.

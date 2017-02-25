@@ -4,7 +4,8 @@ id: 76
 tags:
   - Erfahrungen
   - mein Auto
-date: 2007-07-16 19:07:38
+date: 2007-07-16T19:07:38.000Z
+author: Fabian Wetzel
 ---
 
 Bevor ich los lege, will ich kurz ein paar Daten zu meinem Auto angeben, um das ganze in einen gewissen Kontext zu bringen. Es ist ein Audi A4, BJ 95, 170.000 km runter und 74 KW (101 PS) mit 191 km/h Spitze laut Papiere.

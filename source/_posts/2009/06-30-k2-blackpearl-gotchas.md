@@ -5,7 +5,8 @@ tags:
   - coding
   - Erfahrungen
   - 'K2 [Blackpearl]'
-date: 2009-06-30 14:57:24
+date: 2009-06-30T14:57:24.000Z
+author: Fabian Wetzel
 ---
 
 Hier mal einige Erfahrungswerte aus der Entwicklung mit K2 Blackpearl in ungeordneter Reihenfolge:

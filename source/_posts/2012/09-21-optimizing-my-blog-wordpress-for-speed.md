@@ -5,7 +5,8 @@ tags:
   - Azure
   - Performance
   - über diese Seite
-date: 2012-09-21 14:20:55
+date: 2012-09-21T14:20:55.000Z
+author: Fabian Wetzel
 ---
 
 Lately, I have done some major changes regarding the hosting of my blog. All of this started with the intention to get more inside knowledge in Windows Azure. I moved to Azure Websites and then I moved to self-host the blog inside an Azure VM.

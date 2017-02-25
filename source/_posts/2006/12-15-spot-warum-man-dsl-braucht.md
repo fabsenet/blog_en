@@ -3,7 +3,8 @@ title: 'Spot: Warum man DSL braucht!'
 id: 34
 tags:
   - Fun
-date: 2006-12-15 08:50:33
+date: 2006-12-15T08:50:33.000Z
+author: Fabian Wetzel
 ---
 
  > Soll ja Leute geben, die meinen ihnen reicht ein analoger oder ISDN-Anschluss. Denen kann geholfen werden, und das ganz anschaulich, wie dieser Spot eines russischen Telcos zeigt:  <p>[http://www.corbina.tv/slon/](http://www.corbina.tv/slon/) 

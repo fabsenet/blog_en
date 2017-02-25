@@ -5,7 +5,8 @@ tags:
   - iPod
   - Lösung
   - Problem
-date: 2008-07-04 18:13:54
+date: 2008-07-04T18:13:54.000Z
+author: Fabian Wetzel
 ---
 
  Neues Gadget = Neue Probleme = Schlaflose Nächte ... Lösung!

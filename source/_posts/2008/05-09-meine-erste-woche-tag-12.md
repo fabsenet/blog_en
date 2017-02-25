@@ -4,7 +4,8 @@ id: 157
 tags:
   - Auslandspraktikum
   - Büroleben
-date: 2008-05-09 20:31:24
+date: 2008-05-09T20:31:24.000Z
+author: Fabian Wetzel
 ---
 
 Tja was soll ich sagen. Das Team ist sehr nett und freundlich; albert auch gerne mal zwischen durch rum. Mein erster Auftrag war, mit jedem im Team zu sprechen, was so dessen Aufgaben sind. Das war ein sehr guter Einstieg, denn so habe ich gleichermaßen jeden kennen gelernt und auch dessen Verantwortlichkeiten.

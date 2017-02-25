@@ -5,7 +5,8 @@ tags:
   - Mail
   - SQL Server
   - Tutorial
-date: 2011-04-26 10:49:48
+date: 2011-04-26T10:49:48.000Z
+author: Fabian Wetzel
 ---
 
 Man muss an mehr als einer Stelle im Sql Server konfigurieren um eine E-Mail zu erhalten, wenn mal ein Job fehlschlägt und um dies das nächste mal zur Hand zu haben, habe ich die Schritte nachfolgend festgehalten.

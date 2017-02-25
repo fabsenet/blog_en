@@ -4,7 +4,8 @@ id: 251
 tags:
   - im Netz gefunden
   - Vista
-date: 2008-08-27 09:59:20
+date: 2008-08-27T09:59:20.000Z
+author: Fabian Wetzel
 ---
 
 Die Zeitungen schreiben Vista sei schlecht; raten zum Downgraden zu XP uvw. Ich nutze eine ganze Weile schon Vista und bin damit höchst zufrieden. Ich nutze es sowohl auf meinem High-End PC als auch auf einem fast 3 Jahre alten Notebook und kann nur sagen, dass es ziemlich gut ist! Warum die Medien über Vista so schlecht reden, verstehe ich nicht.

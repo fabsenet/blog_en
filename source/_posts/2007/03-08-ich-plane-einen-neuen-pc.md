@@ -3,7 +3,8 @@ title: Ich plane einen neuen PC
 id: 81
 tags:
   - Träume
-date: 2007-03-08 14:23:16
+date: 2007-03-08T14:23:16.000Z
+author: Fabian Wetzel
 ---
 
 Eventuell hol ich mir demnächst einen neuen PC. Da bin ich mir noch nicht 100% sicher, aber für den Ernstfall hab ich mir schon mal ein paar Gedanken gemacht, was denn drin sein soll. Preisziel ist etwa 1100 €.

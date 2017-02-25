@@ -3,7 +3,8 @@ title: Abschied
 id: 467
 tags:
   - mein Auto
-date: 2010-07-25 14:40:08
+date: 2010-07-25T14:40:08.000Z
+author: Fabian Wetzel
 ---
 
 ![b1 ohne nummernschild](https://az275061.vo.msecnd.net/blogmedia/2010/07/b1ohnenummernschild.jpg "b1 ohne nummernschild")

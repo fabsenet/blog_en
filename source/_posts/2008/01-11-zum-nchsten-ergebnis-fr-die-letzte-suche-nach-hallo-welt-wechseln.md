@@ -3,7 +3,8 @@ title: 'Zum nächsten Ergebnis für die letzte Suche nach [Hallo Welt] wechseln'
 id: 116
 tags:
   - Allgemein
-date: 2008-01-11 20:06:58
+date: 2008-01-11T20:06:58.000Z
+author: Fabian Wetzel
 ---
 
 Ich bin das ganze Wochenende allein und mir ist schon Freitagabend so langweilig, dass ich mit meinem Firefox etwas rumspielen musste. Nach dem mein neuer Monitor ein Breitbildgerät ist, war ich mit etwas probieren in der Lage, alle Toolbar-Elemente so anzuordnen, dass sie in eine Zeile passen. Da ist mir jedenfalls zwischen den anderen vorhandenen Elementen aus dem "Anpassen"-Dialog eins aufgefallen. "Nächste &amp; Vorherige" heißt das Element und es sieht so aus:

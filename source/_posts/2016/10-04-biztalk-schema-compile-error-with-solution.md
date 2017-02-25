@@ -5,7 +5,7 @@ comment: false
 tags:
   - BizTalk
   - coding
-date: 2016-10-04 15:50:47
+date: 2016-10-04T15:50:47.000Z
 author: Fabian Wetzel
 ---
 

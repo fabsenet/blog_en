@@ -3,7 +3,8 @@ title: Meine Enschätzung des UN Sicherheitsrates
 id: 241
 tags:
   - Allgemein
-date: 2008-08-10 21:36:37
+date: 2008-08-10T21:36:37.000Z
+author: Fabian Wetzel
 ---
 
 Eventuell basiert der folgende Text auf (gefährlichem) Halbwissen, aber ich habe immer wieder mitbekommen, wenn es so Krisen gibt, wie gerade in Georgien, dann macht der [UN Sicherheitsrat](http://de.wikipedia.org/wiki/Sicherheitsrat_der_Vereinten_Nationen) zwar Notstandssitzungen, entschieden hat er aber noch nie was?!

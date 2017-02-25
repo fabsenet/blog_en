@@ -4,7 +4,8 @@ id: 331
 tags:
   - Erfahrungen
   - VDSL
-date: 2009-02-25 22:16:05
+date: 2009-02-25T22:16:05.000Z
+author: Fabian Wetzel
 ---
 
 Bei Speedtestseiten ist immer alles in bester Ordnung ([Speed.io](http://Speed.io) und [wieistmeineip.de](http://wieistmeineip.de)):

@@ -4,10 +4,11 @@ id: 2061
 comment: false
 tags:
   - Allgemein
-date: 2014-03-04 13:41:05
+date: 2014-03-04T13:41:05.000Z
+author: Fabian Wetzel
 ---
 
-If you are writing your own BizTalk Functoid you have to provide information about your Ressources used to describe your functoid name, details and icon. For this task, you have to call the SetupResourceAssembly function in your functoid constructor. Okay, but what are the correct parameter values? The [MSDN article](http://msdn.microsoft.com/en-us/library/microsoft.biztalk.basefunctoids.basefunctoid.setupresourceassembly(v=bts.80).aspx) is not only not good but plain wrong.
+If you are writing your own BizTalk Functoid you have to provide information about your Ressources used to describe your functoid name, details and icon. For this task, you have to call the SetupResourceAssembly function in your functoid constructor. Okay, but what are the correct parameter values? The [MSDN article](https://msdn.microsoft.com/en-us/library/microsoft.biztalk.basefunctoids.basefunctoid.setupresourceassembly.aspx) is not only not good but plain wrong.
 
 ![](https://az275061.vo.msecnd.net/blogmedia/2014/03/030414_1242_CorrectPara1.png)
 

@@ -5,7 +5,8 @@ tags:
   - coding
   - Erfahrungen
   - 'K2 [Blackpearl]'
-date: 2009-07-02 10:26:10
+date: 2009-07-02T10:26:10.000Z
+author: Fabian Wetzel
 ---
 
 Nach dem ich ja vor kurzem einige [schlechte Details des Produkts](https://fabse.net/blog/2009/06/30/k2-blackpearl-gotchas/) hervorgehoben habe, muss ich auch mal ein Lob aussprechen.

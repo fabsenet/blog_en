@@ -3,7 +3,8 @@ title: Bedingungen bei Generics
 id: 51
 tags:
   - .net
-date: 2006-11-21 18:07:33
+date: 2006-11-21T18:07:33.000Z
+author: Fabian Wetzel
 ---
 
 Also ich hab da so eine generische Methode:

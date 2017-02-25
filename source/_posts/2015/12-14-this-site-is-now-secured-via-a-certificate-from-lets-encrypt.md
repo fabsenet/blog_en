@@ -6,7 +6,8 @@ tags:
   - im Netz gefunden
   - My Setup
   - über diese Seite
-date: 2015-12-14 15:47:12
+date: 2015-12-14T15:47:12.000Z
+author: Fabian Wetzel
 ---
 
 I was selected for the closed beta program of Lets Encrypt and actually was able to issue a certificate for fabse.net before they went to the open beta. It just worked with a 3rd party windows client.

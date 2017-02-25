@@ -7,7 +7,8 @@ tags:
   - caching
   - coding
   - lessons learned
-date: 2012-02-23 17:22:02
+date: 2012-02-23T17:22:02.000Z
+author: Fabian Wetzel
 ---
 
 I had the opportunity to use Windows Server AppFabric Caching in a project which is successful running in production for some time now. I was able to collect some knowledge around using AppFabric Caching in development and in production.

@@ -4,7 +4,8 @@ id: 2098
 comment: false
 tags:
   - Allgemein
-date: 2014-10-17 11:23:15
+date: 2014-10-17T11:23:15.000Z
+author: Fabian Wetzel
 ---
 
 You did not read much from me here for the last months, did you? I was coding a simulator for Network Creation Games and I was writing my master thesis about it as well. Now it’s done. Mostly.

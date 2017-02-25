@@ -3,7 +3,8 @@ title: Digitales Portfolio
 id: 56
 tags:
   - Studium
-date: 2007-04-05 10:21:41
+date: 2007-04-05T10:21:41.000Z
+author: Fabian Wetzel
 ---
 
 Wir sollen ja im Rahmen unseres Studienbegleitprogramms nicht nur verschiedene Dokumente (MicroAbstracts und Anwenderberichte)&nbsp;verfassen, sondern am Ende des Studiums soll auch ein digitales Portfolie entstehen.

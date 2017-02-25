@@ -5,7 +5,8 @@ tags:
   - .net
   - Büroleben
   - Erfahrungen
-date: 2009-06-22 10:28:43
+date: 2009-06-22T10:28:43.000Z
+author: Fabian Wetzel
 ---
 
 Ich hatte in einer Nachricht mal folgende Frage bekommen und will die eigentlich für mich tiefergreifend beantworten. Hier erst einmal die Frage:

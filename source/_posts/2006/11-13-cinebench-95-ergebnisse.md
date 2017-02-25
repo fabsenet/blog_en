@@ -3,7 +3,8 @@ title: Cinebench 9.5 Ergebnisse
 id: 17
 tags:
   - Allgemein
-date: 2006-11-13 01:41:16
+date: 2006-11-13T01:41:16.000Z
+author: Fabian Wetzel
 ---
 
 Ich habe mal meine Rechner mit Cinebench getestet. Folgendes erwartetes Ergebnis trat ein:

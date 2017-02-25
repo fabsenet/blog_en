@@ -4,7 +4,8 @@ id: 131
 tags:
   - Träume
   - Vista
-date: 2007-11-27 11:47:04
+date: 2007-11-27T11:47:04.000Z
+author: Fabian Wetzel
 ---
 
 Ich stelle immer wieder fest, dass ich gerne ein Energiemanagement in Vista sehen w&#xFC;rde, was die Situation erkennt und dann danach handelt.

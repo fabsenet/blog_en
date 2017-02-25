@@ -5,7 +5,8 @@ tags:
   - Büroleben
   - 'C#'
   - im Netz gefunden
-date: 2011-01-30 17:03:07
+date: 2011-01-30T17:03:07.000Z
+author: Fabian Wetzel
 ---
 
 Im Projekt war aufgefallen, dass eine Komponente, die Key/Value Werte aus Nachrichten extrahiert, die Paare doppel extrahiert, wenn sie denn doppelt in der Nachricht sind und letztlich wurden die Paare dann auch mehrfach zu einer Nachricht in der Datenbank hinterlegt. Mangels Mehrwert war nun die Idee, die Doppelten zu löschen. Vor dem Abspeichern in LINQ ein Distinct aufgerufen zusammen mit einer Standardimplementierung von IEqualityComparer und gut war.

@@ -4,7 +4,8 @@ id: 386
 tags:
   - Angebot des Tages
   - mein Auto
-date: 2009-06-29 19:08:59
+date: 2009-06-29T19:08:59.000Z
+author: Fabian Wetzel
 ---
 
 Heute mal was ganz anderes!

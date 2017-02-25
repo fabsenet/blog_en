@@ -5,7 +5,8 @@ tags:
   - .net
   - 'C#'
   - coding
-date: 2011-10-25 19:11:56
+date: 2011-10-25T19:11:56.000Z
+author: Fabian Wetzel
 ---
 
 While I was eating dinner, I had this somehow suprising question in my mind: How is String.GetHashCode() implemented? Is it fast?

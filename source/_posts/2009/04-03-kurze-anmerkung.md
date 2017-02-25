@@ -3,7 +3,8 @@ title: Kurze Anmerkung
 id: 339
 tags:
   - mein Auto
-date: 2009-04-03 17:56:32
+date: 2009-04-03T17:56:32.000Z
+author: Fabian Wetzel
 ---
 
 Zeit, in der ich eine Klimaanlage im Auto NICHT vermisse:

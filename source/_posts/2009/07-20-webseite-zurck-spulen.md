@@ -3,7 +3,8 @@ title: Webseite zurück spulen?
 id: 390
 tags:
   - Usability
-date: 2009-07-20 07:13:42
+date: 2009-07-20T07:13:42.000Z
+author: Fabian Wetzel
 ---
 
 Ich hab schon oft an mir selber beobachtet, dass ich nach dem Lesen einer langen Webseite diese zuerst wieder ganz nach oben scrolle bevor ich entweder irgendeinen Link anklicke oder den Tab schließe. Eigentlich ist das Hochscrollen ja überflüssig, aber ich mach’s trotzdem.

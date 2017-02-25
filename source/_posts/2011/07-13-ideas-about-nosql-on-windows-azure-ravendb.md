@@ -5,7 +5,8 @@ tags:
   - Azure
   - NoSql
   - RavenDB
-date: 2011-07-13 18:43:08
+date: 2011-07-13T18:43:08.000Z
+author: Fabian Wetzel
 ---
 
 I have a really great idea for a software product and I want to implement it as a software as a service. I am not going to tell more about the actual idea for now. Instead I want to focus this post on deciding the way how I will implement the storage.

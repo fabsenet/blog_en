@@ -5,7 +5,8 @@ tags:
   - .net
   - coding
   - gelesen
-date: 2012-11-20 11:23:36
+date: 2012-11-20T11:23:36.000Z
+author: Fabian Wetzel
 ---
 
 I read much. I read so much, I have no time to actually finish any book. I analyzed the pile of books next to my bed and noticed a dozen books! I managed to read all of them until the  half or so.

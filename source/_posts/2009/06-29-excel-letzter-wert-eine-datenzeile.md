@@ -5,7 +5,8 @@ tags:
   - Excel
   - im Netz gefunden
   - Office
-date: 2009-06-29 08:37:11
+date: 2009-06-29T08:37:11.000Z
+author: Fabian Wetzel
 ---
 
 Ich schreibe immer wieder Werte untereinander in einer Excel-Tabelle und interessiere mich für den letzten gesetzten Wert dieser Zeile. So geht’s:

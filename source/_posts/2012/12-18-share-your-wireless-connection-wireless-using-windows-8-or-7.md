@@ -5,7 +5,8 @@ tags:
   - im Netz gefunden
   - Notebook
   - Windows 8
-date: 2012-12-18 00:00:35
+date: 2012-12-18T00:00:35.000Z
+author: Fabian Wetzel
 ---
 
 So I think everyone knows how to connect his notebook to the next router to get online. That is of course the easy part.

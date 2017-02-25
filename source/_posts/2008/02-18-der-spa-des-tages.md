@@ -4,7 +4,8 @@ id: 134
 tags:
   - Büroleben
   - Fun
-date: 2008-02-18 09:04:24
+date: 2008-02-18T09:04:24.000Z
+author: Fabian Wetzel
 ---
 
 Ja es war noch nicht mal um 9, da hatte ich schon den Spa&#223; meines Tages erlebt! Also das Parkhaus unserer Firma ist normalerweise durch eine Schranke gegen unbefugten Zugriff gesichert. Man zieht eine Codekarte durch ein Leseger&#228;t und die Schranke geht auf. &#196;hnlich wie bei &#246;ffentlichen Parkh&#228;usern, nur ohne zahlen.

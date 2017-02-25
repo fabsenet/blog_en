@@ -5,7 +5,8 @@ tags:
   - Allgemein
   - Büroleben
   - im Netz gefunden
-date: 2008-05-07 21:16:00
+date: 2008-05-07T21:16:00.000Z
+author: Fabian Wetzel
 ---
 
 Wer will, kann mich bereits seit einiger Zeit zu seinen Kontakten bei [XING](https://www.xing.com/profile/Fabian_Wetzel2) hinzufügen!

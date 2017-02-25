@@ -3,7 +3,8 @@ title: Alchemy Framework
 id: 16
 tags:
   - .net
-date: 2006-11-12 22:38:09
+date: 2006-11-12T22:38:09.000Z
+author: Fabian Wetzel
 ---
 
 > [Alchemi](http://www.alchemi.net/index.html) is an open source software framework that allows you to painlessly aggregate the computing power of networked machines into a virtual supercomputer (desktop grid) and to develop applications to run on the grid. 

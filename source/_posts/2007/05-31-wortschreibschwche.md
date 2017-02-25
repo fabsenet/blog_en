@@ -3,7 +3,8 @@ title: Wortschreibschwäche
 id: 65
 tags:
   - Fun
-date: 2007-05-31 14:25:43
+date: 2007-05-31T14:25:43.000Z
+author: Fabian Wetzel
 ---
 
 ![IMAGE_074](https://az275061.vo.msecnd.net/blogmedia/2007/05/fachhandel.jpg) Ja und dann war ich da vor kurzem auf so einem kleinen lustigen Dorffest.

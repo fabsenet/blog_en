@@ -5,7 +5,8 @@ tags:
   - coding
   - Erfahrungen
   - XML
-date: 2009-03-01 10:49:25
+date: 2009-03-01T10:49:25.000Z
+author: Fabian Wetzel
 ---
 
 Bei einem Erfahrungsaustausch in der Firma kam die Frage auf, ob die Reihenfolge von gleichen XML-Elementen implizites Wissen darstellt oder ob es nach der XML-Definition erlaubt wäre, diese Elemente zu vertauschen.

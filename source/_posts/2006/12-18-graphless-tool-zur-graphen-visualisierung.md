@@ -5,7 +5,8 @@ tags:
   - .net
   - Allgemein
   - Studium
-date: 2006-12-18 18:52:29
+date: 2006-12-18T18:52:29.000Z
+author: Fabian Wetzel
 ---
 
 Ich habe wegen Dima Lust bekommen, mal so ein Tool zu schreiben. Es Fehlen noch verschiedene Funktionen wie speichern und Laden oder z.B. das generieren von vollständigen oder bipartiten Graphen, aber die Grundfunktionalität ist schon drin.

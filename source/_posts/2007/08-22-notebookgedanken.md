@@ -3,7 +3,8 @@ title: Notebookgedanken
 id: 78
 tags:
   - Allgemein
-date: 2007-08-22 08:53:28
+date: 2007-08-22T08:53:28.000Z
+author: Fabian Wetzel
 ---
 
 Wir haben ja von der Firma für die Zeit des Studiums ein Acer Tablet PC erhalten. Persönlich mag ich es nicht. Es ist schwer, billig verarbeitet, der Akku hält nur noch maximal 2 Stunden und ursprünglich war mit 512 MB zu wenig Ram drin. Ich hab den RAM aufgerüstet und Vista aus dem MSDNAA drauf installiert, jetzt geht es schon einigermaßen, allerdings funktioniert der Ruhezustand regelmäßig nicht, was zu einem hartem Ausschalten meinerseits führt. Ich denke Acer werde ich wohl nie wieder kaufen... obwohl ich von einem Arbeitskollegen gehört habe, dass sein Acer ganz toll sein soll. Wir haben von diesen Travelmates jedenfalls einen Klassensatz (rund 30 Stück) und jedes, was ich gesehen habe, ist einfach nur schlecht. Ich bin also kein Einzelfall!

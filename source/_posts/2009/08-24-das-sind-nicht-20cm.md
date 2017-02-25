@@ -3,7 +3,8 @@ title: Das sind nicht 20cm!
 id: 409
 tags:
   - Aus dem Leben
-date: 2009-08-24 10:05:23
+date: 2009-08-24T10:05:23.000Z
+author: Fabian Wetzel
 ---
 
 Heute morgen war ich beim Friseur und ich bestellte, wie schon seit vielen Jahren den selben Schnitt. “Rund rum 12mm, oben 20, Bitte!” Nur heute lief es anders. Meint doch die Friseurin, dass bei 20mm (Sie sprach übrigens immer von 20cm) gar nichts abkommen würde. Hab ich ihr erklärt, dass meine Haare dann in den letzten 4 Wochen nicht gewachsen sein könnten. Interessanterweise zeigte sie mir die Aufsätze der Schermaschine und dass sie da gar keinen hat für 20mm, aber genau diese Frisur hatte ich auch in diesem Friseurladen schon einmal bekommen, ohne Diskussion, allerdings von einer anderen Friseurin.

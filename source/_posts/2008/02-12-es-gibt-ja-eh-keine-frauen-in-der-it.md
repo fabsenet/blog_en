@@ -4,7 +4,8 @@ id: 133
 tags:
   - Büroleben
   - Fun
-date: 2008-02-12 14:40:43
+date: 2008-02-12T14:40:43.000Z
+author: Fabian Wetzel
 ---
 
 Das soll auch so bleiben! Wo sollen denn sonst unsere Server hin? (Bitte Achtung, hier ist Ironie am Werk!)

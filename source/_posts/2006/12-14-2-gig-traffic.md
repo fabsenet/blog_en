@@ -3,7 +3,8 @@ title: 2 Gig Traffic
 id: 33
 tags:
   - Allgemein
-date: 2006-12-14 10:56:05
+date: 2006-12-14T10:56:05.000Z
+author: Fabian Wetzel
 ---
 
 Zur Zeit bin ich ja im Wohnheim meiner Freundin und mache dort Urlaub (nur von der Arbeit, nicht vom Studium). Jedenfalls gibt es hier Internet aus Wand (RJ45-Buchse). Der Haken ist aber ein Traffic-Limit von nur 2 GB. Danach wird man auf Modemgeschwindigkeit gedrosselt. Ich bin seit gut 10 Tagen hier und gestern hatten wir gut 1,3 Gig. Dabei lade ich schon gar nichts mehr runter. Ich mach schon fast nix mehr, nur noch Mail und ganz normales Surfen.

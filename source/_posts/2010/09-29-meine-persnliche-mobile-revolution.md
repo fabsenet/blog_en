@@ -4,7 +4,8 @@ id: 481
 tags:
   - Aus dem Leben
   - Erfahrungen
-date: 2010-09-29 19:02:17
+date: 2010-09-29T19:02:17.000Z
+author: Fabian Wetzel
 ---
 
 Ich bin seit kurzem in den Besitz eines neuen Telefons gekommen. Es handelt sich um ein [Samsung Galaxy S](http://www.amazon.de/gp/product/B003NCX6ZS?ie=UTF8&amp;tag=fabsenetfabse-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B003NCX6ZS), welches mein nun fast 2 Jahre altes T-Mobile G1 abgelöst hat. Und ich hole noch etwas weiter aus: Davor hatte ich einen T-Mobile MDA Vario 3.

@@ -3,7 +3,8 @@ title: Vista Shortcut gesucht!
 id: 74
 tags:
   - Vista
-date: 2007-06-18 11:01:41
+date: 2007-06-18T11:01:41.000Z
+author: Fabian Wetzel
 ---
 
 Hi, wer von euch Vista nutzt, kennt folgendes Verhalten: Startmenü mit der Windows-Taste öffnen, z.B. "Rechner" eintippen, sofort Enter klicken und der Rechner startet.

@@ -6,7 +6,8 @@ tags:
   - coding
   - Coding Guideline
   - Workflow Foundation
-date: 2013-05-10 10:39:31
+date: 2013-05-10T10:39:31.000Z
+author: Fabian Wetzel
 ---
 
 In object oriented design you have a class and instances of that class. The Workflow Foundation gives you the ability to produce your own activities through deriving from CodeActivity or CodeActivity&lt;T&gt;. So you have to produce a class.

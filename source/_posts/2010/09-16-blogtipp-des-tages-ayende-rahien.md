@@ -7,7 +7,8 @@ tags:
   - 'C#'
   - coding
   - im Netz gefunden
-date: 2010-09-16 07:37:11
+date: 2010-09-16T07:37:11.000Z
+author: Fabian Wetzel
 ---
 
 Er postet viel anspruchsvolle Gedanken und Probleme im täglichen .Net Code-Alltag mit speziellem Fokus auf Datenbanken, Persistenz, NHibernate und seinen NHibernateProfiler…

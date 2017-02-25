@@ -7,7 +7,8 @@ tags:
   - Backup
   - DIY
   - home improvement
-date: 2015-06-09 21:25:18
+date: 2015-06-09T21:25:18.000Z
+author: Fabian Wetzel
 ---
 
 My desktop PC at home is utilizing a 256GB SSD as its system drive for quite some time now and I enjoyed it. I measured the speed of it using HD Tune:![SAMSUNG_SSD_830_Series](https://az275061.vo.msecnd.net/blogmedia/2015/06/SAMSUNG_SSD_830_Series.png)

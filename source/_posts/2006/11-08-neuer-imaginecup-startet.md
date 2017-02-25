@@ -3,7 +3,8 @@ title: Neuer ImagineCup startet...
 id: 14
 tags:
   - Allgemein
-date: 2006-11-08 20:39:26
+date: 2006-11-08T20:39:26.000Z
+author: Fabian Wetzel
 ---
 
 und ich bin am überlegen, ob, und wenn ja wie, ich teilnehme!

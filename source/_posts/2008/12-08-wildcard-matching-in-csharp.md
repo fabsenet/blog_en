@@ -3,7 +3,8 @@ title: 'Wildcard-Matching in C#'
 id: 290
 tags:
   - Allgemein
-date: 2008-12-08 16:56:50
+date: 2008-12-08T16:56:50.000Z
+author: Fabian Wetzel
 ---
 
 Hat mir gerade sehr geholfen und an sich ist es ja ein sehr generischer Codeschnipsel, von daher viel Spaß damit:

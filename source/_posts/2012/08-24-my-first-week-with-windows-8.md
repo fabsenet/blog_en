@@ -4,7 +4,8 @@ id: 1621
 tags:
   - Erfahrungen
   - Windows 8
-date: 2012-08-24 00:44:17
+date: 2012-08-24T00:44:17.000Z
+author: Fabian Wetzel
 ---
 
 A week ago I noticed that Windows 8 was released together with Visual Studio 2012\. I used the opportunity to not only upgrade my OS but also the hard drive it was installed on. So I bought a new Samsung 830 SSD with 256GB and upgraded *everything*.

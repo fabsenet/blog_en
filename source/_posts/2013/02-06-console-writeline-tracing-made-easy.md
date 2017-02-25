@@ -5,7 +5,8 @@ tags:
   - coding
   - debugging
   - json
-date: 2013-02-06 10:20:08
+date: 2013-02-06T10:20:08.000Z
+author: Fabian Wetzel
 ---
 
 Consider you are having a complicated object and you want to write some attributes of it to your test-only command line program. For this article it might just be a person:

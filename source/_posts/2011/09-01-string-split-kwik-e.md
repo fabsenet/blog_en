@@ -5,7 +5,8 @@ tags:
   - 'C#'
   - coding
   - Kwik-e
-date: 2011-09-01 10:23:30
+date: 2011-09-01T10:23:30.000Z
+author: Fabian Wetzel
 ---
 
 While I was cleaning up some legacy code I found an overly complex usage of String.Split() in several places:

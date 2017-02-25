@@ -6,7 +6,8 @@ tags:
   - DIY
   - My Setup
   - Raid
-date: 2013-10-28 11:30:30
+date: 2013-10-28T11:30:30.000Z
+author: Fabian Wetzel
 ---
 
 I was investing in a [Synology DS214](http://www.amazon.de/gp/product/B00FWX3UNE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00FWX3UNE&amp;linkCode=as2&amp;tag=fabsenetfabse-21) lately and put all my valuable data there in a Synology Hybrid Raid and configured a cloud backup for this, so my Raid 5 on my desktop PC was free of stuff and I started to use it to store uncompressed video. While you may noticed my video tutorials, I also do randomly “lets plays” or “watch me play” of whatever game there is. Which is Starcraft 2 most of the time.
@@ -37,4 +38,4 @@ So even considering sequential reads, the SSD is clearly outperforming all of my
 
 So I think, I did the best to increase performance for my use case without buying new stuff.
 
-But remember to think about data safety, if you do this your own! On Raid 5, one drive can fail and all your data are still there. On Raid 0, all your data are gone when (not if!) the first drive fails.
+But remember to think about data safety, if you do this on your hardware! On Raid 5, one drive can fail and all your data are still there. On Raid 0, all your data are gone when (not if!) the first drive fails.

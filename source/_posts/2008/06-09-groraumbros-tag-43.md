@@ -3,7 +3,8 @@ title: Großraumbüros! (Tag 43)
 id: 163
 tags:
   - Büroleben
-date: 2008-06-09 18:14:31
+date: 2008-06-09T18:14:31.000Z
+author: Fabian Wetzel
 ---
 
 Ich bin ja auch in einem Großraumbüro, aber wesentlich großräumiger wie auf dem Video:

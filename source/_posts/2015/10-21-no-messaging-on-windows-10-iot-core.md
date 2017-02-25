@@ -4,7 +4,8 @@ id: 2170
 comment: false
 tags:
   - Allgemein
-date: 2015-10-21 00:46:05
+date: 2015-10-21T00:46:05.000Z
+author: Fabian Wetzel
 ---
 
 I am working on a distributed application to allow me insights and control of the devices in the house. I want to see, when PCs are on and I want to control some lights. So I have some rather different messaging patterns.

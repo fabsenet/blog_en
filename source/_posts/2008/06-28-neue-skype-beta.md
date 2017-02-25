@@ -3,7 +3,8 @@ title: Neue Skype Beta
 id: 168
 tags:
   - Allgemein
-date: 2008-06-28 10:26:10
+date: 2008-06-28T10:26:10.000Z
+author: Fabian Wetzel
 ---
 
 Hallo Zusammen, ich habe vor kurzem mal die Skype 4 Beta ausgetestet und muss leider sagen, dass sie das Design umgekrempelt haben und es mir überhaupt nicht gefällt. Ich habe direkt wieder die aktuelle 3er Version installiert. Ich hoffe die erkennen noch, das dieses Design nicht so toll ist, wie sie denken, bevor sie die Version 4 releasen.

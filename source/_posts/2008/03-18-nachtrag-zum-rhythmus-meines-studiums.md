@@ -4,7 +4,8 @@ id: 138
 tags:
   - Fun
   - Studium
-date: 2008-03-18 13:21:38
+date: 2008-03-18T13:21:38.000Z
+author: Fabian Wetzel
 ---
 
 Ich bin der Hund und der Ball ist das Studium ;)

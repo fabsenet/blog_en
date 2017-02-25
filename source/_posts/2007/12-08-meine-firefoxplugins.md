@@ -5,7 +5,8 @@ tags:
   - Erfahrungen
   - Firefox
   - My Setup
-date: 2007-12-08 20:54:18
+date: 2007-12-08T20:54:18.000Z
+author: Fabian Wetzel
 ---
 
 Dieses Wochenende ist so langweilig, da dachte ich mir, ich erzähle euch mal, was ich alles an Firefox-Plugins installiert habe. Vielleicht kann der ein oder andere hier noch ein schönes abgreifen!

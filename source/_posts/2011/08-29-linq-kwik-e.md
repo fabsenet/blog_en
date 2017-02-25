@@ -6,7 +6,8 @@ tags:
   - coding
   - Kwik-e
   - Linq
-date: 2011-08-29 22:19:46
+date: 2011-08-29T22:19:46.000Z
+author: Fabian Wetzel
 ---
 
 Really often I use the Linq extension methods to formulate a query to reduce a set of data to a single value. Most of the time I refer to the First() method for this use case.

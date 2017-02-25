@@ -5,7 +5,8 @@ tags:
   - Azure
   - DIY
   - über diese Seite
-date: 2012-09-12 21:02:39
+date: 2012-09-12T21:02:39.000Z
+author: Fabian Wetzel
 ---
 
 The final part is actually leaving Azure Websites :-(

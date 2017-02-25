@@ -3,7 +3,8 @@ title: Endlich Mitglied im elitären Club!
 id: 436
 tags:
   - Erfahrungen
-date: 2010-01-28 20:16:10
+date: 2010-01-28T20:16:10.000Z
+author: Fabian Wetzel
 ---
 
 Jetzt habe ich auch eine goldene Karte im Portemonnaie!

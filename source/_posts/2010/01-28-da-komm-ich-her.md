@@ -4,7 +4,8 @@ id: 434
 tags:
   - Fun
   - im Netz gefunden
-date: 2010-01-28 19:54:41
+date: 2010-01-28T19:54:41.000Z
+author: Fabian Wetzel
 ---
 
 …und stolz drauf!

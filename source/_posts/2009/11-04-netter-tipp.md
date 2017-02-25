@@ -5,7 +5,8 @@ tags:
   - Büroleben
   - coding
   - Erfahrungen
-date: 2009-11-04 21:31:47
+date: 2009-11-04T21:31:47.000Z
+author: Fabian Wetzel
 ---
 
 [![image](https://az275061.vo.msecnd.net/blogmedia/2009/11/image_thumb.png "image")](https://az275061.vo.msecnd.net/blogmedia/2009/11/image31.png) 

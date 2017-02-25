@@ -3,7 +3,8 @@ title: Fahrzeitenrekord
 id: 64
 tags:
   - Erfahrungen
-date: 2007-05-31 14:15:23
+date: 2007-05-31T14:15:23.000Z
+author: Fabian Wetzel
 ---
 
 Ich habe meine sämtlichen alten Rekorde gebrochen. Nichts konnte mich daran hindern, extrem kurze 8 Stunden zu benötigen für die Strecke Bielefeld - Hamburg (248km).

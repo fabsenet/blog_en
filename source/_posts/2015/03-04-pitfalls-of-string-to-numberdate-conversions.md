@@ -6,7 +6,8 @@ tags:
   - .net
   - 'C#'
   - Coding Guideline
-date: 2015-03-04 10:30:16
+date: 2015-03-04T10:30:16.000Z
+author: Fabian Wetzel
 ---
 
 Having a string and converting it to a Number is easy, isn’t it?
@@ -23,6 +24,7 @@ So what should you do instead? .Net has a good implementation of Cultures so it 
 
 So all you are left to decide is which Culture should be used, because the default is derived from the actual user context and will therefor be different for every user/region. In the case of the Console.WriteLine this might be fine, because you may want to show the number to the user in the way he is used to read numbers but the Convert.ToDouble use-case is different. You have to decide the culture to use based on the origin of the value and in my example it is a constant value in the program but it could come from a file or a web service or whatever _or from user input_.
 
-To make my example work the same for every user, I am using the invariant culture:![Convert.ToDouble with invariant culture](https://az275061.vo.msecnd.net/blogmedia/2015/03/convert_todouble_invariant_culture.png "Convert.ToDouble with invariant culture")
+To make my example work the same for every user, I am using the invariant culture:
+![Convert.ToDouble with invariant culture](https://az275061.vo.msecnd.net/blogmedia/2015/03/convert_todouble_invariant_culture.png "Convert.ToDouble with invariant culture")
 
 The invariant culture is sort of a baseline culture and it is mostly equal to the English culture. As a last bonus, here are some ways to create cultures:[![Some ways to get CultureInfo - Instances](https://az275061.vo.msecnd.net/blogmedia/2015/03/some_cultures_thumb.png "Some ways to get CultureInfo - Instances")](https://az275061.vo.msecnd.net/blogmedia/2015/03/some_cultures.png)

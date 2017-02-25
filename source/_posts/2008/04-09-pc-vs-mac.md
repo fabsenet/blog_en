@@ -3,7 +3,8 @@ title: PC vs. Mac
 id: 145
 tags:
   - Fun
-date: 2008-04-09 08:41:00
+date: 2008-04-09T08:41:00.000Z
+author: Fabian Wetzel
 ---
 
 Also das Video finde ich mal gut gemacht. Bitte unbedingt zu Ende gucken, es hat eine nette Wendung :-)

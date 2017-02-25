@@ -4,7 +4,8 @@ id: 13
 tags:
   - Allgemein
   - Fun
-date: 2006-11-06 19:41:19
+date: 2006-11-06T19:41:19.000Z
+author: Fabian Wetzel
 ---
 
 ![](https://az275061.vo.msecnd.net/blogmedia/2006/11/IMAGE_054111.jpg)Nachdem ich meine Uhr im Auto auf Winterzeit umgestellt hatte, hab ich wenig später feststellen müssen, dass wohl eine Lampe im Tacho ausgefallen ist. Auch mehrere sanfte Schläge haben leider nicht zum Ziel geführt.

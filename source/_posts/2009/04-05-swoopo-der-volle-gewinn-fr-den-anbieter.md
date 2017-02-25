@@ -5,7 +5,8 @@ tags:
   - Erfahrungen
   - im Netz gefunden
   - Web 2.0
-date: 2009-04-05 09:52:08
+date: 2009-04-05T09:52:08.000Z
+author: Fabian Wetzel
 ---
 
 ![image](https://az275061.vo.msecnd.net/blogmedia/2009/04/image18.png "image") 

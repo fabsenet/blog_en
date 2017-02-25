@@ -3,7 +3,8 @@ title: 3 Wii-Spiele für die Hälfte
 id: 72
 tags:
   - Allgemein
-date: 2007-06-15 13:39:45
+date: 2007-06-15T13:39:45.000Z
+author: Fabian Wetzel
 ---
 
 Über mein Arrangement mit Amazon bin ich an einen kleinen Gutschein gekommen, mit dem die folgenden 3 Titel für die Hälfte zu bekommen sind:

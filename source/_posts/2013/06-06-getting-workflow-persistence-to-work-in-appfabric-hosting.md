@@ -5,7 +5,8 @@ tags:
   - Coding Guideline
   - Look Inside
   - Workflow Foundation
-date: 2013-06-06 15:16:22
+date: 2013-06-06T15:16:22.000Z
+author: Fabian Wetzel
 ---
 
 We were using Windows Workflow Foundation 4 in a customer project and we tried to host them on Windows Server AppFabric Hosting. The hosting basically worked, but there was always the pain of persistence. Consider a simple Hello World workflow as a sample (File, New, WCF Workflow Service):

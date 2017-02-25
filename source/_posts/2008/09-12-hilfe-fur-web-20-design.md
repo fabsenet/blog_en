@@ -4,7 +4,8 @@ id: 256
 tags:
   - im Netz gefunden
   - Web 2.0
-date: 2008-09-12 11:59:29
+date: 2008-09-12T11:59:29.000Z
+author: Fabian Wetzel
 ---
 
 Wie es scheint, muss ich demnächst auch mal wieder ran und eine kleine Webseite erstellen. Ich will natürlich dem aktuellen Trend folgen und eine schicke Web 2.0 Webseite erstellen und dafür hab ich mir einige Ressourcen gesucht, die mir dabei helfen werden:

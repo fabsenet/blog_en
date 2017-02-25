@@ -6,7 +6,8 @@ tags:
   - Büroleben
   - Erfahrungen
   - Firefox
-date: 2011-04-24 12:18:59
+date: 2011-04-24T12:18:59.000Z
+author: Fabian Wetzel
 ---
 
 Oder einfach und klasse? Ein Desktop-PC zuhause, ein PC auf der Arbeit (genau genommen sogar 2) und jetzt auch noch ein Handy mit Firefox drauf haben mich dazu veranlasst, mir Firefox Sync mal anzusehen.

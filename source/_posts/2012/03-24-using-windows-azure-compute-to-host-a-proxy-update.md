@@ -4,7 +4,8 @@ id: 654
 tags:
   - Azure
   - DIY
-date: 2012-03-24 12:42:33
+date: 2012-03-24T12:42:33.000Z
+author: Fabian Wetzel
 ---
 
 If you have admin access, you can disable the Windows Firewall with just with this small command:

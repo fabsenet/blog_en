@@ -5,7 +5,8 @@ tags:
   - Aus dem Leben
   - DIY
   - My Setup
-date: 2012-03-18 15:41:24
+date: 2012-03-18T15:41:24.000Z
+author: Fabian Wetzel
 ---
 
 &#160;

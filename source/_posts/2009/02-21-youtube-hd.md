@@ -4,7 +4,8 @@ id: 323
 tags:
   - Erfahrungen
   - im Netz gefunden
-date: 2009-02-21 20:27:43
+date: 2009-02-21T20:27:43.000Z
+author: Fabian Wetzel
 ---
 
 Also jetzt mal ehrlich, YouTube nennt es zwar HD, es scheint mir aber keins zu sein! Im Vergleich zum Fernsehen ist es vielleicht normales SD aber ganz sicher kein HD.

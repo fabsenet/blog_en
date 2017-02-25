@@ -6,7 +6,8 @@ tags:
   - Cloud Computing
   - coding
   - DIY
-date: 2012-06-19 00:51:05
+date: 2012-06-19T00:51:05.000Z
+author: Fabian Wetzel
 ---
 
 Looks like it is done! ![Open-mouthed smile](https://az275061.vo.msecnd.net/blogmedia/2012/06/wlEmoticon-openmouthedsmile.png) Setting up a new Windows Azure Website is very easy. I selected an additional MySQL database und seconds later I could setup a deployment account. I could have copied everything over ftp from the last hosting provider and export+import the database and I would be done within minutes.

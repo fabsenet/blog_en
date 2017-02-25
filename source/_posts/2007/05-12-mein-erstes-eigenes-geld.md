@@ -3,7 +3,8 @@ title: Mein erstes eigenes Geld!
 id: 62
 tags:
   - Fun
-date: 2007-05-12 22:38:13
+date: 2007-05-12T22:38:13.000Z
+author: Fabian Wetzel
 ---
 
 So nach dem ich ja seit einigen Wochen nun meine Wäsche selber wasche war es heute so weit. Ich habe zum ersten mal Geld gefunden! 20 Cent! Schade nur, dass es wohl mein eigenes ist, denn ich hab ja nur meine Wäsche gewaschen.

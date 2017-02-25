@@ -3,7 +3,8 @@ title: Bild zu Runderneuerung
 id: 312
 tags:
   - Büroleben
-date: 2009-01-11 22:18:40
+date: 2009-01-11T22:18:40.000Z
+author: Fabian Wetzel
 ---
 
  Ich war da wohl im letzten Eintrag ein Bild schuldig geblieben...

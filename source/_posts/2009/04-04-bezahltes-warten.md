@@ -5,7 +5,8 @@ tags:
   - coding
   - Erfahrungen
   - Usability
-date: 2009-04-04 11:24:35
+date: 2009-04-04T11:24:35.000Z
+author: Fabian Wetzel
 ---
 
 Ich war die letzten Wochen in einem Entwicklungsprojekt bei einem Kunden vor Ort. Die Organisationsrichtlinien sahen eine Entwicklung auf den Kunden PCs vor.

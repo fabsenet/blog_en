@@ -5,7 +5,8 @@ tags:
   - coding
   - Kwik-e
   - SQL Server
-date: 2013-01-28 20:18:35
+date: 2013-01-28T20:18:35.000Z
+author: Fabian Wetzel
 ---
 
 It happened in a development database some time ago: I had more than one row with exactly the same values in any column including the ID column. I noticed the ID column (int) had no identity specification and changing that failed because of the duplicates.

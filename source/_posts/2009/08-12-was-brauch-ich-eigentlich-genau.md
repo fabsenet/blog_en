@@ -4,7 +4,8 @@ id: 408
 tags:
   - Erfahrungen
   - Usability
-date: 2009-08-12 13:18:05
+date: 2009-08-12T13:18:05.000Z
+author: Fabian Wetzel
 ---
 
 Mir fallen 1000 und ein Sprüche dazu ein, aber ich lass mal die Bilder einfach für sich wirken…

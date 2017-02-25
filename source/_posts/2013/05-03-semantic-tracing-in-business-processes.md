@@ -6,7 +6,8 @@ tags:
   - 'C#'
   - clean code
   - coding
-date: 2013-05-03 10:32:38
+date: 2013-05-03T10:32:38.000Z
+author: Fabian Wetzel
 ---
 
 I am biased about tracing. On the one hand, you definitely need to have insights in your running processes especially if things are going bad in terms of exceptions, timeouts or just wrong data. On the other hand, it is often a huge mess of tracing data. Probably, the information is in there but you just cannot find it.

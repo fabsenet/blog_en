@@ -4,7 +4,8 @@ id: 153
 tags:
   - Auslandspraktikum
   - Erfahrungen
-date: 2008-05-01 17:47:37
+date: 2008-05-01T17:47:37.000Z
+author: Fabian Wetzel
 ---
 
 Also ich glaube ich fange jeden Eintrag mit "Also" an. Das sollte ich mir abgewöhnen. Jedenfalls gibt es hier auch "Deal Or No Deal" und "The Weakest Link" ... bei uns hieß es glaub ich "Der Schwächste fliegt" und wurde schon vor ewigen Zeiten wieder abgesetzt. Eine Gerichtssendung habe ich auch schon gesehen.

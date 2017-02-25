@@ -6,7 +6,8 @@ tags:
   - coding
   - dependency injection
   - Prism
-date: 2011-09-25 18:32:56
+date: 2011-09-25T18:32:56.000Z
+author: Fabian Wetzel
 ---
 
 After I had my dependency injection set up and running, I noticed a shift in my way of developing. I started to be more focused on only one class and their implementation at a time. If I felt the need for another service instance, I just added it to the constructor and would go on coding. I thought that the dependency injection container would take care of how to create the new service for me.

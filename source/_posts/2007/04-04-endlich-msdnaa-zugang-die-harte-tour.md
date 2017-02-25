@@ -4,7 +4,8 @@ id: 55
 tags:
   - Erfahrungen
   - Studium
-date: 2007-04-04 23:30:16
+date: 2007-04-04T23:30:16.000Z
+author: Fabian Wetzel
 ---
 
 Ich denke es ist mittlerweile ein gutes halbes Jahr her, als ich wieder mal unmotiviert das Internet durchgelesen habe (morgens halb Zehn in Deutschland - Kaffee und Google Reader ;-) ). Jedenfalls bin ich spontan über das MSDNAA Programm von Microsoft gestolpert. Es handelt sich dabei um eine Kooperation zwischen MS und Hochschulen, die es Studenten in Informatikstudiengängen ermöglichen soll,&nbsp;Zugang zu MS Software zu erhalten. 

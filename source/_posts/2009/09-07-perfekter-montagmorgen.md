@@ -4,7 +4,8 @@ id: 415
 tags:
   - Büroleben
   - Fun
-date: 2009-09-07 09:27:10
+date: 2009-09-07T09:27:10.000Z
+author: Fabian Wetzel
 ---
 
 Auf dem Weg zur Arbeit heute morgen war gleich das erste Lied irgendwas mit “Welcome to the Weekend” … toll!

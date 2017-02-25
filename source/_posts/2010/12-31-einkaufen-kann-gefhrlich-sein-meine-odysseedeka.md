@@ -3,7 +3,8 @@ title: Einkaufen kann gefährlich sein! Meine Odysseedeka…
 id: 497
 tags:
   - Aus dem Leben
-date: 2010-12-31 12:25:03
+date: 2010-12-31T12:25:03.000Z
+author: Fabian Wetzel
 ---
 
 Also dieser Artikel ist gewissermaßen ein Ausreißer. Er handelt nicht von BizTalk, nicht von .Net und auch irgendwie so gar nicht von meinen sonstigen Affinitäten. Jede Hausfrau wird hier zur Abwechslung nichts lernen können ![Winking smile](https://az275061.vo.msecnd.net/blogmedia/2010/12/wlEmoticon-winkingsmile.png)

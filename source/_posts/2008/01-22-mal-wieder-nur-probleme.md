@@ -4,7 +4,8 @@ id: 120
 tags:
   - coding
   - MySQL
-date: 2008-01-22 09:48:00
+date: 2008-01-22T09:48:00.000Z
+author: Fabian Wetzel
 ---
 
 Wie es halt immer so l&#228;uft, hat man mehr Probleme als L&#246;sungen zur Hand. Ich hab da in einer MySQL Datenbank so eine Tabelle mit Benutzernamen und Passw&#246;rtern. Jetzt soll der Admin die M&#246;glichkeit haben, Benutzer und Passw&#246;rter &#228;ndern zu k&#246;nnen. Funktioniert auch bisher einigerma&#223;en. Folgendes Problem tritt dabei auf: Stellen wir uns 2 Nutzer vor (A und B) und der Admin m&#246;chte deren Namen nun austauschen, dann kann er das tun im Webinterface, aber beim Commit streikt MySQL. Problem ist mein Unique-Constraint auf der Namensspalte. MySQL m&#246;chte den Constraint unbedingt nach jeder Aktion pr&#252;fen. Meine Daten sind aber nur zum Beginn der Transaktion konsistent und am Ende wieder, dazwischen aber nicht notwendiger Weise!

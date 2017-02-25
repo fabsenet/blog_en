@@ -5,7 +5,8 @@ tags:
   - Azure
   - 'C#'
   - coding
-date: 2012-06-22 17:52:17
+date: 2012-06-22T17:52:17.000Z
+author: Fabian Wetzel
 ---
 
 You may want to look there:

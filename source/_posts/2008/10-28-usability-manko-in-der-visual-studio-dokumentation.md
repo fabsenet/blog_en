@@ -4,7 +4,8 @@ id: 275
 tags:
   - Usability
   - Visual Studio
-date: 2008-10-28 14:23:50
+date: 2008-10-28T14:23:50.000Z
+author: Fabian Wetzel
 ---
 
 Jedes mal aufs Neue ärgere ich mich über die fehlende Usability in der Visual Studio Dokumentation und auch beim MSDN. Öffnet man eine Klasse, kann man wählen, in welcher Sprache der Source angezeigt werden soll:

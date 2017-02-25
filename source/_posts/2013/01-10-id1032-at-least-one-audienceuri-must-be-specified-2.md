@@ -5,7 +5,8 @@ tags:
   - Federation
   - WCF
   - WIF
-date: 2013-01-10 11:57:04
+date: 2013-01-10T11:57:04.000Z
+author: Fabian Wetzel
 ---
 
 **Problem:** <p>ID1032: At least one 'audienceUri' must be specified in the SamlSecurityTokenRequirement when the AudienceUriMode is set to 'Always' or 'BearerKeyOnly'. Either add the valid URI values to the AudienceUris property of SamlSecurityTokenRequirement, or turn off checking by specifying an AudienceUriMode of 'Never' on the SamlSecurityTokenRequirement. <p>**Context:** <p>I have an active STS implemented which can happily issue tokens but throws the quoted exception in case of issuing ActAs-tokens. <p>**Solution:** <p>I had to add the AudienceUris section to the ActAs handler section:

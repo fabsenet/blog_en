@@ -4,7 +4,8 @@ id: 515
 tags:
   - Firefox
   - im Netz gefunden
-date: 2011-04-25 19:34:18
+date: 2011-04-25T19:34:18.000Z
+author: Fabian Wetzel
 ---
 
 Wenn es bei mir so viele Tabs werden, dass in einem Fenster die Tabs “scrollbar” werden, verliere ich immer die Übersicht. Ich versuche dann Tabs zu schließen. Aber gerade wenn man mehr als eine Sache recherchiert, ist das nicht ohne weiteres möglich.

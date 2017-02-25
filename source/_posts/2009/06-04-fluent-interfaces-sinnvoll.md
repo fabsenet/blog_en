@@ -4,7 +4,8 @@ id: 360
 tags:
   - 'C#'
   - coding
-date: 2009-06-04 16:31:41
+date: 2009-06-04T16:31:41.000Z
+author: Fabian Wetzel
 ---
 
 Ich hatte Fluent Interfaces mal in einem Blog gelesen und hatte es seit dem auf meinem Zettel stehen, das mal genauer anzusehen.

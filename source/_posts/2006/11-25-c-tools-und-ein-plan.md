@@ -3,7 +3,8 @@ title: 'C# Tools und ein Plan'
 id: 27
 tags:
   - .net
-date: 2006-11-25 00:33:21
+date: 2006-11-25T00:33:21.000Z
+author: Fabian Wetzel
 ---
 
 Angefangen hat es damit, dass ich mir Gedanken gemacht habe, wie man auf eine formatierte Art und Weise die ein oder andere Quellcodezeile in den Blog einfügen könnte.

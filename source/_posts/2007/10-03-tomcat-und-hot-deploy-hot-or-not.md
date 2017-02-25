@@ -5,7 +5,8 @@ tags:
   - coding
   - spring
   - Tomcat
-date: 2007-10-03 16:18:59
+date: 2007-10-03T16:18:59.000Z
+author: Fabian Wetzel
 ---
 
 Seit dieser Woche bin ich dabei, mir Spring und Hibernate auf der Arbeit anzulernen. Ich hab ein kleines Tutorial gefunden, was die ganze Sache an einem Beispiel erkl&#xE4;rt. Naja nun gibt es hier und da einige Fallstricke, denn es ist unteranderem f&#xFC;r den Tomcat 5.5 ausgelegt, ich habe aber den 6.0.

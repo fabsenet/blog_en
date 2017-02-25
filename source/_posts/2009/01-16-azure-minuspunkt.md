@@ -5,7 +5,8 @@ tags:
   - Azure
   - Vista
   - Visual Studio
-date: 2009-01-16 16:14:07
+date: 2009-01-16T16:14:07.000Z
+author: Fabian Wetzel
 ---
 
 Und der Minuspunkt des Tages geht an das [Azure SDK](http://www.microsoft.com/downloads/details.aspx?FamilyID=80e3eabf-0507-4560-aeb6-d31e9a70a0a6&amp;displaylang=en) bzw. die [Azure Tools für Visual Studio](http://www.microsoft.com/downloads/details.aspx?familyid=8E90B639-1EF0-4E21-BB73-FC22662911BC&amp;displaylang=en) wegen unzulässig einschränkender Systemanforderungen:

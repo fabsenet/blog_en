@@ -4,7 +4,8 @@ id: 315
 tags:
   - 'K2 [Blackpearl]'
   - SharePoint
-date: 2009-01-14 11:56:34
+date: 2009-01-14T11:56:34.000Z
+author: Fabian Wetzel
 ---
 
 In case you have the complete infrastructure up and running you could create the following workflow in 2 hours or maybe less … depending heavily on your system performance. In my case the complete infrastructure and development environment is running inside a Virtual PC image – I consider this as “low end”.

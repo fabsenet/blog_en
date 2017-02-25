@@ -5,7 +5,8 @@ tags:
   - AJAX
   - Büroleben
   - coding
-date: 2008-08-13 23:53:23
+date: 2008-08-13T23:53:23.000Z
+author: Fabian Wetzel
 ---
 
 Ich hab eine Webseite erstellt, die JSON-kodierte Daten nimmt und sie in einer Tabellenform darstellt. Die ganze Entwicklung erfolgte (natürlich) auf dem Firefox und jetzt wollte ich mal schauen, wie der IE sich schlägt: Es kommt gar nichts...auch kein Javascript-Fehler!

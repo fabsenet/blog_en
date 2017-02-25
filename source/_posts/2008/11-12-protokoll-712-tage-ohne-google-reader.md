@@ -5,7 +5,8 @@ tags:
   - Allgemein
   - Blogwelt
   - Erfahrungen
-date: 2008-11-12 10:05:17
+date: 2008-11-12T10:05:17.000Z
+author: Fabian Wetzel
 ---
 
 Hier nun das Protokoll über meine Erfahrungen:

@@ -7,7 +7,8 @@ tags:
   - Truecrypt
   - Usability
   - Vista
-date: 2008-10-27 11:11:58
+date: 2008-10-27T11:11:58.000Z
+author: Fabian Wetzel
 ---
 
 In direkten Gesprächen mit verschiedenen Menschen - technikversiert oder nicht - ist mir aufgefallen, dass viele Menschen ihre Sicherheit nicht so ernst nehmen, wie sie sollten. Ich möchte meinen Beitrag dazu machen und stelle mein Setup vor:

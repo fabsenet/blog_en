@@ -4,7 +4,8 @@ id: 488
 tags:
   - Büroleben
   - Kommunikation
-date: 2010-11-01 16:55:25
+date: 2010-11-01T16:55:25.000Z
+author: Fabian Wetzel
 ---
 
 Wie erreicht man sein Ziel? Mit Wichtigkeit auf Hoch setzen? Mit Großbuchstaben? Mit rotem, fettem Text? Heute habe ich ein kleines Experiment gemacht – erfolgreich!

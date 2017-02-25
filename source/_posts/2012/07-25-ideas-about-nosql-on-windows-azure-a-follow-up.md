@@ -5,7 +5,8 @@ tags:
   - Azure
   - coding
   - RavenDB
-date: 2012-07-25 23:32:52
+date: 2012-07-25T23:32:52.000Z
+author: Fabian Wetzel
 ---
 
 Some time ago I was analyzing my possibilities to use NoSQL databases in Windows Azure. My choices where [RavenDB](https://fabse.net/blog/2011/07/13/ideas-about-nosql-on-windows-azure-ravendb/), [Sql Database](https://fabse.net/blog/2011/07/14/ideas-about-nosql-on-windows-azure-sql-azure/) (formerly known as Sql Azure) and [Azure Storage](https://fabse.net/blog/2011/08/02/ideas-about-nosql-on-windows-azure-azure-storage/).

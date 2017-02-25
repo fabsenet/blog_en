@@ -3,7 +3,8 @@ title: Meine Vista Erfahrungen in 3 Schritten
 id: 111
 tags:
   - Vista
-date: 2007-08-30 09:31:11
+date: 2007-08-30T09:31:11.000Z
+author: Fabian Wetzel
 ---
 
 Ich habe ebend eine [Zusammenfassung von Kommentaren](http://www.microsoft-watch.com/content/vista/dont_have_a_wow_man.html) auf Microsoft-Watch gelesen und möchte euch in diesem Zusammenhang auch gerne meine Erfahrungen erzählen.

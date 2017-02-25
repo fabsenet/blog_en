@@ -6,7 +6,8 @@ tags:
   - Auslandspraktikum
   - Erfahrungen
   - Studium
-date: 2008-04-29 18:10:05
+date: 2008-04-29T18:10:05.000Z
+author: Fabian Wetzel
 ---
 
 Es hat sich viel getan. Ich versuche es mal kurz zusammen zu fassen: Die Wohnung in Bielefeld ist Geschichte und ich habe mein Auslandspraktikum in UK begonnen. Also technisch gesehen beginnt es erst n&#228;chsten Dienstag, aber ich bin schon hier.

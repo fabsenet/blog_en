@@ -5,7 +5,8 @@ tags:
   - Erfahrungen
   - Office
   - Usability
-date: 2008-12-22 18:21:29
+date: 2008-12-22T18:21:29.000Z
+author: Fabian Wetzel
 ---
 
 Ja! Man kann natürlich argumentieren, dass man unnötig viele Daten von sich preis gibt und das man zum gläsernen Nutzer wird usw.

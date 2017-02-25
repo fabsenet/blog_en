@@ -4,7 +4,8 @@ id: 648
 tags:
   - Azure
   - Sunday Project
-date: 2012-03-19 01:20:21
+date: 2012-03-19T01:20:21.000Z
+author: Fabian Wetzel
 ---
 
 If you are following my blog for some time or you hear me talking in person, you know that my ISP (or only my specific internet connection) is fast, but I just am not able to watch youtube without waiting forever. I was playing around with some proxies in the past and the new task for this Sunday is to prepare a Windows Azure app hosting a proxy server for me. This blogpost does not point out the shortest way to do it but the steps I took to solve my task.

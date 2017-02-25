@@ -5,7 +5,8 @@ tags:
   - Blogwelt
   - coding
   - Visual Studio
-date: 2012-01-20 23:06:34
+date: 2012-01-20T23:06:34.000Z
+author: Fabian Wetzel
 ---
 
 Finally, you can take a look at my achievements in Visual Studio as well!

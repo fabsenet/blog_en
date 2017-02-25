@@ -4,7 +4,8 @@ id: 47
 tags:
   - Erfahrungen
   - Vista
-date: 2007-02-16 17:55:23
+date: 2007-02-16T17:55:23.000Z
+author: Fabian Wetzel
 ---
 
 Nach einer Neuinstallation hab ich nun Vista Ultimate installiert. Installation war sehr schön und schnell. Naja und dann geht es aber los, wenn man ein paar Treiber installieren will. In der Systemsteuerung findet man ja nichts wieder!

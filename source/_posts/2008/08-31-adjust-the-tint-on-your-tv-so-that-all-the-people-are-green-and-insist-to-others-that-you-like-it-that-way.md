@@ -6,7 +6,8 @@ id: 255
 tags:
   - Fun
   - im Netz gefunden
-date: 2008-08-31 20:30:59
+date: 2008-08-31T20:30:59.000Z
+author: Fabian Wetzel
 ---
 
 [HOW TO TICK PEOPLE OFF](http://artlung.com/smorgasborg/how_to_tick_people_off.shtml)

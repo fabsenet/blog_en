@@ -5,7 +5,8 @@ tags:
   - 'C#'
   - coding
   - Linq
-date: 2012-04-07 10:34:35
+date: 2012-04-07T10:34:35.000Z
+author: Fabian Wetzel
 ---
 
 Imagine you are writing a SQL select statement to read all products from your database ordered by **category** and then by **name**, it would look like:

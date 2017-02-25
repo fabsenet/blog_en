@@ -3,7 +3,8 @@ title: Cebit-Tickets (günstig)
 id: 53
 tags:
   - Erfahrungen
-date: 2007-03-14 10:46:44
+date: 2007-03-14T10:46:44.000Z
+author: Fabian Wetzel
 ---
 
 Auch dieses Jahr fahre ich wieder mit 3 Kommilitonen zur Cebit. Etwa letzte Woche wollten wir die Karten im Vorverkauf holen, als wir feststellten, dass dies nur mit Kreditkarte geht. Da haben wir das abgeschrieben und die 5€ Zuschlag für die Tageskasse billigend in Kauf genommen. (Vorverkauf 33€, Tageskasse 38€).

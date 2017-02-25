@@ -3,7 +3,8 @@ title: Google-Cache hat mich (fast) gerettet
 id: 99
 tags:
   - Googlehack
-date: 2007-11-13 08:56:45
+date: 2007-11-13T08:56:45.000Z
+author: Fabian Wetzel
 ---
 
 Ich hab hier ein Problem auf der Arbeit und wie immer nutze ich Google zum finden der L&#xF6;sung. [Folgende Seite](http://www.experts-exchange.com/Programming/Languages/Java/Q_21292207.html) habe ich dabei gefunden. Es ist nicht meine Problemstellung, aber ge&#xE4;rgert hat es mich trotzdem:

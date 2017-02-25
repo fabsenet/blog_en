@@ -5,7 +5,8 @@ tags:
   - 'C#'
   - coding
   - WCF
-date: 2012-12-21 12:54:29
+date: 2012-12-21T12:54:29.000Z
+author: Fabian Wetzel
 ---
 
 If you want to trace WCF to better understand what is going on, you open your app.config or web.config on the service side and add the following xml to it:

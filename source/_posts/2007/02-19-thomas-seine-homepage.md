@@ -3,7 +3,8 @@ title: Thomas seine Homepage
 id: 48
 tags:
   - Fun
-date: 2007-02-19 10:55:34
+date: 2007-02-19T10:55:34.000Z
+author: Fabian Wetzel
 ---
 
 [http://thomas.hat-gar-keine-homepage.de/](http://thomas.hat-gar-keine-homepage.de/ "http://thomas.hat-gar-keine-homepage.de/")

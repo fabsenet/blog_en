@@ -3,7 +3,8 @@ title: Weitere Google-Hacks
 id: 100
 tags:
   - Googlehack
-date: 2007-11-13 09:03:03
+date: 2007-11-13T09:03:03.000Z
+author: Fabian Wetzel
 ---
 
 Wo ich schon mal eine Googlehack-Kategorie angelegt habe, es soll ja einige geben, die folgen Funktionien von Google noch nicht kennen:

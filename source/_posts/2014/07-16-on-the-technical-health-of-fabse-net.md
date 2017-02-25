@@ -6,7 +6,8 @@ tags:
   - About This Page
   - Availability
   - Azure
-date: 2014-07-16 08:33:20
+date: 2014-07-16T08:33:20.000Z
+author: Fabian Wetzel
 ---
 
 As some of you noticed, my blog was not available for about a day. There were actually two unrelated issues in a row affecting the availability of my blog.

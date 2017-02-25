@@ -3,7 +3,8 @@ title: Hopfield Simulation auf Codeplex
 id: 480
 tags:
   - Allgemein
-date: 2010-09-17 11:42:03
+date: 2010-09-17T11:42:03.000Z
+author: Fabian Wetzel
 ---
 
 Während ich das Skript für neuronale Netze so durcharbeite, hat es mich gepackt und ich habe ein [Hopfieldnetz](http://hopfieldsimulation.codeplex.com/ "Hopfield Simulation auf Codeplex") mal richtig implementiert, um zu sehen, ob es wirklich tut. Und das alle was davon haben, habe ich es einfach mal auf Codeplex unter der MIT Lizenz zur Verfügung gestellt.

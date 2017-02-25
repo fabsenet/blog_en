@@ -3,7 +3,8 @@ title: Heute haben die Forentrolle einen guten Tag!
 id: 396
 tags:
   - im Netz gefunden
-date: 2009-07-28 13:37:12
+date: 2009-07-28T13:37:12.000Z
+author: Fabian Wetzel
 ---
 
 Golem berichtet von einem [USB-Hub mit 49 Ports](http://www.golem.de/0907/68566.html)!

@@ -3,7 +3,8 @@ title: Fernsehen ist schlecht – hier der Beweis!
 id: 397
 tags:
   - im Netz gefunden
-date: 2009-08-02 13:46:59
+date: 2009-08-02T13:46:59.000Z
+author: Fabian Wetzel
 ---
 
 Na zum Glück hab ich früher viel mit Lego gespielt ;-)

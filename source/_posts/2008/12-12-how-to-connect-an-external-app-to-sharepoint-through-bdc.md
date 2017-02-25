@@ -4,7 +4,8 @@ id: 298
 tags:
   - BDC
   - SharePoint
-date: 2008-12-12 15:16:52
+date: 2008-12-12T15:16:52.000Z
+author: Fabian Wetzel
 ---
 
 This blogpost aims at giving you a short overview of the basic steps needed to connect an external system (via webservice or sql database) to a SharePoint-Server.

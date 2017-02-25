@@ -3,7 +3,8 @@ title: “woman drivers”
 id: 325
 tags:
   - Fun
-date: 2009-02-22 12:26:20
+date: 2009-02-22T12:26:20.000Z
+author: Fabian Wetzel
 ---
 
 Ich hab das Video per Mail erhalten und musste so lachen, da dachte ich, ich kann es auch mit euch teilen…

@@ -5,7 +5,8 @@ tags:
   - Azure
   - coding
   - ysod
-date: 2012-08-31 10:40:19
+date: 2012-08-31T10:40:19.000Z
+author: Fabian Wetzel
 ---
 
 ![normal_webrequest_raven](https://az275061.vo.msecnd.net/blogmedia/2012/08/normal_webrequest_raven.png "normal_webrequest_raven")

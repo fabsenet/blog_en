@@ -7,7 +7,8 @@ tags:
   - Erfahrungen
   - Studium
   - Web 2.0
-date: 2008-11-03 09:40:03
+date: 2008-11-03T09:40:03.000Z
+author: Fabian Wetzel
 ---
 
 In genau 8 Tagen muss ich meine Bachelorarbeit abgeben und da ich zwar gerne aber auch viel Google Reader lese, habe ich mich nun dazu entschieden, einen harten Entzug zu machen!

@@ -5,7 +5,8 @@ tags:
   - .net
   - 'C#'
   - coding
-date: 2009-07-27 09:59:34
+date: 2009-07-27T09:59:34.000Z
+author: Fabian Wetzel
 ---
 
 [![image](https://az275061.vo.msecnd.net/blogmedia/2009/07/image-thumb9.png "image")](https://az275061.vo.msecnd.net/blogmedia/2009/07/image24.png) 
