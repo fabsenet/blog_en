@@ -8,6 +8,7 @@ tags:
   - Coding Guideline
 date: 2015-03-04T10:30:16.000Z
 author: Fabian Wetzel
+subtitle: Having a string and converting it to a Number is easy, isn’t it?
 ---
 
 Having a string and converting it to a Number is easy, isn’t it?

@@ -1,7 +1,6 @@
 ---
 title: Impressum
-id: 130
-date: 2008-02-07 08:44:21
+author: Fabian Wetzel
 ---
 
 ![Inhaltlich verantwortlich: Fabian Wetzel](https://az275061.vo.msecnd.net/blogmedia/pages/impressum.png)

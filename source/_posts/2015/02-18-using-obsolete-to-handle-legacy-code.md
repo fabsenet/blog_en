@@ -9,6 +9,7 @@ tags:
   - Coding Guideline
 date: 2015-02-18T10:32:51.000Z
 author: Fabian Wetzel
+subtitle: I frequently use the ObsoleteAttribute in legacy, spread-out codebases and I want to tell you how and why.
 ---
 
 I frequently use the ObsoleteAttribute in legacy, spread-out codebases and I want to tell you how and why. But at first, what is the ObsoleteAttribute ([MSDN](https://msdn.microsoft.com/en-us/library/system.obsoleteattribute(v=vs.110).aspx "ObsoleteAttribute on MSDN"))?

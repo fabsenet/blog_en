@@ -8,6 +8,7 @@ tags:
   - Windfows 10
 date: 2015-09-09T09:27:53.000Z
 author: Fabian Wetzel
+subtitle: Did you know PowerShell is case-sensitive? I did not know this until recently.
 ---
 
 Did you know PowerShell is case-sensitive? I did not know this until recently. Together with a file system which is not case sensitive, this does not make much sense to me:

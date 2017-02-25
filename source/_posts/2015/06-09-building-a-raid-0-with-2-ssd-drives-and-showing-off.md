@@ -9,6 +9,7 @@ tags:
   - home improvement
 date: 2015-06-09T21:25:18.000Z
 author: Fabian Wetzel
+subtitle: What is it like to build and use a Raid 0 of SSD drives?
 ---
 
 My desktop PC at home is utilizing a 256GB SSD as its system drive for quite some time now and I enjoyed it. I measured the speed of it using HD Tune:![SAMSUNG_SSD_830_Series](https://az275061.vo.msecnd.net/blogmedia/2015/06/SAMSUNG_SSD_830_Series.png)

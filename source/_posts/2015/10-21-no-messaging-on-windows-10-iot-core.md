@@ -6,6 +6,7 @@ tags:
   - Allgemein
 date: 2015-10-21T00:46:05.000Z
 author: Fabian Wetzel
+subtitle: I am working on a distributed application to allow me insights and control of the devices in the house.
 ---
 
 I am working on a distributed application to allow me insights and control of the devices in the house. I want to see, when PCs are on and I want to control some lights. So I have some rather different messaging patterns.
