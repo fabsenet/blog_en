@@ -47,3 +47,4 @@ Client:
 ![](https://az275061.vo.msecnd.net/blogmedia/2012/12/120312_0939_ODataislike5.png)
 
 Working with OData is easy and fun :-)
+

@@ -12,3 +12,4 @@ Es handelt sich um einen Vortrag (englisch) von einem Mitarbeiter vom MIT zum Th
 [24c3-2329-en-change_me-COMPATIBLE.mp4](http://dewy.fem.tu-ilmenau.de/CCC/24C3/mp4/24c3-2329-en-change_me-COMPATIBLE.mp4 "24c3-2329-en-change_me-COMPATIBLE.mp4")
 
 Hinweis: Nach 2 oder 3 Minuten geht's erst los!
+

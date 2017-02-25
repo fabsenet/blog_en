@@ -10,3 +10,4 @@ author: Fabian Wetzel
 ![](https://az275061.vo.msecnd.net/blogmedia/2007/04/Fehler_IE.jpg)
 
 [Browser meines Vertrauens.](http://www.mozilla-europe.org/de/ "Firefox")
+

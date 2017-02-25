@@ -26,3 +26,4 @@ Mein neuer Desktoprechner. Ich hab das Vista Ultimate übernommen. Musste es nat
 Allgemein kann ich sagen, dass ich besonders die Suchleiste im Startmenü liebe...ich nutze fast nichts anderes mehr.
 
 Ich bin zufrieden mit Vista und werde nicht wieder zu XP wechseln. Klar ist, dass man sich hier und da etwas umgewöhnen muss, aber wenn man dafür bereit ist, dann hat man auch sein WOW ;)
+

@@ -6,7 +6,12 @@ tags:
   - Allgemein
 date: 2015-10-21T00:46:05.000Z
 author: Fabian Wetzel
-subtitle: I am working on a distributed application to allow me insights and control of the devices in the house.
+subtitle: >-
+  I am working on a distributed application to allow me insights and control of
+  the devices in the house.
+description: >-
+  I am working on a distributed application to allow me insights and control of
+  the devices in the house.
 ---
 
 I am working on a distributed application to allow me insights and control of the devices in the house. I want to see, when PCs are on and I want to control some lights. So I have some rather different messaging patterns.
@@ -39,3 +44,4 @@ But what I really think is that Microsoft replaced and removed too much of the b
 It feels like there is also no demand for messaging in UWP or UWP in general?
 
 I am really considering to replace the Windows 10 IoT Core with something more supported like Raspbian? I could either use mono or I would implement the client in another language like python or nodejs?
+

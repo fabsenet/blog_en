@@ -20,3 +20,4 @@ Würde man das Abwarten gedanklich ans Ende des Jahres schieben, wäre die Arbei
 Oder anders betrachtet: Multipliziert man diese 200h mit dem gezahlten Stundensatz, kommt eine Summe raus, die den Kauf eines recht ausgereiften und modernen PCs locker rechtfertigt. Das ist ein gutes Beispiel, wo Sparen teurer ist als Investieren!
 
 Hinweise meinerseits wurden aufgenommen, allerdings hat sich an der Situation nichts geändert. Schade eigentlich. Ich hätte die Wartezeit lieber in mehr Features und besseren Code investiert statt in sinnloses Warten, aber mir waren die Hände gebunden.
+

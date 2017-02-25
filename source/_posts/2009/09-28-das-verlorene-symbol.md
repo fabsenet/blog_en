@@ -14,3 +14,4 @@ Nein, kein Computer-Beitrag :-)
 Dan Brown hat wieder ein neues Buch fertig und man kann es [vorbestellen](http://www.amazon.de/gp/feature.html?ie=UTF8&amp;plgroup=1&amp;docId=1000113793&amp;tag=fabsenetfabse-21), was ich natürlich auch gleich gemacht hätte, wäre es nicht so teuer :-(
 
 26€ finde ich für einen normalen Roman viel zu hoch, schade. Hier wird doch der frühe Käufer gestraft.
+

@@ -43,3 +43,4 @@ inmsg.Context.Write("MessagePartsAttachments",
 "http://schemas.microsoft.com/BizTalk/2003/smtp-properties", **(UInt32)**2);
 
 You cannot see any difference at all if you take a look at a suspended/tracked message but this was the cause of the missing attachments. I hope this might save you some time!
+

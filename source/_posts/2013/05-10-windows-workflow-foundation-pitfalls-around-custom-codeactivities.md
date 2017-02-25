@@ -41,3 +41,4 @@ To avoid this potential bug at all, it looks like a good practice to me to avoid
 So the better fix for our bug was to remove the error message field and replace it with a local variable.
 
 The codebase included already a good amount of CodeActivities so I decided to implement this coding guideline in form of a unit test. The test uses reflection to check all types derived from CodeActivity, whether they have properties. This unit test helps to ensure the guideline is still met if another person takes over the codebase as well.
+

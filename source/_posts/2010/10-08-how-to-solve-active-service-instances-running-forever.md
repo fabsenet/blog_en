@@ -22,3 +22,4 @@ Which describes the root of the problem. The spools table was missing these 4 ro
 In my case, this was a productive environment and I was afraid to fiddle with the messagebox so I decided to take a test environment first. It had the 4 rows so I deleted them which created the not-running active instances. Then I  inserted the messages again and the problem was solved.
 
 Finally I added the missing rows in production and restarted all host instances. Errors fixed ![Smiley](https://az275061.vo.msecnd.net/blogmedia/2010/10/wlEmoticonsmile.png)
+

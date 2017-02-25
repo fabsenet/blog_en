@@ -15,3 +15,4 @@ Finally I finished switching all my machines to Windows 8\. Using Windows 8 in m
 To open a new instance of the program you have to select it using the right mouse button or swiping down with your finger on the icon. The lower app bar appears and you select "open new window" ("Neues Fenster öffnen").
 
 Or even easier: **Hold shift while clicking the item!**
+

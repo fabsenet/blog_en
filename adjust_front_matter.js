@@ -19,11 +19,16 @@ recursive("./source/_posts/", (err, files) => {
                 postObject.data.author = "Fabian Wetzel";
             }
 
+            //sync description (feed) to subtitle (index page)
+            if (postObject.data.subtitle && !postObject.data.description) {
+                postObject.data.description = postObject.data.subtitle;
+            }
+
             //write back
             var content = postObject.content;
             var newFileContent = matter.stringify(postObject.content, postObject.data);
 
-            fs.writeFile(file, newFileContent, err =>{if(err) console.error(err)});
+            fs.writeFile(file, newFileContent, err => { if (err) console.error(err) });
         });
 
     }, this);

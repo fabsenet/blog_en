@@ -11,3 +11,4 @@ author: Fabian Wetzel
 [![biztalk scaling](https://az275061.vo.msecnd.net/blogmedia/2010/02/biztalkscaling_thumb.png "biztalk scaling")](https://az275061.vo.msecnd.net/blogmedia/2010/02/biztalkscaling.png)
 
 Der Geek hat gesprochen ;-)
+

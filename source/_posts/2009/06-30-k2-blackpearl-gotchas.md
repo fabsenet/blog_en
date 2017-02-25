@@ -16,3 +16,4 @@ Hier mal einige Erfahrungswerte aus der Entwicklung mit K2 Blackpearl in ungeord
 *   SmartObjects sind langsam! Ein kurzer Test zeigte, dass jede Methode, die den SmartBoxService nutzte, jeweils rund 0,4s benötigt. Ein über einen ServiceBroker angebundenes CRM hatte sogar Zeiten von rund 0,6s. So dauert das Sammeln aller nötigen Daten für ein Formular auch schon mal 5-10s. Hantieren mit Prozessinstanzen von externem Code aus geht hingegen super schnell.  
 
 Aber kennt man erst einmal alle Fallstricke, macht die Entwicklung mehr Spaß und geht auch schneller von der Hand!
+

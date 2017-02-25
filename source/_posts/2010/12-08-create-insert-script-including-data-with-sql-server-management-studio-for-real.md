@@ -22,3 +22,4 @@ Follow the wizzard, but change the option to script data to true:
 [![image](https://az275061.vo.msecnd.net/blogmedia/2010/12/image_thumb6.png "image")](https://az275061.vo.msecnd.net/blogmedia/2010/12/image42.png)
 
 You should be able to figure out everything else on your own.
+

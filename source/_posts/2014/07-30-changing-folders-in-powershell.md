@@ -72,3 +72,4 @@ D:\samplefolder\alpha2\gamma>
 PowerShell is smart enough to change into the right directory for you. Impressive!
 
 Most of this stuff shown does not work in cmd.exe but why would you want to use cmd.exe anyway anymore?
+

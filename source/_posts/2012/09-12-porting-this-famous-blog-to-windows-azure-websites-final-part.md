@@ -30,3 +30,4 @@ The Azure VMs are available as extra small instances, so using them over Website
 ![extra_small_virtual_machine_price](https://az275061.vo.msecnd.net/blogmedia/2012/09/extra_small_virtual_machine_price.png "extra_small_virtual_machine_price")
 
 I basically switched from PaaS to IaaS. I got full control over the virtual machine at the cost of doing all the administration stuff myself (security, updates, backups, …)
+

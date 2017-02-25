@@ -14,3 +14,4 @@ Ich muss wohl mal mein Wordpress auf eine aktuelle Version updaten?!
 **Nachtrag:** Ich habe mein Kennwort ge&#228;ndert und den Blog auf die aktuelle Version aktualisiert. Wer es nochmal merkt, sagt mir wenn m&#246;glich direkt Bescheid.
 
 **Traurig aber wahr:** Dies hier ist der 100\. Post auf meinem Blog
+

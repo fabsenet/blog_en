@@ -21,3 +21,4 @@ Hat man Geräte der Sync-Gruppe hinzugefügt, fällt als erstes auf, dass alle g
 Man kann jetzt geräteübergreifend Tabs öffnen. Ich kann also in der Bahn auf meinem Handy einen Artikel weiterlesen oder daheim nochmal den tollen Blog weiterlesen, über den ich auf der Arbeit gestolpert bin.
 
 Mein erster Eindruck ist, dass das Ganze eine echt super Sache ist, die auch noch sehr gut umgesetzt wurde!
+

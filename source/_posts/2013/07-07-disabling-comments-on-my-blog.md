@@ -24,3 +24,4 @@ If there really is someone who wants to tell me something, he may reach me overâ
 * Via mail (see Impressum on my blog)
 
 â€¦and I may update the posts then.
+

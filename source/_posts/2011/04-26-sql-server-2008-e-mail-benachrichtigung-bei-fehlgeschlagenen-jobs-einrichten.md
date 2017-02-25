@@ -52,3 +52,4 @@ Zuletzt kann man in beliebig vielen Jobs folgende Notifications einstellen:
 ![](https://az275061.vo.msecnd.net/blogmedia/2011/04/clip_image020.jpg "SqlServerMailOnFailedJob_10")
 
 Jetzt sollten E-Mails eintrudeln, wenn der Job fehlschlägt.
+

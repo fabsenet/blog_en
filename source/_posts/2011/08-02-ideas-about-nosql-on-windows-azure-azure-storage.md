@@ -48,3 +48,4 @@ Because of the lack of the experience, I am not that sure, how well queries will
 If performance really becomes critical then caching is my first choice here. If this is not going to work good enough I will implement secondary tables as some kind of persisted views on the data. This introduces more complexity in the data access but it will be the way to (re-)gain performance at the cost of some extra storage.
 
 _[Source of the used Azure Icons](http://davidpallmann.blogspot.com/2011/07/windows-azure-design-patterns-part-1.html#fbid=-PMTyp5hV-a)_
+

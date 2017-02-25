@@ -40,3 +40,4 @@ The fix is to use the Server Manager to install the **IIS 6 management compatibi
 Restarting the publishing wizard now works as expected:
 
 ![WcfPublishingWizard_Success](https://az275061.vo.msecnd.net/blogmedia/2014/05/WcfPublishingWizard_Success.png "WcfPublishingWizard_Success")
+

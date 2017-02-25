@@ -15,3 +15,4 @@ Sitzt man mal wieder vor dem Debugger und interessiert sich, was nun eigentlich 
 Folgendes Snippet erfüllt den Job aber als Einzeiler:
 <pre>File.WriteAllText("c:\streamOut.txt", new StreamReader(meinStream).ReadToEnd());</pre>
 Zu beachten ist, dass je nach Typ von meinStream die Position anschließend zurück gesetzt werden muss oder auch, das dies gar nicht möglich ist und daher die weitere Programmausführung fehlerhaft wird.
+

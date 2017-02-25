@@ -8,7 +8,8 @@ tags:
   - Coding Guideline
 date: 2015-03-04T10:30:16.000Z
 author: Fabian Wetzel
-subtitle: Having a string and converting it to a Number is easy, isn’t it?
+subtitle: 'Having a string and converting it to a Number is easy, isn’t it?'
+description: 'Having a string and converting it to a Number is easy, isn’t it?'
 ---
 
 Having a string and converting it to a Number is easy, isn’t it?
@@ -29,3 +30,4 @@ To make my example work the same for every user, I am using the invariant cultur
 ![Convert.ToDouble with invariant culture](https://az275061.vo.msecnd.net/blogmedia/2015/03/convert_todouble_invariant_culture.png "Convert.ToDouble with invariant culture")
 
 The invariant culture is sort of a baseline culture and it is mostly equal to the English culture. As a last bonus, here are some ways to create cultures:[![Some ways to get CultureInfo - Instances](https://az275061.vo.msecnd.net/blogmedia/2015/03/some_cultures_thumb.png "Some ways to get CultureInfo - Instances")](https://az275061.vo.msecnd.net/blogmedia/2015/03/some_cultures.png)
+

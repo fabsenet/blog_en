@@ -13,3 +13,4 @@ author: Fabian Wetzel
 [![This link kills spam](https://az275061.vo.msecnd.net/blogmedia/2008/08/this_link_kills_spam.png)](http://officeofstrategicinfluence.com/spam/)
 
 Finde ich eine gute Idee!
+

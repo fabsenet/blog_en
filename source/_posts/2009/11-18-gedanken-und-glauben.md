@@ -25,3 +25,4 @@ Wenn man aber fest an den Erfolg glaubt, dann geht das ins Unterbewusstsein übe
 Bisher konnte ich gute Erfolge im Kampf gegen meinen inneren Schweinehund oder innere Ängste und Barrieren erzielen und hier und da auch in menschlicher Interaktion.
 
 Also ehrlich, wenn du diesen langen Beitrag bis zum letzten Absatz liest, dann kann ich dir nur noch sagen, versuche es selbst und berichte dann hier in den Kommentaren!
+

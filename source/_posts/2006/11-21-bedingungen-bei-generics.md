@@ -28,3 +28,4 @@ Mit der zusätzlichen Bedingung sagt man dem Compiler, dass T eine Klasse sein m
 Danke Marco!
 
 **Noch ein kleines Update:** Natürlich würde ich für einen Fehlerfall eine Exception werfen und nicht null zurückgeben.
+

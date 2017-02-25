@@ -20,3 +20,4 @@ private static bool IsWildcardMatching(String text, String search)
     var s = "^" + Regex.Escape(search).Replace("\*", ".*") + "$";
     return Regex.IsMatch(text, s, RegexOptions.IgnoreCase);
 }</pre>
+

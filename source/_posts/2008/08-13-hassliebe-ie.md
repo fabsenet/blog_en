@@ -30,3 +30,4 @@ und der IE verträgt es halt nur so:
 Table =&gt; **TBODY** =&gt; TR =&gt; TD =&gt; text/input
 
 ...ist der TBODY Tag anwesend, läuft alles wie geschmiert. Die Erkenntnis hat mich einen ganzen Arbeitstag voller Debuggen, Fehlersuche und Googlen gekostet :-(
+

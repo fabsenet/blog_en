@@ -28,3 +28,4 @@ Hier noch eine Hand voll Links, die Kerberos und die Kerberos-bezogene Fehlerdia
 [Kerberos Authentication problems – Service Principal Name (SPN) issues - Part 2](http://blogs.technet.com/askds/archive/2008/06/09/kerberos-authentication-problems-service-principal-name-spn-issues-part-2.aspx) (Doppelter SPN)    
 [Kerberos Authentication problems – Service Principal Name (SPN) issues - Part 3](http://blogs.technet.com/askds/archive/2008/06/11/kerberos-authentication-problems-service-principal-name-spn-issues-part-3.aspx) (SPN für falschen Nutzer registriert)    
 [Kerberos and your MOSS setup](http://k2underground.com/blogs/johnny/archive/2008/05/10/kerberos-and-your-moss-setup.aspx)
+

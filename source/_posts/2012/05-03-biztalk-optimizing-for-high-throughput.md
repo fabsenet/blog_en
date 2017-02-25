@@ -26,3 +26,4 @@ This obviously changed the resulting messages. The receive port was directly bou
 The solution even allows to switch between both behaviors on the fly through enabling/disabling the correct receive locations. We only used proven technology and already existing BizTalk artifacts.
 
 The throughput increased by roughly 300% but your mileage may vary. You should also consider that using queues makes your application server stateful.
+

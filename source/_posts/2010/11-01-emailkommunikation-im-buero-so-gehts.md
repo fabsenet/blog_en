@@ -17,3 +17,4 @@ Was passierte in den 7 Tagen? Nichts!
 Ich habe gerade den 4 Personen direkt geschrieben, dass mir jeweils von genau Ihr noch ein Feedback fehlt. Es vergingen keine 20 Minuten und ich hatte 4 Antworten.
 
 Ich denke, dass ist eine weitere Ausprägung von “geteilte Verantwortung ist keine Verantwortung".
+

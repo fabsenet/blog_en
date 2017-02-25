@@ -30,3 +30,4 @@ The btproj file has this new content:
 > &lt;/ItemGroup&gt; 
 
 The error should be gone.
+

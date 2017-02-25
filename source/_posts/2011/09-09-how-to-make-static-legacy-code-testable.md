@@ -90,3 +90,4 @@ Having all of this in place you can write your unit test for the module without 
 There is one more thing left to be done. Obviously the real instance of SeriousServiceImpl is gone for good after executing the test. So if you want to be able to reuse the current AppDomain for another test you either need to recover it somehow or you have to replace it in every test. I have a nice solution for this as well but this article is already long enough.
 
 So summing up, we saw how to introduce another level of indirection into our architecture. We used it to swap the implementation of a static service as was needed to write unit tests without side effects.
+

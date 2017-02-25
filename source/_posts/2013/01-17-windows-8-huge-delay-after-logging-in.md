@@ -40,3 +40,4 @@ To get to this picture above:
 At this point I was completely lost in all these data. I uploaded the trace and asked [Jeff](http://blogs.technet.com/b/jeff_stokes/) kindly to take a look. He was very helpful, suggesting to disable the SSDP service (because it is a domain joined machine) and a BIOS update. In the meantime I also removed all virtual network stuff from the Windows Phone 8 emulator (just a wild guess).
 
 Finally my machine logs in without waiting and I hope it stay that way. Thanks Jeff!
+

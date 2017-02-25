@@ -25,3 +25,4 @@ The params keyword tells you that the method accepts any number of arguments of 
 
 <pre class="code"><span style="color: blue">var </span>sentence = <span style="color: #a31515">&quot;Hello World!&quot;</span>;
 <span style="color: blue">var </span>words = sentence.Split(<span style="color: #a31515">' '</span>);</pre>
+

@@ -16,3 +16,4 @@ Troll 2: Warum? Gibt es 49 Geräte, die vom Mac unterstützt werden?
 …
 
 ;-)
+

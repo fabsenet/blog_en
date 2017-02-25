@@ -28,3 +28,4 @@ author: Fabian Wetzel
 **Update:** Den Code gibts wohl nicht in Farbe ?!
 
 **Update²:** Es geht doch, man muss nur mal die Styles in Theme einbinden!
+

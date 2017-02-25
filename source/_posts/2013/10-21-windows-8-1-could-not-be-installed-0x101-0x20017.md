@@ -17,3 +17,4 @@ Then it reboots again and you are back to your Windows 8 without the dot one!
 I have a full encrypted system partition using TrueCrypt and this was the problem in my case. I took a wild guess on this and decrypted the drive. Then I updated to Windows 8.1 and this time it worked flawlessly. After the update I encrypted the drive again.
 
 Issue solved :-)
+

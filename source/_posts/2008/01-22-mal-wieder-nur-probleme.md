@@ -29,3 +29,4 @@ ERROR 1062 (23000): Duplicate entry 'b' for key 2</pre>
 Das Zauberwort hei&#223;t hier &quot;deferred constraint resolution&quot; und wird von MySQL leider nicht unterst&#252;tzt! Dieses Feature w&#252;rde die Constraints erst am Ende einer Transaktion pr&#252;fen.
 
 Was mach ich nun aber mit meinem Webinterface? Eigentlich ist es ein Excel-m&#228;&#223;iges Grid, wo man alle Daten &#228;ndern kann und erst dann auf speichern klickt?
+

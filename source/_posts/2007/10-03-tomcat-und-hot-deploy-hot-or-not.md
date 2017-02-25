@@ -14,3 +14,4 @@ Seit dieser Woche bin ich dabei, mir Spring und Hibernate auf der Arbeit anzuler
 Problem war jedenfalls, dass ich oft genutzte Bibliotheken wie log4j nicht in der Anwendung deployen wollte. Deshalb habe ich sie in &lt;Tomcat&gt;/lib abgelegt. Habe ich meine Demoanwendung nun deployed, bekam ich immer eine Exception an den Kopf geworfen. Hab ich dann testweise den Inhalt aus &lt;Tomcat&gt;/lib nach &lt;myapp&gt;/WEB-INF/lib kopiert, hat der Tomcat einen redeploy gemacht, der keine Exception geworfen hat. Meine Anwendung ging irgendwie dann trotzdem nicht?!
 
 Die L&#xF6;sung ist sehr simpel, hat mich trotzdem einen ganzen Nachmittag gekostet, sie zu finden. Applikationen kann der Tomcat im laufenden Betrieb deployen, aber die Archive im &lt;Tomcat&gt;/lib Verzeichnis werden nur nach einem Neustart neu geladen. Das hatte ich nat&#xFC;rlich den ganzen Tag noch nicht gemacht. P&#xFC;nktlich zum Feierabend lief dann aber alles.
+

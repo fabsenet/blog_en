@@ -17,3 +17,4 @@ Eigentlich wollte ich ja ein Foto des Packages hier rein stellen, aber das wäre
 OneNote muss ich nun auch noch seperat kaufen, da das ja in meiner Office-Version nicht enthalten ist. Nur gut, dass ich bereits weiß, dass die günstige Studentenversion auch nur in Papierhüllen ausgeliefert wird.
 
 _Mitleid bitte in die Kommentare... ;-)_
+

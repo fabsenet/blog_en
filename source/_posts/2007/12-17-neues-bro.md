@@ -12,3 +12,4 @@ Nach dem letzten Freitag mein letzter Tag im alten B&#252;ro war, ist das ganze 
 [![B&#252;ro Aussicht](https://az275061.vo.msecnd.net/blogmedia/2007/12/bro-aussicht-thumb1.jpg)](https://az275061.vo.msecnd.net/blogmedia/2007/12/bro-aussicht1.jpg)
 
 Ich bin in der 15\. von 17 Etagen und alle anderen Geb&#228;ude in Bielefeld haben gesch&#228;tzte 7 Etagen. Man kann wirklich alles &#252;berschauen. 
+

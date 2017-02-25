@@ -12,3 +12,4 @@ Ich beobachte in meiner Amazon-Wunschliste jetzt schon seit längerem diesen [TF
 Die Gutscheinaktion ist nun vorbei und er kostet nun nur noch 309€.
 
 Langsam wird es auch für mich interessant, hab ich doch zu Hause immer noch einen alten Röhrenmonitor mit 17" (will einfach nicht kaputt gehen). Da käme mir jetzt dieser TFT sehr gelegen. _Spenden nehm ich gerne an... _;-)
+

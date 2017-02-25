@@ -17,3 +17,4 @@ Folgendes Beispiel (alles der selbe PC):
 *   Wenn ich normal am PC sitze und arbeite, geht nach 10 Minuten der Schoner an und nach 15 Minuten der Bildschirm aus. Ich benutze den Schoner nur als &quot;Vorwarnung&quot; f&#xFC;r das Abschalten. So schaltet sich der Monitor nur aus, wenn ich es so will, andernfalls kann ich schnell die Maus antippen.  
 
 Wie bringe ich das nun meinem PC bei?
+

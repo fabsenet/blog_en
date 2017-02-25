@@ -26,3 +26,4 @@ What about scalability, you ask? I am using an extra small instance at the momen
 I am still thinking about hosting a second RavenDB instance to benefit from replication.
 
 Meanwhile I finished the hosting configuration using an HTTPS endpoint for enhanced security.
+

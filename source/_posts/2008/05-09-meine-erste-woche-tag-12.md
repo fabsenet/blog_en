@@ -15,3 +15,4 @@ Was leider gar nicht geklappt hat, war, dass ich einen eigenen PC hab! Denn ich 
 In meinem Team spricht übrigens die überwiegende Mehrheit deutsch als Muttersprache. Dazu kommt, dass auch ein Mitbewohner aus meiner WG aus Deutschland ist. Das hemmt natürlich schon etwas den Englischlernprozess, aber ich habe das Gefühl, dass ich schon besser geworden bin (vielleicht auch lediglich sicherer?).
 
 Nun ist es schon Tag 12 von 202\. Die letzten 3 Tage war hier Spitzenwetter. Sonne, warm und kein Wölkchen weit und breit.
+

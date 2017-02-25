@@ -14,3 +14,4 @@ Wurde ich also schon seit Jahren von verschiedensten Friseurinnen in verschieden
 Ansonsten verlief es auch anders als sonst. Normalerweise bin ich in unter 10 Minuten wieder aus dem Laden raus, heute dauerte es 30 Minuten. Ich nehme an es gab keinen Anschlusstermin, so dass die Dame sich lieber noch mit mir unterhalten wollte statt alleine rumzusitzen, denn für meine Verhältnisse hatte ich heute auch relativ viel erzählt, obwohl der Termin noch vor dem Frühstück war.
 
 Unbestätigten Berichten von Google zufolge heißt es übrigens Friseur und Friseurin und nicht Friseuse oder Frisör und schon gar nicht Frisöse. Das finde ich schon mittelmäßig verwirrend. Word unterstreicht keine der Schreibweisen.
+

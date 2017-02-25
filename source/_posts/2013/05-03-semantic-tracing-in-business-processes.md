@@ -69,3 +69,4 @@ If you still following me, you might ask, why there is the Finish() method on th
 ![](https://az275061.vo.msecnd.net/blogmedia/2013/05/050313_0900_SemanticTra8.png)
 
 I had this case and I was interested in the last information data. The added Finish() method analyzes its own tracing bag and decides, whether there are unwritten information traces after a warning or error trace. If this is the case, the Finish() method outputs a summary of the complete tracing bag including all data using the highest tracing level used inside this TracingBag.
+

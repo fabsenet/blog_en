@@ -8,7 +8,12 @@ tags:
   - mein Auto
 date: 2015-09-25T13:32:02.000Z
 author: Fabian Wetzel
-subtitle: Bevor ich mich für mein aktuelles Auto entschieden habe, habe ich so einige Autos Probe gefahren.
+subtitle: >-
+  Bevor ich mich für mein aktuelles Auto entschieden habe, habe ich so einige
+  Autos Probe gefahren.
+description: >-
+  Bevor ich mich für mein aktuelles Auto entschieden habe, habe ich so einige
+  Autos Probe gefahren.
 ---
 
 Bevor ich mich für mein aktuelles Auto entschieden habe, habe ich so einige Autos Probe gefahren. Ich war ja mit dem Scirocco sehr zufrieden, aber wenn man ehrlich ist, ist er für eine dreiköpfige Familie einfach nicht mehr das richtige Auto. Wir brauchten also was familientaugliches, der Spaß sollte aber jetzt auch nicht zu kurz kommen und ich als Techie mag ja die ganzen technischen Spielereien im Auto. Hier was Elektrisches, da ein Assistent. Das ist genau das Richtige für mich. Nun muss man die Auswahl irgendwie starten und wie es so kam, hatte ich eine Mercedes C Klasse als Mietwagen (obwohl wir von der Firma eigentlich nur Golfklasse hätten mieten dürfen…ohoh). Das Auto hatte mir gut gefallen, also schlugen wir bei Mercedes auf. Die C-Klasse sollte neu aufgelegt werden und war nicht mehr neu zu bestellen, wir schauten uns also die E-Klasse an. Ich war fasziniert von der elektrischen Heckklappe, die wir schon im Autohaus mehrfach öffneten. Nach einer Weile im Gespräch mit der Verkäuferin hatten wir eine mögliche Konfiguration fertig. Da die E-Klasse an sich teurer ist als die C-Klasse, blieb nur noch Luft für den 2 Liter Diesel. Wir wollten eigentlich einen Kombi haben, für die Probefahrt erhielten wir allerdings eine Limousine. Hier ist ein [kleines Video](https://www.youtube.com/watch?v=yb2DQrsFrXY), wie wir mit dem Auto das automatische Einparken testen:
@@ -24,3 +29,4 @@ BMW hat größere Motoren, ich analysierte das also. Wegen der Preisgestaltung l
 Seit dem haben wir das Auto jetzt etwas über ein Jahr, der erste Ölwechsel ist durch, sonst war bisher nichts gewesen und ich bin absolut zufrieden und glücklich. Lediglich ein klitzekleiner Teil in mir schielt mittlerweile auf einen Tesla.
 
 Dieser Beitrag wird unterstützt durch Autoersatzteile.de. Schau doch mal auf [autoersatzteile.de/elektrik/mercedes-benz](http://www.autoersatzteile.de/elektrik/mercedes-benz) vorbei und sieh dir die günstigen Angebote an.
+

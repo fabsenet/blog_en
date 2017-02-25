@@ -8,3 +8,4 @@ author: Fabian Wetzel
 ---
 
 Ein mit mir befreundeter Kommillitone, nennen wir ihn mal Johann P. (Name von der Redaktion geändert ;-) ) wollte, obwohl wir hier Praktikum und nicht Urlaub machen, eine Postkarte an die daheim gebliebenen Verwandten schicken. Nach dem er die Postkarte komplett voll geschrieben hatte, fragte ich ihn, wo denn eigentlich die Adresse noch hin soll, wo drauf ein längeres Schweigen folgte... :-)
+

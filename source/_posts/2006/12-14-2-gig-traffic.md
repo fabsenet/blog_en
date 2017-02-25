@@ -22,3 +22,4 @@ Aber verständlich finde ich auch die Frage meiner Freundin, wie viel denn 2 GB 
 Alle Punkte entsprechen für sich (!) 2 Gig Traffic. Beachtet war dabei der reine Download. Nicht zu vergessen, dass auch immer Upload dazu kommt, schon alleine wegen dem TCP/IP-Overhead. Bei uns sind es zur Zeit 70 MB. Also etwa 5% des Downloads.
 
 _So helft mir, wie könnte man noch möglichst anschaulich sagen, wie viel 2 Gig sind?_
+

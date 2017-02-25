@@ -12,3 +12,4 @@ Zeit, in der ich eine Klimaanlage im Auto NICHT vermisse:
 [x] wieder vorbei
 
 [_] noch nicht vorbei
+

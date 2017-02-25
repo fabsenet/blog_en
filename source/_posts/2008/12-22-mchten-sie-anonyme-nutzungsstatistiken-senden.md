@@ -18,3 +18,4 @@ Viele Zuschriften an Microsoft waren wohl Anfragen, das Feature XY noch in Word 
 Wenn ich also dieses Feature aktiviere, dann sorge ich im Grunde dafür, dass zukünftige Designentscheidungen mein Verhalten beachten. Ich nehme also Einfluss! Und wegen der besagten &lt;1% nehme ich sogar einen sehr großen Einfluss.
 
 Neue Versionen werden also auf mich persönlich zugeschnitten sein, Danke :-)
+

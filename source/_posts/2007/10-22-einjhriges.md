@@ -12,3 +12,4 @@ Guten Tag geliebte Leser, ich kann freudig verk&#xFC;nden, dass mein Blog am heu
 Nach einem [lausigen Start](https://fabse.net/blog/2006/10/22/niegel-nagel-neuer-blog/) gab es im letzten Jahr 75 Beitr&#xE4;ge mit mehr oder minder wichtigen Inhalten von mir und dazu 71 Kommentare mit ebenfalls gemischten Inhalten von euch!
 
 P&#xFC;nktlich zum Geburtstag habe ich auch schon ein Geschenk erhalten!Ich habe mein erstes St&#xF6;ckchen bekommen, was ich auch in K&#xFC;rze bearbeiten und weiterreichen werde.
+

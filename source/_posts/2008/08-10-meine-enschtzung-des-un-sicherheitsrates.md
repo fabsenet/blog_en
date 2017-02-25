@@ -11,3 +11,4 @@ Eventuell basiert der folgende Text auf (gefährlichem) Halbwissen, aber ich hab
 
 Weder jetzt, noch wegen Burma oder wegen dem Irak bzw. wenn dann auch erst viel zu spät?! Also aus meiner Sicht ist das ein Verein voll handlungsunfähiger Bürokraten. Im Zweifelsfall gibt es eh immer einen, der sein Veto nutzt.
  > Jede Entscheidung zu den „sonstigen Fragen“ kann durch ein Nein von einem der fünf ständigen Mitglieder verhindert werden (Veto). Die ständigen Mitglieder haben zwischen 1945 und 1990 in 279 Fällen von ihrem Vetorecht Gebrauch gemacht.
+

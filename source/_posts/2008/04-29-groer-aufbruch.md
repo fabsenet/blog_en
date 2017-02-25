@@ -19,3 +19,4 @@ Dann gab es eine Woche an der FH ohne besondere Vorkommnisse. Wir haben jetzt ei
 Dann hatte ich ein ganz tolles Wochenende in Hamburg mit Sabrina! Danke daf&#252;r!
 
 Und dann ging es halt nach UK. Um 4 aufstehen; 6 Stunden fahren &#252;ber die Niederlande nach Belgien. Dort in die F&#228;hre. Nach weiteren 4 Stunden bin ich dann in Ramsgate angekommen. Jetzt ging es los mit Linksfahren! Die Engl&#228;nder lieben anscheinend Kreisverkehre, insbesondere mehrspurige! Ich nicht! ;) Jedenfalls bin ich hier angekommen in meiner WG in Hatfield und hab fast sofort geschlafen. Heute war ich einkaufen bei ASDA. Es ist wie Marktkauf bei uns. Man bekommt alles und tanken kann man auch. Ok wenn ich mehr wei&#223;, werde ich nochmal was schreiben.
+

@@ -24,3 +24,4 @@ Some [whitepapers](http://download.microsoft.com/download/9/E/9/9E9F240D-0EB6-47
 **My decision**
 
 Sql Azure could fulfil all my needs. I could store the blobs inside Azure Blob Service to reduce the database size and to use the tools in the way they work best. But I will not use Sql Azure. _Why?_ I am quite sure that Sql Azure is much more capable of scaling than my application would need it. It basically comes down to my desire to learn something new and to design the service in the way it fits best into the cloud.
+

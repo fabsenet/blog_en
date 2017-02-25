@@ -36,3 +36,4 @@ The real pain point is that a secure site is only allowed to load secure resourc
 To finalize the secure setup, I [configured](http://www.hass.de/content/setup-your-iis-ssl-perfect-forward-secrecy-and-tls-12) IIS to be even more secure including the use of forward secrecy and an URL redirect from http to https. The result is a very secure blog reading experience ![Smiley](https://az275061.vo.msecnd.net/blogmedia/2014/11/wlEmoticon-smile.png)
 
 [![image](https://az275061.vo.msecnd.net/blogmedia/2014/11/image.png "image")](https://www.ssllabs.com/ssltest/analyze.html?d=fabse.net)
+

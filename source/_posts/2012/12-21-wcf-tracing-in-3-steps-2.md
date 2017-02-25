@@ -56,3 +56,4 @@ Inside the trace viewer, you open your trace file and I am sure, you will find a
 [![image](https://az275061.vo.msecnd.net/blogmedia/2012/12/image_thumb.png "image")](https://az275061.vo.msecnd.net/blogmedia/2012/12/image.png)
 
 Attention! Do not forget to remove the trace config again, because the trace file gets really huge really fast!
+

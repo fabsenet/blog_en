@@ -17,3 +17,4 @@ Mir fallen 1000 und ein Sprüche dazu ein, aber ich lass mal die Bilder einfach 
 [![image](https://az275061.vo.msecnd.net/blogmedia/2009/08/image-thumb12.png "image")](https://az275061.vo.msecnd.net/blogmedia/2009/08/image27.png) 
 
 Zitat eines Kommilitonen von damals: “Java stinkt” ;-)
+

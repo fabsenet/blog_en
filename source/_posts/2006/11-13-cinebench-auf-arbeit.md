@@ -13,3 +13,4 @@ Rendering (Single CPU): **118** CB-CPU
 Rendering (Multiple CPU): --- CB-CPU  <p>Shading (CINEMA 4D) : 125 CB-GFX 
 Shading (OpenGL Software Lighting) : **293** CB-GFX 
 Shading (OpenGL Hardware Lighting) : 153 CB-GFX  <p>OpenGL Speedup: 2.35
+

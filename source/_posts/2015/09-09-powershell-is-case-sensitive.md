@@ -9,6 +9,7 @@ tags:
 date: 2015-09-09T09:27:53.000Z
 author: Fabian Wetzel
 subtitle: Did you know PowerShell is case-sensitive? I did not know this until recently.
+description: Did you know PowerShell is case-sensitive? I did not know this until recently.
 ---
 
 Did you know PowerShell is case-sensitive? I did not know this until recently. Together with a file system which is not case sensitive, this does not make much sense to me:
@@ -24,3 +25,4 @@ As you can see, there is a modified file. If I now change into the assets folder
 By the way, the old command shell does not have this weird behavior:
 
 ![cmd_is_not_confused](https://az275061.vo.msecnd.net/blogmedia/2015/09/cmd_is_not_confused.png)
+

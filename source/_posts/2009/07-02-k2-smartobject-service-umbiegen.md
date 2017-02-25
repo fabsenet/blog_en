@@ -20,3 +20,4 @@ Mein erster Gedanke war, ich muss jetzt dutzende von SmartObject neu anlegen ode
 3.  URL in den Eigenschaften ändern  
 
 Fertig! Es dauerte keine 3 Minuten und das, obwohl ich nicht einmal wusste, wie es geht! Sehr gut!
+

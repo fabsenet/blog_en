@@ -29,3 +29,4 @@ In case the manager agreed with the form it is routed to everyone in the HR grou
 After the approval of a HR coworker the originator and his manager are informed via e-mail about the final approval and the form is saved inside a Sharepoint library for further processing.
 
 K2 allows you to draw the complete workflow in a matter of minutes and its flexibility allows for other additions such as “auto-approve request below xx €” or “enrich the form with the last requests from this employee for the manager/HR view”. The visual representation of the workflow is easily readable which is good for the client, for the documentation and for the needed development time as well.
+

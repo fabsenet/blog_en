@@ -22,3 +22,4 @@ I was going to do something more useful while I noticed all the precompiler cond
 So you better avoid storing hashcodes and you should not exchange hashcodes across process-boundarys. Your communication partner may use a different number of bits!
 
 Last but not least: the result is not stored but recomputed every time you call the function. The implementation is following the advice to not store its result itself.
+

@@ -10,3 +10,4 @@ author: Fabian Wetzel
 [Dieser Link](http://www.microsoft.com/windowsmobile/workwherever/default.mspx) führt euch zu einer ziemlich lustigen Seite mit 5 Werbevideos + Outtakes zu Windows Mobile. Definitiv ein Muss, auch für nicht technik-versierte Menschen ;)
 
 Update: Hab ich doch tatsächlich den [eigentlichen Link](http://www.microsoft.com/windowsmobile/workwherever/default.mspx) vergessen...
+

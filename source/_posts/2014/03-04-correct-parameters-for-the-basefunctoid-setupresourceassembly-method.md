@@ -23,3 +23,4 @@ To make this more refactoring safe, I would suggest the following call instead:
 ![](https://az275061.vo.msecnd.net/blogmedia/2014/03/030414_1242_CorrectPara2.png)
 
 This way, you can change your default namespace without fear of breaking "magic" strings.
+

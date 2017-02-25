@@ -10,3 +10,4 @@ author: Fabian Wetzel
 Wollte ich doch gestern den neuen James Bond im Kino gucken und hatte auch schon alles geplant, musste ich das ganze dann aber doch wegen einer kleinen Kleinigkeit abbrechen?!
 
 James Bond Casino Royale läuft leider noch nicht. Tja so kanns gehen.
+

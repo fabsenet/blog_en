@@ -16,3 +16,4 @@ That’s it! At this point it is working out-of-the-box! ![Smile](https://az2750
 I invested some time trying to get a secure https connection working between my browser and the proxy but it just does not work (for me).
 
 I was realizing, that I really wanted an VPN endpoint and not a proxy but I also decided to not work any longer on this!
+

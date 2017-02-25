@@ -17,3 +17,4 @@ Hierauf folgte ein längerer Mailverkehr mit dem Programmadministrator, Verantwo
 Schlussendlich konnte ich in der letzten FH-Phase endlich meine Registrierung abgeben und erhielt dann auch keine 10 Tage später meinen Zugang per E-Mail. Kein Tag zu früh, denn am 01.04\. lief meine OneNote Trial aus.
 
 Jetzt hab ich auch schon die Vista Business gezogen und auf dem Notebook...dazu später mehr.
+

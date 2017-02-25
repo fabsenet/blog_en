@@ -17,3 +17,4 @@ Erstes Manko: Die getroffene Auswahl wird nicht über Programmstarts hinweg gesp
 [![image](https://az275061.vo.msecnd.net/blogmedia/2008/10/image-thumb1.png)](https://az275061.vo.msecnd.net/blogmedia/2008/10/image2.png) 
 
 Zweites Manko: Ich will in der Regel nur C# sehen und muss jetzt 4 mal klicken! Da der Text ein Link ist, könnte man ja denken, dass ein Klick auf diesen Link nur diese Sprache auswählt und alle anderen abwählt, dem ist aber nicht so. Klickt man auf den Link, passiert dasselbe, als hätte man direkt auf die Checkbox geklickt. Schade!
+

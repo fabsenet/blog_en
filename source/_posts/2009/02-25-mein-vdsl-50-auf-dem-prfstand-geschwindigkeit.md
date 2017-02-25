@@ -27,3 +27,4 @@ Von diesem Standpunkt her, lohnt sich eine so schnelle Verbindung in der Regel n
 Positiv muss ich allerdings anmerken, dass ich bisher keine Tageszeitschwankungen gespürt habe, dass es auch mit vielen gleichzeitigen Download / aktiven Nutzern niemals spürbar langsamer wird und das der Media Receiver echt klasse ist.
 
 Insbesondere, wenn man die monatlich verlangten 70,- € mit in den Kontext nimmt, kann ich dem ganzen als Schulnote zur Zeit nur eine 2+ geben.
+

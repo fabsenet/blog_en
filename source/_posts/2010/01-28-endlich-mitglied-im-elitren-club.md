@@ -30,3 +30,4 @@ Erneut fahre ich frustriert heim. Ich google die Filiale und finde heraus, dass 
 Am Donnerstag dann großes Finale, ich prüfe die Onlineverfolgung und das Paket soll wirklich in besagter Filiale gegen 11 Uhr angekommen sein. Wiedermal voller Elan, fahre ich nach der Arbeit direkt die Filiale an, dank Navi war das dann sogar mal fast kein Umweg.
 
 “Da müssen sie zur Packstation fahren!” – Ja ne is klar! ;-) Es war da, das Drama hatte ein Ende! Ich rede kurz mit dem Angestellten und er meint, wäre ich Packstation-Kunde gewesen, wäre ich per SMS benachrichtigt worden. Richtig glauben kann ich das nicht, dennoch habe ich mich einfach mal angemeldet, das nächste Paket kommt bestimmt irgendwann (zumindest werde ich sicher irgendwann wieder was bestellen!)
+

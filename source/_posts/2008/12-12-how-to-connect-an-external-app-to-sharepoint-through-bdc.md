@@ -31,3 +31,4 @@ If you did everything right, you can now add a business data list webpart to a S
 For further information on this topic, I suggest you these links:
 
 *   [The blogpost series from Sahil Malik](http://blah.winsmarts.com/2007-4-SharePoint_2007__BDC_-_The_Business_Data_Catalog.aspx)*   [Business Data Catalog in MOSS 2007](http://dotnetdreamer.wordpress.com/category/moss-2007/ "http://dotnetdreamer.wordpress.com/category/moss-2007/")*   [BDC MetaMan (Better tool but expensive)](http://www.lightningtools.com/bdc-meta-man/default.aspx "http://www.lightningtools.com/bdc-meta-man/default.aspx")
+

@@ -24,3 +24,4 @@ Geholfen hatte auf Stackoverflow die [Antwort von cdhowie](http://stackoverflow.
 `<span style="font-family: verdana">und</span>`
 
 `<span style="font-family: verdana">StringComparer.**OrdinalIgnoreCase**.GetHashCode(obj.Description);</span>`
+

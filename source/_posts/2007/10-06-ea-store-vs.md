@@ -14,3 +14,4 @@ Nun habe ich mich an mein letztes mal erinnert, wo ich N24-Nachrichten geguckt h
 Ich bin also zur&#xFC;ck zur Flaggenauswahl und habe die amerikanische geklickt. Das selbe Spiel kostet dort lediglich 39,95$ (= 28,27&#x20AC;). Also grob gesagt die H&#xE4;lfte! Es handelt sich um eine Downloadversion und zahlen per Paypal ist ebenfalls m&#xF6;glich, ob ich also dort bestellen k&#xF6;nnte? Mir fehlt die amerikanische Adresse, aber geliefert bekomme ich ja eh alles online.
 
 Fakt ist jedenfalls, dass ich derartige Preisdifferenzen nicht nachvollziehen kann. Selbst mit unterschiedlichen MwSt-S&#xE4;tzen kann man das nicht erkl&#xE4;ren!
+

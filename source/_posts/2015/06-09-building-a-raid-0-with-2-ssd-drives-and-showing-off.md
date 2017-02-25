@@ -10,6 +10,7 @@ tags:
 date: 2015-06-09T21:25:18.000Z
 author: Fabian Wetzel
 subtitle: What is it like to build and use a Raid 0 of SSD drives?
+description: What is it like to build and use a Raid 0 of SSD drives?
 ---
 
 My desktop PC at home is utilizing a 256GB SSD as its system drive for quite some time now and I enjoyed it. I measured the speed of it using HD Tune:![SAMSUNG_SSD_830_Series](https://az275061.vo.msecnd.net/blogmedia/2015/06/SAMSUNG_SSD_830_Series.png)
@@ -24,3 +25,4 @@ Then I felt comfortable enough to go ahead and to setup a RAID 0 with both drive
 This measured speed looks very impressive and it is significantly higher than the speed of both single drives combined. It may has to do with me using the Marvel chipset in the first measurement. Maybe the INTEL chipset is doing some performance magic on the cover as well? I do not know and I frankly do not care.
 
 For what it's worth, the actual perceived performance gain compared to a single SSD drive is next to nothing but it is definitely not slower than before and the system partition has now much more free space than before. The additional free space without partition/drive borders in between it is the real gain here for me.
+

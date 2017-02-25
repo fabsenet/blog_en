@@ -11,3 +11,4 @@ author: Fabian Wetzel
 
 Blick aus meinem B&#252;ro:
  [![752](https://az275061.vo.msecnd.net/blogmedia/2009/01/752-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2009/01/752.jpg)
+

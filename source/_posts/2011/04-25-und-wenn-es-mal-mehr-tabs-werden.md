@@ -19,3 +19,4 @@ Bisher hab ich dann eine Hand voll Tabs in ein neues Fenster bewegt und das Ganz
 Der Shortcut ist Strg+Shift+E. Man bekommt eine Übersicht mit Vorschaubildchen aller offenen Tabs und kann diese durch Klicken und Ziehen auf mehre Gruppen verteilen. Jeweils nur die Tabs einer Gruppe sind im Firefox als Tabs auch zu sehen, die anderen sind versteckt. Will man nun zwischen den Gruppen wechseln, geht man zuerst wieder zur Übersicht und klickt den jenigen Tab an. Es wird die jeweilige Gruppe aktiviert und der angeklickte Tab geöffnet.
 
 Ich finde das Klasse, habe ich doch alles notwendige nun sortiert und übersichtlich!
+

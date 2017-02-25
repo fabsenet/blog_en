@@ -10,3 +10,4 @@ author: Fabian Wetzel
 ![IMAGE_010](https://az275061.vo.msecnd.net/blogmedia/2008/01/stehparty.jpg)
 
 Wir bekommen neue Rollcontainer auf der Arbeit.
+

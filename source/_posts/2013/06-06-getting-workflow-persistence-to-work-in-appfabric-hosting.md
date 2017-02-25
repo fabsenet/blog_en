@@ -53,3 +53,4 @@ I started to think about how I could do it then?! But, you cannot do it at all a
 Consider a persisted workflow would be rehydrated on another AppFabric machine, 3 hours later or after a server restart. The client which was waiting on a synchronous answer is long gone, so why should I rehydrate the workflow to fail in sending a response one step later. So it is a design error in the workflow if you have a persist operation between a receive and a synchronous send.
 
 If you made it until here, I want to suggest checking "Just my code" again when you are finished debugging. If you leave it unchecked, you are going to wait too long on every standard debugging session because the studio is loading symbol files for all framework assemblies.
+

@@ -24,3 +24,4 @@ Naja und dann noch dieses Bildchen (ohne Worte):
 In meinem Rechner steckt eine Radeon 9600XT und das Mainboard ist ein Asus A7V600-X. Ich vermute alle genannten Probleme haben die selber Ursache: Ein Treiberproblem. Ich weiß nur nicht, was ich noch tun soll. Bei Ati hab ich den aktuellen Treiber schon gezogen und installiert. Und bei Asus hab ich mangels Vista-Treiber die XP-Treiber genommen.
 
 Also wenn jemand einen Ratschlag hat, dann bitte unbedingt sofort in die Kommentare damit! _Danke!_
+

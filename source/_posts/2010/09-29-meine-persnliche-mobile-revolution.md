@@ -19,3 +19,4 @@ Das Galaxy S ist da anders. Man hat das Gefühl, dass alles möglich ist! Schnel
 Auch wenn ich stimmen gehört habe, dass es nur ein IPhone-Clone sein soll, finde ich, ist es dem mindestens ebenbürtig, wenn nicht sogar besser.
 
 Hardware, Software und App-Store erhalten von mir meine persönliche Höchstwertung von 5 von 5 Sternen.
+

@@ -21,3 +21,4 @@ ich bin von 1,86 GHz auf 3,3 GHz gegangen. Das System ist trotzdem stabil (10h l
 Übrigens wer es nicht kennt, 5,9 ist das höchst mögliche zur Zeit unter Vista.
 
 So jetzt entschuldigt mich, ich muss spielen ;-)
+

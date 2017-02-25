@@ -27,3 +27,4 @@ Today I discovered the functions Single() and SingleOrDefault() which have nearl
 I like this behavior very much because I often search for the existence of a somehow special object and based on this existence I do something or not. If there is more than one of these special objects, there is most likely something wrong with the data and it is better to stop the process and to examine the data. So an exception feels right at this moment.
 
 To finish up this kwik-e: First() will give you the first (duh!) element while Last() and LastOrDefault() will give you the last element.
+

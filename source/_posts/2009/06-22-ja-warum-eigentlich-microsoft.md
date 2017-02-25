@@ -34,3 +34,4 @@ Beispiel: Ein Projekt mit 5 Entwicklern und 6 Monaten Dauer:
 Denke sich jeder selber, wie groß das X ist, machen da ein oder zwei Server-Lizenzen den Braten fett?
 
 Ich für meinen Teil finde unabhängig vom Umfeld, dass .Net die bessere Technologie ist. Ich habe meine Entscheidung von damals nie bereut. Auch wenn sie mehr auf Gefühlen, als auf Fakten beruhte.
+

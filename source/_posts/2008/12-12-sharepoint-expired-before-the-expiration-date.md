@@ -15,3 +15,4 @@ I am using [this Virtual PC-Image](http://www.microsoft.com/downloads/details.as
 But it should work at least until April 2009! ([source](http://hermes.tc/Microsoft-Dynamcis-CRM/Dynamics-CRM-4.0-VPC-verfuegbar.html), [source's source](http://www.microsoft.com/downloads/details.aspx?familyid=DD939ED9-87A5-4C13-B212-A922CC02B469&amp;displaylang=en)).
 
 It looks like the error message is wrong. Basically it tries to tell you that the used identity for the application pool [should be in the administrators group](http://hermansberghem.blogspot.com/2006/10/trial-period-has-expired-even-with.html). _Isn't that obvious???_
+

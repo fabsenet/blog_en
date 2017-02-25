@@ -97,3 +97,4 @@ At this point it is possible to follow the high level code path (e.g. is it a re
 In terms of performance: I don’t care! I think the compiler will inline the extra variable again.
 
 Source code is read many more often than written, so it should be readable and understandable. Take a look at the first peace of code and the last one and decide for yourself, which one is better readable?!
+

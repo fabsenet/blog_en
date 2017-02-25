@@ -21,3 +21,4 @@ OpenGL Speedup: 2.55
 </pre>
 
 Interesanterweise lässt sich gut erkennen, dass es sich bei HT nicht um einen wirklichen zweiten Kern handelt. Bei echtem dual-core hätte ich einen Multiprocessor Speedup von fast 2 erwartet. Trotzdem arbeitet es sich gleich viel angenehmer.
+

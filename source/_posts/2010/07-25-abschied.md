@@ -14,3 +14,4 @@ Viele schöne Jahre neigen sich dem Ende zu. Ich habe versucht, mit dir [spritsp
 Allerdings warst du auch kreativ in deinen Krankheiten. Ich erinnere mich da z.B. an ein quietschendes Kupplungspedal oder einen gebrochenen Schließzylinder. Im Großen und Ganzen hast du aber eine Ausdauer an den Tag gelegt, vor der ich meinen Hut ziehe!
 
 Während du würdevoll deinen angestammten Tiefgaragenpatz verlässt, lässt du mich mit einer hohen Erwartungshaltung an deinen Nachfolger zurück.
+

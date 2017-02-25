@@ -34,3 +34,4 @@ Ein XSD-Schema kann also eine Reihenfolge von Elementen vorschreiben. Dies bezie
 Weiteres habe ich in der RFC aber nicht gefunden, damit ist es aber weder belegt noch wiederlegt, ob die Reihenfolge nun entscheidend ist.
 
 [Google](http://www.google.de/search?q=xml+order+of+elements) hat zwar ein paar Treffer, aber nichts, was nun wirklich weiter hilft.
+

@@ -30,3 +30,4 @@ Aber wenn ich sie irgendwann durch gehe, muss ich wohl auch mal wieder etwas aus
 Ach und ich denke, ich wiederhole das Experiment nochmal, wenn irgendwann...
 
 **Abschließendes Fazit**: Ich bin wohl doch nicht süchtig, da mir der Entzug nicht sonderlich schwer gefallen ist.
+

@@ -14,3 +14,4 @@ Man hat nicht mehr ein Fenster mit der Kontaktliste und ein Chatfenster für jed
 Erinnert mich etwas an den "Erfolg" von Winamp 3! Sorry Skype, I wish you better luck next time!
 
 [Seht es euch selbst an](http://share.skype.com/sites/en/skype_beta_and_new_releases/ "Videos von den Entwicklern"), aber installiert es bitte nicht.
+

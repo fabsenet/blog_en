@@ -16,3 +16,4 @@ Dann kam uns das Angebot vom Freundeskreis FHL (neu: Freundeskreis HfTL) sehr ge
 Und jetzt lese ich gerade auf [Golem](http://www.golem.de/0703/51063.html "CeBIT-Tickets f&uuml;r 98 Cent"), dass es auch noch einen Haufen günstiger Karten bei Ausstellern und Elektronikfachgeschäften gibt.
 
 Fazit: Wer die Tickets für 33+€ kauft, ist selbst schuld.
+

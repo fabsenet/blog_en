@@ -24,3 +24,4 @@ Cloud Computing ist doch gerade der Trend,
 *   diese ganzen hardwarenahen Geschichten (Security, Load Balancing, Netzwerkkonfiguration, Backups, …) an Dienstleister abzugeben,*   nur noch dafür zu zahlen, was mach auch wirklich nutzt und*   im Zweifelsfall auch mal mehr Power nehmen kann, als man mit eigenen Servern hätte haben können. (Scale-Out durch zusätzliche Server per Mausklick)  
 
 Stattdessen gehen die beiden auf Themen wie Peer-to-Peer-Computing (kein Filesharing!), MapReduce und Grid Computing ein. Diese Aspekte sind sicher genauso interessant, sollten aber in der Themenstellung “Cloud Computing” höchstens eine Nebenrolle spielen.
+

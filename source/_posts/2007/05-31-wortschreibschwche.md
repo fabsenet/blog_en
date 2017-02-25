@@ -12,3 +12,4 @@ author: Fabian Wetzel
 Wie man auf dem Bild nicht erkennen kann, war da so ein Bierwagen. Im grünen Bereich oben am Wagen stand auch Firmenname und Anschrift und sowas.
 
 Es hieß etwa folgendermaßen:&nbsp;"Getränkefachgroßhandel $Name&nbsp;$Straße $Ort".&nbsp; Na wer findet den Fehler?
+
