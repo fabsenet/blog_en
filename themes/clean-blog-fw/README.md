@@ -14,13 +14,11 @@ Clean blog is a full featured, responsive Hexo theme. [Demo here](http://www.cod
 - Cover image for posts and pages
 - Tags and Categories Support
 - Responsive Images
-- Image Gallery
 - Code syntax highlighting
 
 ## External libraries used
 
 - [Bootstrap](http://getbootstrap.com/css/)
-- [FeatherLight.js](http://noelboss.github.io/featherlight/) (Gallery)
 - [jQuery](https://jquery.com/)
 
 ## Installation
