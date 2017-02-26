@@ -5,7 +5,7 @@ comment: false
 tags:
   - coding
   - PowerShell
-  - Windfows 10
+  - Windows 10
 date: 2015-09-09T09:27:53.000Z
 author: Fabian Wetzel
 subtitle: Did you know PowerShell is case-sensitive? I did not know this until recently.
