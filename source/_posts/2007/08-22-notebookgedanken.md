@@ -1,6 +1,5 @@
 ---
 title: Notebookgedanken
-id: 78
 tags:
   - Allgemein
 date: 2007-08-22T08:53:28.000Z
@@ -15,4 +14,5 @@ Dell bietet für Privatanwender ein XPS M an, was allerdings noch ein optisches 
 Eigentlich wollte ich ja kein Tablet PC mehr. Die Funktion ist zwar ziemlich gut aber mich schreckt es ab, extra für dieses Feature Unsummen zu zahlen. Dann hab ich aber bei den Thinkpads von <strike>IBM</strike> Lenovo geguckt. Das X61 ist ein Traum ;) guckt euch einfach die [Tour](http://www.lenovovision.com/lv1/mediaplayer.php?fid=thinkpad_x60_tablet_tour&locale=de-de) an und seht selbst. Allerdings kostet es zwischen 1700 und 1800€ diesmal aber incl. MwSt.
 
 Ob ich ein Spendenkonto einrichten sollte? *g*
+
 

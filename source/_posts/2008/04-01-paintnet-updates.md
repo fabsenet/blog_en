@@ -1,6 +1,5 @@
 ---
 title: Paint.net Updates
-id: 142
 tags:
   - Erfahrungen
   - My Setup
@@ -13,4 +12,5 @@ Ich mag ja [Paint.net](http://www.getpaint.net/). Es ist kostenlos und bietet de
 [![Paint.net Updatedialog](https://az275061.vo.msecnd.net/blogmedia/2008/04/image6.png)](http://www.getpaint.net/) 
 
 Jedes mal, wenn ich es auf mache, muss ich es updaten!
+
 

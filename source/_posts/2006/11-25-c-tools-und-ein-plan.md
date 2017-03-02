@@ -1,6 +1,5 @@
 ---
 title: 'C# Tools und ein Plan'
-id: 27
 tags:
   - .net
 date: 2006-11-25T00:33:21.000Z
@@ -22,4 +21,5 @@ Dann ein sauberes Logging-Framework. Ich denke [Log4Net](http://logging.apache.o
 Beim Streifzug durch die weiten des Internets ist mir auch noch [GhostDoc](http://www.roland-weigelt.de/ghostdoc/) aufgefallen. Es erleichtert einem das Kommentarschreiben. Hier gibt es ein gutes [Video](http://channel9.msdn.com/Showpost.aspx?postid=121822), was GhostDoc so kann.
 
 Etwa 3 Minuten später bin ich dann auch auf "[Visual Studio Add-Ins Every Developer Should Download Now](http://msdn.microsoft.com/msdnmag/issues/05/12/VisualStudioAddins/default.aspx)" gestoßen. Die Liste enthält unter anderen auch das Tool CopySourceAsHTML, womit sich der Kreis wieder schließt ;)
+
 

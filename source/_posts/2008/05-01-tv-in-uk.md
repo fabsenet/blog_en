@@ -1,6 +1,5 @@
 ---
 title: TV in UK
-id: 153
 tags:
   - Auslandspraktikum
   - Erfahrungen
@@ -13,4 +12,5 @@ Also ich glaube ich fange jeden Eintrag mit "Also" an. Das sollte ich mir abgewÃ
 Was ich bei uns noch nicht gesehen habe ist "Bargain Hunt". 2 Teams bekomme jeweils 300 Pfund und haben dann eine Stunde Zeit, auf einem Flohmarkt 3 Dinge zu erwerben. Diese Sachen werden dann bei einer offiziellen Auktion mit versteigert und dann wird geguckt, wer mehr Gewinn (oder weniger Verlust) gemacht hat.
 
 Ach und auch an Tag 4 von 202 hat es geregnet ;)
+
 

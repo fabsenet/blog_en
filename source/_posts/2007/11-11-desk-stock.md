@@ -1,6 +1,5 @@
 ---
 title: Desk-Stock
-id: 98
 tags:
   - Blogwelt
   - Stöckchen
@@ -26,4 +25,5 @@ So dann geht es jetzt noch ans weiter werfen:
 Meine Wurfziele sind [Sebastian](http://www.puff-reis.de/) und [Marco](http://blog.mwiedemeyer.de/)!
 
 Mir w&#xFC;rden auch ein paar andere Personen einfallen, die sind aber alle Nicht-Blogger! (=Halbstummer Aufruf zum Bloggen!)
+
 

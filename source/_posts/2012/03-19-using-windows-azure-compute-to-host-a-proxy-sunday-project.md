@@ -1,6 +1,5 @@
 ---
 title: 'Using Windows Azure Compute to host a proxy [Sunday project]'
-id: 648
 tags:
   - Azure
   - Sunday Project
@@ -148,4 +147,5 @@ There is somehow an issue with the Windows Firewall on the server. This is the o
 But I was curious at last and measured the network bandwich and making a real world test watching a video on youtube. Both were terrible slow ![Sad smile](https://az275061.vo.msecnd.net/blogmedia/2012/03/wlEmoticon-sadsmile.png) Maybe I should switch to an Azure data center in Europe?
 
 _This blog entry is getting really long anyway, I think no one will ever read it. But nevertheless I am publishing it. It will be at least a (good) reference for myself._
+
 

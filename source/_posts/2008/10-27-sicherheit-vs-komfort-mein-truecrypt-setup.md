@@ -1,6 +1,5 @@
 ---
 title: 'Sicherheit vs. Komfort: Mein Truecrypt Setup'
-id: 270
 tags:
   - Kryptographie
   - My Setup
@@ -28,4 +27,5 @@ Diese Zeile startet Truecrypt, nimmt das angegebene Volumen und meldet es auf de
 Abschließendes Fazit ist, dass ich genau wie ganz am Anfang für den Systemstart nur ein Passwort benötige, nun meine Platten aber komplett verschlüsselt sind. Neben dem Bonus der Sicherheit kommt diese Passwortabfrage nun auch am Anfang im Bootprozess statt in der Mitte! Ich kann also anschalten, gebe nach 3 Sekunden mein Kennwort ein und kann mir einen Kaffee holen, wenn ich wieder komme ist alles fertig!
 
 Ich denke, dass ich auf diesem Wege sowohl die Sicherheit als auch den Komfort gut unter einen Hut gebracht habe!
+
 

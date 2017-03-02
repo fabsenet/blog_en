@@ -1,7 +1,5 @@
 ---
 title: Die Suche nach dem nächsten Auto
-id: 2162
-comment: false
 tags:
   - Allgemein
   - Aus dem Leben
@@ -29,4 +27,5 @@ BMW hat größere Motoren, ich analysierte das also. Wegen der Preisgestaltung l
 Seit dem haben wir das Auto jetzt etwas über ein Jahr, der erste Ölwechsel ist durch, sonst war bisher nichts gewesen und ich bin absolut zufrieden und glücklich. Lediglich ein klitzekleiner Teil in mir schielt mittlerweile auf einen Tesla.
 
 Dieser Beitrag wird unterstützt durch Autoersatzteile.de. Schau doch mal auf [autoersatzteile.de/elektrik/mercedes-benz](http://www.autoersatzteile.de/elektrik/mercedes-benz) vorbei und sieh dir die günstigen Angebote an.
+
 

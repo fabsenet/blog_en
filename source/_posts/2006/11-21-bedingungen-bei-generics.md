@@ -1,6 +1,5 @@
 ---
 title: Bedingungen bei Generics
-id: 51
 tags:
   - .net
 date: 2006-11-21T18:07:33.000Z
@@ -28,4 +27,5 @@ Mit der zusätzlichen Bedingung sagt man dem Compiler, dass T eine Klasse sein m
 Danke Marco!
 
 **Noch ein kleines Update:** Natürlich würde ich für einen Fehlerfall eine Exception werfen und nicht null zurückgeben.
+
 

@@ -1,6 +1,5 @@
 ---
 title: 'GraphLess: Tool zur Graphen-Visualisierung'
-id: 35
 tags:
   - .net
   - Allgemein
@@ -29,4 +28,5 @@ Das [.Net Framework](http://www.microsoft.com/downloads/details.aspx?displaylang
 _Wozu das ganze?_ - Naja man kann zum Beispiel sehr anschaulich Isomorphie prüfen. Es hatte mich einfach in den Fingern gekitzelt, dieses Teil zu schreiben.
 
 _Wie erstellt man Kanten?_ - Ok, es steht zwar etwas weiter oben, aber ich versuch es nochmal. Ihr macht es so, als wenn ihr auf den Desktop eine Datei in den Papierkorb ziehen wollt, bloß halt mit der rechten Maustaste. Auf den ersten Knoten mit der rechten Maustaste klicken und halten, jetzt den Zeiger auf eine andere Ecke bewegen (Es wird eine Vorschaukante gezeichnet beim Ziehen) und dort loslassen. Anfangs- und Zielknoten müssen vorher schon existieren.
+
 

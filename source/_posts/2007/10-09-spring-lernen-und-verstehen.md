@@ -1,6 +1,5 @@
 ---
 title: Spring lernen und verstehen
-id: 88
 tags:
   - coding
   - spring
@@ -19,4 +18,5 @@ Bei Hibernate sieht es etwas anders aus. Dort habe ich gleich mit der [Reference
 Als C#-Begeisterter .Net-ler war mein Favorit vor dem Projektstart eigentlich ASP.Net, was aber letzendlich nicht genommen wurde. Mittlerweile bin ich nicht mehr traurig, denn so kann ich lernen, wie die &quot;Andere Seite&quot; an Probleme herangeht.
 
 Als letztes gilt immernoch der pragmatische Ansatz: Es wird die Sprache gew&#xE4;hlt, die f&#xFC;r die L&#xF6;sung des Problems am geeignetsen ist.
+
 

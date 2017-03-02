@@ -1,6 +1,5 @@
 ---
 title: 'Fluent Interfaces: Sinnvoll?'
-id: 360
 tags:
   - 'C#'
   - coding
@@ -69,4 +68,5 @@ Ach und noch ein allerletzter Punkt: In diesem Ansatz muss ich viel Schmalz dara
 **Fazit:     
 **[x] Ich hab mir Fluent Interfaces angesehen    
 [x] Ich weiß keinen guten Fall, wann das Ganze wirklich Sinn macht
+
 

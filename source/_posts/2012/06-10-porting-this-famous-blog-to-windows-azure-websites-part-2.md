@@ -1,6 +1,5 @@
 ---
 title: Porting this famous blog to Windows Azure Websites (Part 2)
-id: 682
 tags:
   - Azure
   - coding
@@ -14,4 +13,5 @@ While waiting for my Website preview access, I decided to move all pictures and 
 Creating the storage account is easy and straight forward. Creating the CDN account as well. But using my own domain name to “hide” the CDN stuff does not work so far. I need to setup domain settings (CNAME) my current hoster does not allow me to.
 
 So I guess I have to move my domain first.
+
 

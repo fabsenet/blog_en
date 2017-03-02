@@ -1,6 +1,5 @@
 ---
 title: Preisgestaltung von HD-Material!
-id: 429
 tags:
   - Amazon
   - Aus dem Leben
@@ -16,4 +15,5 @@ Bei Hangover zahlt man zur Zeit für die [DVD 14 Euro](https://www.amazon.de/dp/
 Aber warum muss ich bei T-Home, wo ich für VDSL schon Aufpreis zahle und generell recht viel Geld lasse, auch für die Miete eines Films einen Aufpreis zahlen, wenn ich den in HD mieten will (i.d.R. einen Euro mehr bei Mietpreisen von 2 bis 7 Euro)? Der liegt bei denen im Rechenzentrum auf einer Festplatte rum und auch wenn der Traffic bei HD wohl höher sein wird, ist es von Anfang bis Ende das Netz der Telekom.
 
 Hier wird doch eindeutig derjenige abgezockt, der auf seiner ganzen HD-Infrastruktur nun auch mal HD-Material anschauen will. Finde ich eine ganz linke Tour.
+
 

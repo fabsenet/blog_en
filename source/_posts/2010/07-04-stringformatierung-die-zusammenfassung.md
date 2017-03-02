@@ -1,6 +1,5 @@
 ---
 title: Stringformatierung – Die Zusammenfassung
-id: 463
 tags:
   - 'C#'
   - im Netz gefunden
@@ -15,4 +14,5 @@ Jetzt habe ich ein schönes cheat sheet gefunden, was dies auf wenigen Seiten zu
 [![image](https://az275061.vo.msecnd.net/blogmedia/2010/07/image35.png "image")](http://john-sheehan.com/blog/wp-content/uploads/msnet-formatting-strings.pdf) 
 
 [Quelle](http://john-sheehan.com/blog/net-cheat-sheets/)
+
 

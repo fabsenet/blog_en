@@ -1,6 +1,5 @@
 ---
 title: Ich verkaufe meinen Namen und mein Gesicht...
-id: 44
 tags:
   - Blogwelt
   - Office
@@ -11,4 +10,5 @@ author: Fabian Wetzel
 Wie tief kann man eigentlich als Fernsehmoderator sinken?
 
 [http://aimans-office.spaces.live.com/](http://aimans-office.spaces.live.com/ "http://aimans-office.spaces.live.com/")
+
 

@@ -1,7 +1,5 @@
 ---
 title: PowerShell is case-sensitive!
-id: 2156
-comment: false
 tags:
   - coding
   - PowerShell
@@ -25,4 +23,5 @@ As you can see, there is a modified file. If I now change into the assets folder
 By the way, the old command shell does not have this weird behavior:
 
 ![cmd_is_not_confused](https://az275061.vo.msecnd.net/blogmedia/2015/09/cmd_is_not_confused.png)
+
 

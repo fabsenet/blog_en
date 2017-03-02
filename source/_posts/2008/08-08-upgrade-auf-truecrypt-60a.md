@@ -1,6 +1,5 @@
 ---
 title: Upgrade auf Truecrypt 6.0a
-id: 235
 tags:
   - My Setup
 date: 2008-08-08T18:15:08.000Z
@@ -18,4 +17,5 @@ Vorher:
 
 Nachher:
 [![tc60a](https://az275061.vo.msecnd.net/blogmedia/2008/08/tc60a-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2008/08/tc60a.jpg)
+
 

@@ -1,6 +1,5 @@
 ---
 title: Gratis Eis! (Tag 24)
-id: 158
 tags:
   - Auslandspraktikum
   - Büroleben
@@ -15,4 +14,5 @@ Um dem Beitrag noch einen echten Sinn zu geben, muss ich mal sagen, dass bei mir
 Tja ist halt T-Mobile International und nicht T-Mobile UK, sollte man meinen (ist auch so, soweit ich gehört hab).
 
 _Und nochmal alles Gute zum Geburtstag Sabrina! Ich liebe dich!_
+
 

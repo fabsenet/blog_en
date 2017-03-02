@@ -1,6 +1,5 @@
 ---
 title: Sicherheitslücke in meinem Blog?
-id: 139
 tags:
   - über diese Seite
 date: 2008-03-18T14:04:53.000Z
@@ -14,4 +13,5 @@ Ich muss wohl mal mein Wordpress auf eine aktuelle Version updaten?!
 **Nachtrag:** Ich habe mein Kennwort ge&#228;ndert und den Blog auf die aktuelle Version aktualisiert. Wer es nochmal merkt, sagt mir wenn m&#246;glich direkt Bescheid.
 
 **Traurig aber wahr:** Dies hier ist der 100\. Post auf meinem Blog
+
 

@@ -1,6 +1,5 @@
 ---
 title: Weitere Google-Hacks
-id: 100
 tags:
   - Googlehack
 date: 2007-11-13T09:03:03.000Z
@@ -14,4 +13,5 @@ Umrechnen von W&#xE4;hrungen:
 
 Allgemeines Rechnen:   
 [sin(100/110*PI)](http://www.google.com/search?q=sin%28100%2F110*PI%29)
+
 

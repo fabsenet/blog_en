@@ -1,6 +1,5 @@
 ---
 title: Share your wireless connection wireless using Windows 8 (or 7)
-id: 1912
 tags:
   - im Netz gefunden
   - Notebook
@@ -25,4 +24,5 @@ It's done in an elevated command prompt:
     netsh wlan start hostednetwork
 
 and at last you have to enable connection sharing between the networks. You may want to take a look at my [pictured source](http://www.windows7hacker.com/index.php/2012/06/how-to-turn-your-windows-8-computer-into-a-wireless-hotspot-access-point/).
+
 

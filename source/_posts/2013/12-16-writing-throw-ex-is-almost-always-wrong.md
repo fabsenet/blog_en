@@ -1,7 +1,5 @@
 ---
 title: Writing 'throw ex;' is almost always wrong!
-id: 2046
-comment: false
 tags:
   - .net
   - 'C#'
@@ -79,4 +77,5 @@ Here is the output:
 As you can see, `throw;` preserves the actual location, where the exception really was thrown.
 
 There is hardly any case where you want to hide the actual location of an error, so the best is to just use `throw;` as your default in a catch clause.
+
 

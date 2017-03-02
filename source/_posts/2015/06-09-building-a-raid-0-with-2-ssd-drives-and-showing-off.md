@@ -1,7 +1,5 @@
 ---
 title: Building a RAID 0 with 2 SSD Drives (and showing off)
-id: 2135
-comment: false
 tags:
   - Allgemein
   - Backup
@@ -25,4 +23,5 @@ Then I felt comfortable enough to go ahead and to setup a RAID 0 with both drive
 This measured speed looks very impressive and it is significantly higher than the speed of both single drives combined. It may has to do with me using the Marvel chipset in the first measurement. Maybe the INTEL chipset is doing some performance magic on the cover as well? I do not know and I frankly do not care.
 
 For what it's worth, the actual perceived performance gain compared to a single SSD drive is next to nothing but it is definitely not slower than before and the system partition has now much more free space than before. The additional free space without partition/drive borders in between it is the real gain here for me.
+
 

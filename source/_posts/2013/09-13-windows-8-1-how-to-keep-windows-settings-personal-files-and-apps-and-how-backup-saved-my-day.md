@@ -2,8 +2,6 @@
 title: >-
   Windows 8.1: How To Keep Windows Settings, Personal Files And Apps (And How
   Backup Saved My Day)
-id: 2019
-comment: false
 tags:
   - Backup
   - DIY
@@ -24,4 +22,5 @@ Summing up:
 
 *   It was the first time, a backup really saved me from doing something stupid
 *   Always select the right language and option
+
 

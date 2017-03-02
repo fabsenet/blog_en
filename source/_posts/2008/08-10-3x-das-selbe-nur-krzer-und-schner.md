@@ -1,6 +1,5 @@
 ---
 title: 3x das Selbe - nur kürzer und schöner
-id: 237
 tags:
   - .net
   - coding
@@ -55,4 +54,5 @@ Particles.RemoveAll(b =&gt; b.LifetimeExceeded);</pre>
 }
 .csharpcode .lnum { color: #606060; }
 </style>
+
 

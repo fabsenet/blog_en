@@ -1,6 +1,5 @@
 ---
 title: Werben in Blogs
-id: 25
 tags:
   - Blogwelt
 date: 2006-11-24T11:32:22.000Z
@@ -12,4 +11,5 @@ Blogs werden immer beliebter. Nicht verwunderlich, dass dies auch die Werbeindus
 Interessant bleibt die Zukunft. Die Firma will normale Werbebanner abschaffen, ob sie das wohl schaffen?
 
 **Update: **Hab ich doch tatsächlich den Link vergessen.
+
 

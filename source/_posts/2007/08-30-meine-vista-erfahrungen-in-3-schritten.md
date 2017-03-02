@@ -1,6 +1,5 @@
 ---
 title: Meine Vista Erfahrungen in 3 Schritten
-id: 111
 tags:
   - Vista
 date: 2007-08-30T09:31:11.000Z
@@ -26,4 +25,5 @@ Mein neuer Desktoprechner. Ich hab das Vista Ultimate übernommen. Musste es nat
 Allgemein kann ich sagen, dass ich besonders die Suchleiste im Startmenü liebe...ich nutze fast nichts anderes mehr.
 
 Ich bin zufrieden mit Vista und werde nicht wieder zu XP wechseln. Klar ist, dass man sich hier und da etwas umgewöhnen muss, aber wenn man dafür bereit ist, dann hat man auch sein WOW ;)
+
 

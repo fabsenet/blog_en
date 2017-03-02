@@ -1,6 +1,5 @@
 ---
 title: Google Suchleiste verbreitern
-id: 89
 tags:
   - coding
 date: 2007-10-17T10:43:21.000Z
@@ -22,4 +21,5 @@ Dann m&#xFC;sst ihr einen Texteditor ausw&#xE4;hlen. Nehmt bitte Notepad oder ve
 document.getElementsByName(&quot;q&quot;)[0].setAttribute(&quot;style&quot;, &quot;width: 600px;&quot;);
 
 Abspeichern und fertig! Wenn ihr das n&#xE4;chste mal eine Google-Suchseite aufhabt, wird euer Suchfeld breiter sein! Die 600px gibt die Breite an und ihr k&#xF6;nnt sie gerne je nach Bedarf anpassen.
+
 

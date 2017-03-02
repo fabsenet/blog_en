@@ -1,7 +1,5 @@
 ---
 title: Reconfiguring Raid From Savety To Speed
-id: 2036
-comment: false
 tags:
   - DIY
   - My Setup
@@ -39,4 +37,5 @@ So even considering sequential reads, the SSD is clearly outperforming all of my
 So I think, I did the best to increase performance for my use case without buying new stuff.
 
 But remember to think about data safety, if you do this on your hardware! On Raid 5, one drive can fail and all your data are still there. On Raid 0, all your data are gone when (not if!) the first drive fails.
+
 

@@ -1,6 +1,5 @@
 ---
 title: Console.WriteLine() Tracing made easy
-id: 1955
 tags:
   - coding
   - debugging
@@ -146,4 +145,5 @@ Open your package manager console and write:
 &nbsp;
 
 The good thing is, it works with basically any object, always prints all members and you do not have to change your ToString() method. Of course there are downsides. You may not want to see *all* members or if you look closely, in its default settings it is interpreting the enum as an int, but its good enough for me.
+
 

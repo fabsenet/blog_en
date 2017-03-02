@@ -1,6 +1,5 @@
 ---
 title: 'Blogtipp des Tages: Ayende @ Rahien'
-id: 478
 tags:
   - .net
   - Blogwelt
@@ -16,4 +15,5 @@ Er postet viel anspruchsvolle Gedanken und Probleme im täglichen .Net Code-Allt
 Ich glaube er schläft nie und tut den ganzen Tag nichts anderes, aber wenn man selbst mal Zeit hat, sind seine Beiträge immer interessant und auch die Kommentare sind idR sehr qualitativ.
 
 [Ansehen!](http://ayende.com/Blog/Default.aspx "Ayende @ Rahien")
+
 

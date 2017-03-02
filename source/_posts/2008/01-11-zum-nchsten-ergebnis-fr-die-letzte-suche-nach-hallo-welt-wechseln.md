@@ -1,6 +1,5 @@
 ---
 title: 'Zum nächsten Ergebnis für die letzte Suche nach [Hallo Welt] wechseln'
-id: 116
 tags:
   - Allgemein
 date: 2008-01-11T20:06:58.000Z
@@ -17,4 +16,5 @@ Ich hab es probiert und es funktioniert sehr gut: man sucht etwas bei Google, kl
 **Ich habe 2 unterschiedliche Arten von Suchen. Entweder ich suche etwas, wo mir schon der erste Treffer reicht (z.B. eine Artikel auf Wikipedia). Hier brauche ich im Anschluss die Navigationstasten nicht mehr. Die zweite Kategorie meiner Suchen sind meistens sehr spezifisch und ich kann schon bei 8 von 10 Ergebnissen an Hand des Ausschnittes der Seite sagen, dass sie mir nichts nützt.
 
 Das geht sicherlich den meisten so, deshalb wird es nach der Installation der Toolbar sicher auch nicht dargestellt.
+
 

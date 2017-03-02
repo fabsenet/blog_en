@@ -1,6 +1,5 @@
 ---
 title: 'Verkaufe Audi A4 BJ.95, 101PS, CarPC'
-id: 386
 tags:
   - Angebot des Tages
   - mein Auto
@@ -53,4 +52,5 @@ Meine Preisvorstellung sind 900 Euro. (Der Händler hat mir 700 geboten und ich 
 Das ist der Touchscreen in der Mittelkonsole, bekomme leider kein gutes Foto hin… (MM400, 7 Zoll, Auto-On):
 
 [![Touchscreen in der Mittelkonsole](https://az275061.vo.msecnd.net/blogmedia/2009/06/tft-thumb.jpg "Touchscreen in der Mittelkonsole")](https://az275061.vo.msecnd.net/blogmedia/2009/06/tft.jpg)
+
 

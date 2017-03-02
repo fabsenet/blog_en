@@ -1,7 +1,5 @@
 ---
 title: On The Technical Health Of Fabse.Net
-id: 2087
-comment: false
 tags:
   - About This Page
   - Availability
@@ -19,4 +17,5 @@ My blog runs on a small VM in Microsoft Azure and the Azure storage in West Euro
 Microsoft requires at least two running VM instances in an availability set for their SLA to kick in. I am running only a single one to safe money. So I think it was actually my own fault/risk.
 
 Regarding the near feature, I want to look into increasing the availability while reducing costs at the same time. I will definitely write about it here.
+
 

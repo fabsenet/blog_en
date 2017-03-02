@@ -1,6 +1,5 @@
 ---
 title: 'Silent Install Of Firefox [Windows Azure Compute]'
-id: 660
 tags:
   - Azure
   - Cloud Computing
@@ -21,4 +20,5 @@ The second and last step was adding the following startup-task to my ServiceDefi
 It downloads the current Firefox version to c:Resources and executes the silent install.
 
 **Publish!** _Works! ![Smile](https://az275061.vo.msecnd.net/blogmedia/2012/03/wlEmoticon-smile4.png)_
+
 

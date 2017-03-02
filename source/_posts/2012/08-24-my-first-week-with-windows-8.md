@@ -1,6 +1,5 @@
 ---
 title: My First Week With Windows 8
-id: 1621
 tags:
   - Erfahrungen
   - Windows 8
@@ -41,4 +40,5 @@ I cannot give accurate details if 8 is really faster than Vista or 7\. I think I
 ## Conclusion
 
 The first week using Windows 8 was amazing. I wasn’t missing my old Vista at any time. I think Microsoft did a great job and I see a bright future for Windows 8.
+
 

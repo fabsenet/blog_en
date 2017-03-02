@@ -1,6 +1,5 @@
 ---
 title: Digitales Portfolio
-id: 56
 tags:
   - Studium
 date: 2007-04-05T10:21:41.000Z
@@ -14,4 +13,5 @@ Aus dem Portfolie soll erkennbar sein, was man die letzten 3 Jahre so im Studium
 Jedenfalls gibt es da einen Kommilitionen der <strike>ein Streber</strike> fleißiger Mensch ist. [Sebastian Larisch](http://www.sebastian-larisch.de "Digitales Portfolie von Sebastian Larisch") hat das Portfolie bereits jetzt erstellt.
 
 Das baut jetzt irgendwie Druck auf, dass ich das auch brauche (in besser! *g*)
+
 

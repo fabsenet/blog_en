@@ -1,6 +1,5 @@
 ---
 title: 'Linq Kwik-e: Order by'
-id: 666
 tags:
   - 'C#'
   - coding
@@ -30,4 +29,5 @@ To get the same ordered list as in the samples before, I had to reverse the orde
 This way, I can write the statements in the same order as I was used to!
 
 _You may want to read my _[_earlier Linq Kwik-e_](https://fabse.net/blog/2011/08/29/linq-kwik-e/)_ as well ![Zwinkerndes Smiley](https://az275061.vo.msecnd.net/blogmedia/2012/04/wlEmoticon-winkingsmile7.png)_
+
 

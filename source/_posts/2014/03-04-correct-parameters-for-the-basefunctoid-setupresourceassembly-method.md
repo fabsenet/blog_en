@@ -1,7 +1,5 @@
 ---
 title: Correct Parameters For The BaseFunctoid.SetupResourceAssembly Method
-id: 2061
-comment: false
 tags:
   - Allgemein
 date: 2014-03-04T13:41:05.000Z
@@ -23,4 +21,5 @@ To make this more refactoring safe, I would suggest the following call instead:
 ![](https://az275061.vo.msecnd.net/blogmedia/2014/03/030414_1242_CorrectPara2.png)
 
 This way, you can change your default namespace without fear of breaking "magic" strings.
+
 

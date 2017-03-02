@@ -1,6 +1,5 @@
 ---
 title: My First Microsoft Exam
-id: 1869
 tags:
   - AJAX
   - Certification
@@ -17,4 +16,5 @@ My prior knowledge was basic HTML knowledge and I had had a web application proj
 The part were I was struggling the most were about the usage of the XmlHTTPRequest object, JavaScript inheritence and all the different option on $.ajax(...). Some (educated) guessing was involved on my side ;-)
 
 I got 840 out of 1000 possible points and passed the exam! Yeah!
+
 

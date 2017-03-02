@@ -1,6 +1,5 @@
 ---
 title: Swoopo – Der volle Gewinn (für den Anbieter)
-id: 347
 tags:
   - Erfahrungen
   - im Netz gefunden
@@ -18,4 +17,5 @@ Das erschreckende ist, das zwar die Grafik zeigt, dass es sich zur Zeit um eine 
 Derjenige, der das Ding dann mitten in der Nacht für 3 Gebote bekommt, macht natürlich auch Gewinn, aber in der Summe ist es dem Anbieter dann auch egal. Voll krass, das ist wie Geld drucken!
 
 Ach ja und Versandkosten muss man natürlich zusätzlich zahlen.
+
 

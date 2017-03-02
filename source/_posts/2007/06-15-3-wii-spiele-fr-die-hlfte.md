@@ -1,6 +1,5 @@
 ---
 title: 3 Wii-Spiele für die Hälfte
-id: 72
 tags:
   - Allgemein
 date: 2007-06-15T13:39:45.000Z
@@ -15,4 +14,5 @@ author: Fabian Wetzel
 Ich mache ja sonst eigentlich keine direkte Werbung, aber ich finde das ist ein sehr gutes Angebot, wenn man denn eine Wii hat... ach ja der Code ist **7NTD5PSPAREN**
 
 Nur so lange der Vorrat reicht...
+
 

@@ -1,6 +1,5 @@
 ---
 title: In den Spiegel gucken und den Hang zur Perfektion entdecken
-id: 363
 tags:
   - Erfahrungen
   - im Netz gefunden
@@ -21,4 +20,5 @@ Abschließend möchte ich noch zu bedenken geben, dass eine Oberfläche nach mei
 Ich sehe hier in dem Fall Microsoft in der Pflicht, dass die die Tools sauber entwickeln. Denn die Generation, die nur lila Kühe kennt gibt es schon und wenn das jetzt auch noch einreißt, dann ist es mit dem physikalischen Verständnis auch bald vorbei.
 
 Man sieht derart gefälschte Spiegelungen immer häufiger und jetzt hab ich euch alle dafür sensibilisiert, achtet mal drauf!
+
 

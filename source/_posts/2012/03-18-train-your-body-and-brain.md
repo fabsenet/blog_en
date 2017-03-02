@@ -1,6 +1,5 @@
 ---
 title: Train your body AND brain
-id: 624
 tags:
   - Aus dem Leben
   - DIY
@@ -24,4 +23,5 @@ So far I subscribed to:
 I am going to need a larger SD Card in the future becaus of all the video content, but this is okay.
 
 Viewing videos on a small sceen is less painful than I thought. If the video is displaying source code or the visual studio IDE, it is zoomed in anyway most of the time. And if there is a Starcraft game in the video, I am well aware of all units and I am able to distinguesh them using only some pixels ![Winking smile](https://az275061.vo.msecnd.net/blogmedia/2012/03/wlEmoticon-winkingsmile5.png)
+
 

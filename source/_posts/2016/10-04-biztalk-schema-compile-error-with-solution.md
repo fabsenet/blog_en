@@ -1,7 +1,5 @@
 ---
 title: BizTalk Schema Compile Error (With Solution)
-id: 2180
-comment: false
 tags:
   - BizTalk
   - coding
@@ -20,4 +18,5 @@ description: >-
 Not helpful at all!
 
 **Solution:** You may not use Max Occurs = 0 anywhere!
+
 

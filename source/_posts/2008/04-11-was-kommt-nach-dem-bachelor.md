@@ -1,6 +1,5 @@
 ---
 title: Was kommt nach dem Bachelor?
-id: 147
 tags:
   - Studium
   - Träume
@@ -23,4 +22,5 @@ Den berufsbegleitenden Master kann ich auch schnell ausschlie&#223;en, denn es g
 Bleibt f&#252;r mich fast nur ein Weg, den ich mir &#252;berlegt habe. Den Master im Direktstudium zusammen mit einer Werksstudentenstelle. Ich stell mir das so vor, dass ich auf Basis einer 20h-Woche neben dem Studium arbeiten kann. Nat&#252;rlich kann ich keine festen Arbeitszeiten einhalten, das verhindert der Stundenplan. Sch&#246;n w&#228;re auch, wenn man zumindest teilweise auch von zu Hause arbeiten k&#246;nnte, denn ich mag es nicht, wenn man durch Pendeln so viel Zeit verliert. So kann man, ein Notebook vorausgesetzt, vielleicht auch zwischendurch die ein oder andere Stunde was machen. Ob ich einen passenden Arbeitgeber finde, der mir diese Chance gibt?
 
 Ich w&#252;rde mich durchaus &#252;ber Kritik freuen. Habt ihr andere Ideen? Meinungen? Was stellt ihr euch vor?
+
 

@@ -1,6 +1,5 @@
 ---
 title: 'BizTalk error: Data at the root level is invalid.'
-id: 668
 tags:
   - BizTalk
   - coding
@@ -30,4 +29,5 @@ The btproj file has this new content:
 > &lt;/ItemGroup&gt; 
 
 The error should be gone.
+
 

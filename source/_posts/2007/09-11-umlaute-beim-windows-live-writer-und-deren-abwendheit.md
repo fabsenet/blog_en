@@ -1,6 +1,5 @@
 ---
 title: Umlaute beim Windows Live Writer (und deren Abwendheit)
-id: 83
 tags:
   - über diese Seite
 date: 2007-09-11T12:44:05.000Z
@@ -12,4 +11,5 @@ Seit etwas längerer Zeit ist es schon so, dass der Windows Live Writer meine Um
 Ein Freund von mir hat bis vor kurzem sehr konsequent seine Umlaute immer so geschrieben: ä=ae, ü=ue, ö=oe und ß=sz
 
 Allerdings hab ich das schon immer recht _haeszlig_ gefunden ;)
+
 

@@ -1,6 +1,5 @@
 ---
 title: Meine Erfahrungen zum Thema Spritsparen!
-id: 76
 tags:
   - Erfahrungen
   - mein Auto
@@ -58,4 +57,5 @@ Reifendruck auf max pumpen - bringt gefühlt überhaupt nichts!
 Irgendwie hab ich es geschafft, mal in der Stadt 80 km zu fahren und dafür 10,56 L zu verbrennen, macht einen Verbrauch von 12,57 L. Nicht empfehlenswert, immer Vollgas zu geben! Außerdem ist man dann schneller als die "Grüne Welle" und steht deshalb wieder an der nächsten Ampel.
 
 _Habt ihr auch Erfahrungen zum Thema Spritverbrauch?_
+
 

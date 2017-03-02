@@ -1,6 +1,5 @@
 ---
 title: 'BizTalk: Verschiedene Receives in Kombination mit Correlation Sets'
-id: 441
 tags:
   - BizTalk
   - coding
@@ -22,4 +21,5 @@ Auch wenn aus logischer Sicht kein Pfad möglich ist, der vom Direct Receive zum
 Der Versuch, den Receive aus dem Receive Port durch einen Filter auf der MessageBox zu formulieren fruchtete ebenfalls nicht. Finales Ergebnis war, die gemeinsame Funktionalität in einer separaten Orchestration auszulagern und für den Direct Receive eine zusätzliche Orchestration zu bauen, die einen Call macht.
 
 Außerdem ist die Fehlermeldung “unknown system error” auch sehr hilfreich beim Finden des eigentlichen Problems, denn eigentlich ist die Orchestration viel größer, als hier auf dem Screenshot zu sehen.
+
 

@@ -1,7 +1,5 @@
 ---
 title: Installing Windows 10 IoT Core using a Hyper-V Windows 10 machine
-id: 2143
-comment: false
 tags:
   - coding
   - DIY
@@ -37,4 +35,5 @@ At this point I opened a powershell command prompt as an administrator and execu
 D:\win10-on-rpi&gt; ./dism.exe /Apply-Image /ImageFile:Flash.ffu /ApplyDrive:\\.\PhysicalDrive7 /SkipPlatformCheck
 ```
 [![windows10-iot-raspberry-pi2-flash-folder-dism-completed](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder-dism-completed.png)](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder-dism-completed.png)
+
 

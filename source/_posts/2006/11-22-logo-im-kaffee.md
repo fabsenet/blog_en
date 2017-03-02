@@ -1,6 +1,5 @@
 ---
 title: Logo im Kaffee!
-id: 23
 tags:
   - Fun
   - Träume
@@ -13,4 +12,5 @@ Hey ho, wiedermal hab ich Kaffeeflecken auf <span style="text-decoration: line-t
 Hier seht selbst:
 ![](https://az275061.vo.msecnd.net/blogmedia/2006/11/IMAGE_066k_thumb.jpg)
 Ich hab den Kontrast erhöht, dadurch sieht alles so blau aus. Orginal ist es ein weißes Blatt.
+
 

@@ -1,6 +1,5 @@
 ---
 title: iPod Classic synchronisiert den Playcount nicht
-id: 173
 tags:
   - iPod
   - Lösung
@@ -24,4 +23,5 @@ Dann ebend! Ich dachte mir, Winamp zeigt den iPod ja auch in der Mediabibliotek 
 **Lösung: **Ich hatte Winamp 5.35, hab jetzt ein Update auf 5.53 gemacht und hab alle Portable-Plugins rausgeschmissen und auch die Portable-Unterstützung selber (ml_pmp.dll aus dem Winamp-Plugin-Ordner löschen). Jetzt geht es auch definitiv mit Winamp sauber.
 
 Vielleicht hilft das ja dem nächsten...
+
 

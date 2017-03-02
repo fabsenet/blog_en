@@ -1,6 +1,5 @@
 ---
 title: Meine Firefoxplugins
-id: 104
 tags:
   - Erfahrungen
   - Firefox
@@ -32,4 +31,5 @@ Und so sieht er dann aus:
 ![image](https://az275061.vo.msecnd.net/blogmedia/2007/12/google_black.png)
 
 _Ich hatte übrigens eh kein Licht an außer dem Notebook_ :-)
+
 

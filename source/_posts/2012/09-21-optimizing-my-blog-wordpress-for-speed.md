@@ -1,6 +1,5 @@
 ---
 title: Optimizing My Blog (Wordpress) For Speed
-id: 1852
 tags:
   - Azure
   - Performance
@@ -26,4 +25,5 @@ I could have stopped here but at this point, [Google Page Speed](https://develop
 The next and last point for now was to optimize the image files. Google told me to use lossless compression of png files to save storage. [PNGOUT](http://advsys.net/ken/util/pngout.htm) is a nice little tool which optimizes the image filesize of pngs without changing any pixels. I used it to optimize all images. This save up to 50% in some instances!
 
 The current version of my page gets a score of 86 (out of 100). Starting from 72, this is a nice improvement.
+
 

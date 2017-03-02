@@ -1,6 +1,5 @@
 ---
 title: Schreiben von Reports?!
-id: 15
 tags:
   - Allgemein
 date: 2006-11-12T20:46:30.000Z
@@ -12,4 +11,5 @@ Im Zuge des Faches Betriebssysteme lesen wir den [Stallings](http://www.amazon.d
 Sowas ist wichtiger als man denkt! Jeder hat bestimmt schon mal in einem Raum gesessen, wo jemand ein eigentlich interessantes Thema so langweilig vorgestellt hat, dass man am liebsten eingeschlafen wäre.
 
 Denkt mal drüber nach und lest euch vielleicht mal das ein oder andere How-To durch. Ich werde es tun.
+
 

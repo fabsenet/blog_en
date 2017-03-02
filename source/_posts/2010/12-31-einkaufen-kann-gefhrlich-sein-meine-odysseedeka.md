@@ -1,6 +1,5 @@
 ---
 title: Einkaufen kann gefährlich sein! Meine Odysseedeka…
-id: 497
 tags:
   - Aus dem Leben
 date: 2010-12-31T12:25:03.000Z
@@ -24,4 +23,5 @@ Mein Fazit:
 1.  Das Parkplatzdesign sollte Edeka mal überdenken bzw. Überhaupt mal durchdenken, denn das hat wohl noch nie einer gemacht.
 2.  Und ich finde, alle hacken immer auf den jugendlichen Fahranfängern rum, aber aus meiner Sicht sind Rentner genauso gefährlich. Ich bin für einen Rentner-Fahrschul-Tüv. Rentner sollten in einer kleinen Fahrprüfung beweisen müssen, dass sie noch immer fahrtauglich sind. Ich denke da ab 67 Jahre alle zwei Jahre einmal.
 So und jetzt mache ich [Omas geheimen Nudelsalat](http://www.nudelsalat-rezept.de/rezepte/1-omas-geheimer-nudelsalat/ "Omas geheimer Nudelsalat") für die Party heute Abend!
+
 

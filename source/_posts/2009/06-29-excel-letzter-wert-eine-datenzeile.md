@@ -1,6 +1,5 @@
 ---
 title: 'Excel: Letzter Wert eine Datenzeile'
-id: 379
 tags:
   - Excel
   - im Netz gefunden
@@ -14,4 +13,5 @@ Ich schreibe immer wieder Werte untereinander in einer Excel-Tabelle und interes
 =VERWEIS(2;1/(A:A&lt;&gt;&quot;&quot;);A:A)
 
 Wobei A:A die Zeile A ist, auf die diese Formel wirkt. Das ist übrigens die [Frank Kabel – Lösung](http://www.excelformeln.de/formeln.html?welcher=48).
+
 

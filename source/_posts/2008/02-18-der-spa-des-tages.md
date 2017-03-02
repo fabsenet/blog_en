@@ -1,6 +1,5 @@
 ---
 title: Der Spaß des Tages
-id: 134
 tags:
   - Büroleben
   - Fun
@@ -13,4 +12,5 @@ Ja es war noch nicht mal um 9, da hatte ich schon den Spa&#223; meines Tages erl
 Diese Schranke ist jedenfalls seit gut einer Woche defekt. Die Schranke steht dabei dauerhaft offen.
 
 Jedenfalls gehe ich zu Fu&#223; an der Schranke vorbei, als 2 Autos gleichzeitig kommen. Der erste Fahrer (leider Klischee - erf&#252;llend eine Frau) h&#228;lt an dem Leseger&#228;t und zieht ihre Karte durch. Ich wunder mich innerlich, warum sie das macht, als schon der zweite Fahrer genau meinen Gedanken folgend aus dem Fenster br&#252;llt: &quot;Ey! Die ist doch offen! Meine Fresse!&quot; ;-)
+
 

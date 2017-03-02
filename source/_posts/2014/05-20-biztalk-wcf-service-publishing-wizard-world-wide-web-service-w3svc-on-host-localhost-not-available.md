@@ -2,8 +2,6 @@
 title: >-
   BizTalk WCF Service Publishing Wizard: World Wide Web service (W3SVC) on host
   localhost not available.
-id: 2076
-comment: false
 tags:
   - BizTalk
   - coding
@@ -40,4 +38,5 @@ The fix is to use the Server Manager to install the **IIS 6 management compatibi
 Restarting the publishing wizard now works as expected:
 
 ![WcfPublishingWizard_Success](https://az275061.vo.msecnd.net/blogmedia/2014/05/WcfPublishingWizard_Success.png "WcfPublishingWizard_Success")
+
 

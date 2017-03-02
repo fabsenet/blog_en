@@ -1,6 +1,5 @@
 ---
 title: 'Solution to: The credentials supplied to the package were not recognized'
-id: 1741
 tags:
   - Azure
   - coding
@@ -93,4 +92,5 @@ System.Web.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Ex
 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously) +375</span>
 
 <span style="font-size: xx-small;">Version Information: Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.0.30319.272</span>
+
 

@@ -1,6 +1,5 @@
 ---
 title: Itunes bekommt File-Receive-Location (macht BizTalk Konkurrenz!)
-id: 470
 tags:
   - gelesen
   - iPod
@@ -11,4 +10,5 @@ author: Fabian Wetzel
 “Automatisch zu iTunes hinzufügen” gibt es in der Itunes-Musikbibliothek als Unterordner. Kopiert man dort Dateien hin, werden sie von Itunes in die Bibliothek importiert. Dies geschieht entweder sofort oder bei der nächsten Ausführung.
 
 Ich finds gut und nutze es hin und wieder!
+
 

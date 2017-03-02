@@ -1,7 +1,5 @@
 ---
 title: Checklist For Recording Let's Plays
-id: 2043
-comment: false
 tags:
   - Checklist
   - Let's Play
@@ -51,4 +49,5 @@ In my first parts, I had a learning curve which let me build up a checklist to a
 
 If you want to, you can have a look at me playing XCOM: Enemy Unknown (German!):
 <iframe height="315" src="//www.youtube.com/embed/videoseries?list=PLJ8Ny2Jhmd_fjctFVrRzjApHOJ0_OPb1B" frameborder="0" width="560" allowfullscreen></iframe>
+
 

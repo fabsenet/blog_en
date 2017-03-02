@@ -1,6 +1,5 @@
 ---
 title: Perfekter Montagmorgen
-id: 415
 tags:
   - Büroleben
   - Fun
@@ -18,4 +17,5 @@ Ach und was geht schneller:
 Kaffee holen, natürlich!
 
 :-(
+
 

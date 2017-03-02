@@ -1,7 +1,5 @@
 ---
 title: Doing Transactions In Oracle Like You Know Them From SQL Server
-id: 2064
-comment: false
 tags:
   - Oracle
   - SQL Server
@@ -26,4 +24,5 @@ begin tran
 update mytable set somecolumn = 'some value' where id = 22
 commit
 ```
+
 

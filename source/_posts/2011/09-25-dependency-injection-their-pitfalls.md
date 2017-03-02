@@ -1,6 +1,5 @@
 ---
 title: Dependency injection and their Pitfalls*
-id: 593
 tags:
   - 'C#'
   - coding
@@ -27,4 +26,5 @@ So I had no choice but removing constructor arguments here and there until I fou
 My solution was simple. I removed the circular reference through removing one reference. It was not used anyway.
 
 _*The name of this article is freely leaned on the name of the blog _[_EAI Technologies &amp; their Pitfalls_](http://eai-technologies-and-their-pitfalls.blogspot.com/)_ of an ex coworker_ ![Winking smile](https://az275061.vo.msecnd.net/blogmedia/2011/09/wlEmoticon-winkingsmile3.png)
+
 

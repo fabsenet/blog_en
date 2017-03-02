@@ -1,7 +1,5 @@
 ---
 title: ncgsim - A Network Creation Games simulator
-id: 2098
-comment: false
 tags:
   - Allgemein
 date: 2014-10-17T11:23:15.000Z
@@ -19,4 +17,5 @@ I was trying out Github for the hosting of the repository and issue tracking and
 You can check it out yourself. It runs as an azure website on [http://ncgsim.azurewebsites.com](http://ncgsim.azurewebsites.com) and the repo is at [https://github.com/fabsenet/ncgsim](https://github.com/fabsenet/ncgsim "https://github.com/fabsenet/ncgsim")
 
 Let me know, what you think!
+
 

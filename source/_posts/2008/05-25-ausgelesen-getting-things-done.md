@@ -1,6 +1,5 @@
 ---
 title: 'Ausgelesen: Getting Things Done'
-id: 161
 tags:
   - gelesen
 date: 2008-05-25T19:13:06.000Z
@@ -18,4 +17,5 @@ Das von mir gekaufte Buch ist auf Englisch, da die deutsche Übersetzung wohl ni
 Der Autor argumentiert, dass das Gehirn sich besser um höhere Aufgaben kümmern kann, wenn es weiß, dass alle Aufgaben woanders verwaltet werden. Weiterhin gibt es auch viele andere hilfreiche Anregungen. So soll man sich bei jeder Sache selbst fragen "Was ist bei diesem Projekt/dieser Sache die nächste Aktion?" bzw. "Was muss als nächstes erledigt werden?".
 
 Wer bisher auch immer dachte, dass er nur zufällig immer an alles gedacht hat oder sogar öfter etwas vergisst, dem kann ich diese Lektüre nur empfehlen.
+
 

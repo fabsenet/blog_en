@@ -1,6 +1,5 @@
 ---
 title: Cinebench 9.5 Ergebnisse
-id: 17
 tags:
   - Allgemein
 date: 2006-11-13T01:41:16.000Z
@@ -29,4 +28,5 @@ Shading (OpenGL Hardware Lighting) : **851** CB-GFX  <p>OpenGL Speedup: 3.13
 
 ### Fazit
  <p>Das Notebook ist mit dem Pentium-M CPU-technisch etwas schneller als der etwas gealterte Athlon XP. Betrachtet man die Grafikleistung, wandelt sich das Bild. Hier punktet der Festrechner mit einer Radeon 9600 XT, das Notebook zieht mit einer Intel Extreme Graphics _Möchte-Gern-Grafikkarte_ nur den zweiten Platz.
+
 

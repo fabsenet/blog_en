@@ -1,7 +1,5 @@
 ---
 title: (NO) Messaging On Windows 10 IoT Core
-id: 2170
-comment: false
 tags:
   - Allgemein
 date: 2015-10-21T00:46:05.000Z
@@ -44,4 +42,5 @@ But what I really think is that Microsoft replaced and removed too much of the b
 It feels like there is also no demand for messaging in UWP or UWP in general?
 
 I am really considering to replace the Windows 10 IoT Core with something more supported like Raspbian? I could either use mono or I would implement the client in another language like python or nodejs?
+
 

@@ -1,6 +1,5 @@
 ---
 title: Nun doch unbegrenzte Vista Transfers ?!
-id: 10
 tags:
   - Vista
 date: 2006-11-02T23:25:25.000Z
@@ -13,4 +12,5 @@ Wie auf [Windows-Now](http://www.windows-now.com/blogs/robert/archive/2006/11/02
 Ursprünglich sollte Vista, einmal auf einer Hardware aktiviert, nur ein einziges mal auf einer anderen Hardware aktivierbar sein. Ausgenommen ist dabei der Transfer von Vista-Versionen, die zusammen mit der Hardware erworben wurden. Es bleibt also alles so, wie man es von XP gewohnt war.
 
 Ich persönlich freue mich darüber, muss ich nämlich nicht schon die komplette Hardware unbedingt vor der Vista-Installation zusammen haben! Nice!
+
 

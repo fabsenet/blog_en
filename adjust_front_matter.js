@@ -5,7 +5,7 @@ var url = require('url');
 var http = require('http');
 var https = require('https');
 var matter = require('gray-matter');
-
+var mkdirp = require('mkdirp');
 
 recursive("./source/_posts/", (err, files) => {
     files.forEach(function (file) {
@@ -40,21 +40,24 @@ recursive("./source/_posts/", (err, files) => {
                 var urlDetails = path.parse(externalUrl)
                 var targetFile = path.join(fileDetails.dir, fileDetails.name, urlDetails.base);
 
-                console.log("making sure, target dir exists: " + path.join(fileDetails.dir, fileDetails.name));
-                fs.mkdirSync(path.join(fileDetails.dir, fileDetails.name));
+                mkdirp(path.join(fileDetails.dir, fileDetails.name), function (err) {
 
-                console.log("found a remote image: " + externalUrl);
-                console.log("going to download it to: " + targetFile);
+                    // path exists unless there was an error, download can start
+                    console.log("found a remote image: " + externalUrl);
+                    console.log("going to download it to: " + targetFile);
 
-                var localImageFile = fs.createWriteStream(targetFile);
-                var protocolDownloader = externalUrl.startsWith("https:") ? https : http;
-                var request = protocolDownloader.get(externalUrl, function (response, err) {
-                    if (err) {
-                        console.error(err);
-                        return;
-                    }
-                    response.pipe(localImageFile);
+                    var localImageFile = fs.createWriteStream(targetFile);
+                    var protocolDownloader = externalUrl.startsWith("https:") ? https : http;
+                    var request = protocolDownloader.get(externalUrl, function (response, err) {
+                        if (err) {
+                            console.error(err);
+                            return;
+                        }
+                        response.pipe(localImageFile);
+                    });
+
                 });
+
             }
 
             //write back

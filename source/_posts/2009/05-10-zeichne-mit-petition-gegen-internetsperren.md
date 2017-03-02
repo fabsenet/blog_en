@@ -1,6 +1,5 @@
 ---
 title: 'Zeichne Mit: Petition gegen Internetsperren'
-id: 354
 tags:
   - Blogwelt
   - Erfahrungen
@@ -15,4 +14,5 @@ author: Fabian Wetzel
 Lasst euch das Internet nicht zensieren! Ich habe unterzeichnet und ihr solltet es auch! 
 
 **==&gt; **[**http://www.zeichne-mit.de/**](http://www.zeichne-mit.de/ "http://www.zeichne-mit.de/")** &lt;==**
+
 

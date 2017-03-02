@@ -1,6 +1,5 @@
 ---
 title: 'Ideas about NoSql on Windows Azure: RavenDB'
-id: 547
 tags:
   - Azure
   - NoSql
@@ -34,4 +33,5 @@ Should Ayende implement Azure Blob Storage as a supported underlying storage sys
 **My decision**
 
 It is a somewhat hard decision because I really like RavenDB but I think I will not use it.
+
 

@@ -1,6 +1,5 @@
 ---
 title: 'Azure: Minuspunkt!'
-id: 316
 tags:
   - Azure
   - Vista
@@ -13,4 +12,5 @@ Und der Minuspunkt des Tages geht an das [Azure SDK](http://www.microsoft.com/do
   > **Supported Operating Systems: **Windows Server 2008; Windows Vista Service Pack 1  
 
 Dummerweise nutzen unsere Arbeits-PCs noch XP und ein Image vom 08er Server konnte ich so schnell auch nicht auftreiben.
+
 

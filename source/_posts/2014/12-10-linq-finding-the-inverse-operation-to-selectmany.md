@@ -1,7 +1,5 @@
 ---
 title: 'Linq: Finding the inverse operation to SelectMany()'
-id: 2111
-comment: false
 tags:
   - 'C#'
   - coding
@@ -125,4 +123,5 @@ foreach (var groupedNumber in groupedNumbers)
 ```
 
 This does now exactly what I needed :-)
+
 

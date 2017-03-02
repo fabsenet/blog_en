@@ -1,6 +1,5 @@
 ---
 title: 'T-SQL: delete one row without beeing able to identify it'
-id: 1951
 tags:
   - coding
   - Kwik-e
@@ -67,4 +66,5 @@ but also
 .csharpcode .lnum { color: #606060; }
 </style>
 That worked suprisingly well and I could setup the identity column after this ![Smiley](https://az275061.vo.msecnd.net/blogmedia/2013/01/wlEmoticon-smile.png)
+
 

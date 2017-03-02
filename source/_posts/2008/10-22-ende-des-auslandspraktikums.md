@@ -1,6 +1,5 @@
 ---
 title: Ende des Auslandspraktikums
-id: 269
 tags:
   - Auslandspraktikum
   - Erfahrungen
@@ -15,4 +14,5 @@ Die Fahrt nach Hause verlief relativ ereignislos. Ich habe London im Uhrzeigersi
 Frankreich hat dann noch ein kleines Foto von mir gemacht und auf den letzten 100 km hab ich etwa eine Stunde durch Staus und Baustellen vergeudet.
 
 Fast 6 Monate England sind nun vorbei. Es ist nicht nur die Sprache, die man lernt sondern es ist vor allem die ganze Schaar von Problemen, die auf einen zu kommen, mit denen man dann irgendwie umgehen muss. Angefangen [beim Trinken](https://fabse.net/blog/2008/05/03/komisches-trinken-tag-6/) bis zum Mietrecht! Es ist vor allem kein Urlaub.
+
 

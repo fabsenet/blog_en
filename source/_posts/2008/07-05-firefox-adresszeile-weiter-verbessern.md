@@ -1,6 +1,5 @@
 ---
 title: Firefox Adresszeile weiter verbessern!
-id: 176
 tags:
   - Firefox
   - My Setup
@@ -17,4 +16,5 @@ Normalerweise werden ja anhand des eingegebenen Textes in der Adresszeile nur be
 Auf der [Seite der Entwickler](http://cybernetnews.com/cybersearch/) gibt es auch ein englischsprachiges Video, wie man das ganze richtig nutzt.
 
 Gefunden habe ich es bei [Lifehacker](http://lifehacker.com/397745/cybersearch-integrates-search-results-with-your-awesomebar).
+
 

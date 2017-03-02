@@ -1,6 +1,5 @@
 ---
 title: Ich plane einen neuen PC
-id: 81
 tags:
   - Träume
 date: 2007-03-08T14:23:16.000Z
@@ -41,4 +40,5 @@ Der Preis liegt etwas über meinem Ziel, könnte ich aber noch verkraften. Nun h
 Als erstes Kommen die 3 Festplatten wieder raus. Ich würde übergangsweise meine alte behalten und zum Geburtstag oder Weihnachten micht nochmal um neue Festplatte bemühen. Dies spart mir 186€. Anschließend würde ich die Grafikkarte durch eine Geforce 8800 GTS ersetzen (320MB, 299€). Neue Summe wäre **1.075€**. Damit bin ich sogar günstiger. Wie ich gerade selber feststelle, reicht es damit auch, nur eine Festplatte zu entfernen und die anderen beiden erhalten dann ein Raid 0\. Dann wird die allte Platte zur Backupplatte und alles ist wieder sicher. Preis dann: **1.199 €**
 
 Sollte ich das so machen oder gibt es andere Varianten, die besser für mich wären? Also ich plane die CPU auf 3 GHZ zu bringen und auch wieder etwas mehr zu zocken. Natürlich kommt auch Vista drauf.
+
 

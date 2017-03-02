@@ -1,6 +1,5 @@
 ---
 title: Vista Shortcut gesucht!
-id: 74
 tags:
   - Vista
 date: 2007-06-18T11:01:41.000Z
@@ -14,4 +13,5 @@ Jetzt möchte ich das auch mit Dateien. Ich habe z.B. einen Ordner "Studium", de
 Mir fehlt das "Ersten Suchtreffer starten"-Shortcut! Ich habe schon vergeblich versucht dieses eine bestimmte Shortcut zu finden, es steht nirgends.
 
 Für andere Shortcuts gibt es eine [gute Liste](http://shellrevealed.com/blogs/shellblog/archive/2006/10/16/Do-things-faster-with-Keyboard-Shortcuts.aspx).
+
 

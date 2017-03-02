@@ -1,6 +1,5 @@
 ---
 title: Endlich! (Tag 67)
-id: 170
 tags:
   - Auslandspraktikum
   - Büroleben
@@ -9,4 +8,5 @@ author: Fabian Wetzel
 ---
 
 Finally and officially! Ich habe Adminrechte auf meinem Arbeitsnotebook bekommen! Und ich brauchte nur 8 Wochen lang betteln :-) Das ist wie Weihnachten und Ostern und mein Geburtstag auf einmal.
+
 

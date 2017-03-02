@@ -1,7 +1,5 @@
 ---
 title: 'Using [Obsolete] to handle legacy code'
-id: 2125
-comment: false
 tags:
   - .net
   - 'C#'
@@ -37,4 +35,5 @@ And after some weeks/month I simply remove old obsolete methods and I can be sur
 
 So in summary I like to use the obsolete attribute to transition implementation and method signatures in a smooth way.
 </p>
+
 

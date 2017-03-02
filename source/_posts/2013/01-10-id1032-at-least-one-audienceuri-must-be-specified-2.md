@@ -1,6 +1,5 @@
 ---
 title: 'ID1032: At least one audienceUri must be specified'
-id: 1928
 tags:
   - Federation
   - WCF
@@ -78,4 +77,5 @@ author: Fabian Wetzel
 }
 .csharpcode .lnum { color: #606060; }
 </style>
+
 

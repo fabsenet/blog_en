@@ -1,6 +1,5 @@
 ---
 title: 'Wildcard-Matching in C#'
-id: 290
 tags:
   - Allgemein
 date: 2008-12-08T16:56:50.000Z
@@ -20,4 +19,5 @@ private static bool IsWildcardMatching(String text, String search)
     var s = "^" + Regex.Escape(search).Replace("\*", ".*") + "$";
     return Regex.IsMatch(text, s, RegexOptions.IgnoreCase);
 }</pre>
+
 

@@ -1,6 +1,5 @@
 ---
 title: Heute haben die Forentrolle einen guten Tag!
-id: 396
 tags:
   - im Netz gefunden
 date: 2009-07-28T13:37:12.000Z
@@ -16,4 +15,5 @@ Troll 2: Warum? Gibt es 49 Geräte, die vom Mac unterstützt werden?
 …
 
 ;-)
+
 
