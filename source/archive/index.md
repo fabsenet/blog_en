@@ -1,6 +1,7 @@
 ---
 title: The archive overview
-date: 2017-02-25 20:29:53
+date: 2017-02-25T20:29:53.000Z
+author: Fabian Wetzel
 ---
 
 Welcome to the archive of my blog. You can either load the [entire archive](../archives) or you can select a single year and go from there:

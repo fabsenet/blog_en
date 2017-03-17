@@ -7,9 +7,10 @@ var https = require('https');
 var matter = require('gray-matter');
 var mkdirp = require('mkdirp');
 
-recursive("./source/_posts/", (err, files) => {
+recursive("./source/", (err, files) => {
     files.forEach(function (file) {
 
+        if(!file.endsWith("index.md")) return;
         // console.log(file);
 
         fs.readFile(file, (err, fileContentBuffer) => {
