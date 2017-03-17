@@ -9,6 +9,7 @@ var mkdirp = require('mkdirp');
 
 recursive("./source/_posts/", (err, files) => {
     files.forEach(function (file) {
+
         // console.log(file);
 
         fs.readFile(file, (err, fileContentBuffer) => {
@@ -31,7 +32,7 @@ recursive("./source/_posts/", (err, files) => {
                 postObject.data.description = postObject.data.subtitle;
             }
 
-            var externalImageRegex = /[^\)]\]\((http[s]?:\/\/az275061\.vo\.msecnd\.net\/blogmedia[^\)\s]*)/g;
+            var externalImageRegex = /(http[s]?:\/\/az275061\.vo\.msecnd\.net\/blogmedia[^\)\s]*)/gi;
             var externalImageMatch;
             while (externalImageMatch = externalImageRegex.exec(postObject.content)) {
                 //this post has images which should be downloaded

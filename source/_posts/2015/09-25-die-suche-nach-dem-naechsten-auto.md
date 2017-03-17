@@ -22,7 +22,7 @@ Der Mercedes war okay, preislich aber am oberen Limit und wir schauten deshalb m
 
 BMW hat größere Motoren, ich analysierte das also. Wegen der Preisgestaltung liegt der 5er mit der E-Klasse gleich auf und daher war dort ein größerer Motor nicht mehr machbar, ich sah mir also den 3er genauer an. Eine vergleichbare Menge an Extras, aber größerer Motor. Zuerst wollte ich einen 328i und darauf hatten wir einen Vorführwagen mit dem 335i drin. Ein wirklich schönes Auto, aber ich bin mit diesem Motor nicht warm geworden. Der Klang ist, als würde er gleich zerreißen und gleichzeitig kommt man trotzdem nicht vom Fleck. Ich war enttäuscht, aber hatte noch nicht aufgegeben. Ich entschied mich, einen Diesel Probe zu fahren. Wir hatten einen 330d mit 6 Zylindern. Der Klang ist genial, er klingt einfach nur nach purer Kraft und Fahrspaß und das geniale ist, dass das Fahrzeug sich genauso spritzig wie der Scirocco fährt trotz gewachsenem Platzangebot. Die Entscheidung war gefallen!
 
-![BMW Abholung (unkenntlich)](https://az275061.vo.msecnd.net/blogmedia/2015/09/BMW-Abholung-unkenntlich.jpg)
+![BMW Abholung (unkenntlich)](BMW-Abholung-unkenntlich.jpg)
 
 Seit dem haben wir das Auto jetzt etwas über ein Jahr, der erste Ölwechsel ist durch, sonst war bisher nichts gewesen und ich bin absolut zufrieden und glücklich. Lediglich ein klitzekleiner Teil in mir schielt mittlerweile auf einen Tesla.
 
