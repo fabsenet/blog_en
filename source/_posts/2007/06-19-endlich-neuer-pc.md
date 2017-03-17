@@ -9,11 +9,11 @@ author: Fabian Wetzel
 
 So es war vor kurzem so weit, ich habe einen neuen PC erworben. Also eigentlich nur eine Hand voll Komponenten. Jedenfalls seht selbst:
 
-[![Vista Hardware Bewertung - standardtak](https://az275061.vo.msecnd.net/blogmedia/2007/06/Vista%20Hardware%20Bewertung%20-%20standardtak_thumb1.png)](https://az275061.vo.msecnd.net/blogmedia/2007/06/Vista%20Hardware%20Bewertung%20-%20standardtak1.png) 
+[![Vista Hardware Bewertung - standardtak](Vista%20Hardware%20Bewertung%20-%20standardtak_thumb1.png)](Vista%20Hardware%20Bewertung%20-%20standardtak1.png) 
 
 Naja und ich konnte es nicht lassen und musste etwas übertakten:
 
-[![Vista Hardware Bewertung - 3,3ghz oc](https://az275061.vo.msecnd.net/blogmedia/2007/06/Vista%20Hardware%20Bewertung%20-%203,3ghz%20oc_thumb1.png)](https://az275061.vo.msecnd.net/blogmedia/2007/06/Vista%20Hardware%20Bewertung%20-%203,3ghz%20oc1.png) 
+[![Vista Hardware Bewertung - 3,3ghz oc](Vista%20Hardware%20Bewertung%20-%203,3ghz%20oc_thumb1.png)](Vista%20Hardware%20Bewertung%20-%203,3ghz%20oc1.png) 
 
 ich bin von 1,86 GHz auf 3,3 GHz gegangen. Das System ist trotzdem stabil (10h lang im Orthos-Dauertest) und relativ kühl trotz boxed-Lüfter. (Für etwaige Schäden durch Nachmachen übernehme ich natürlich keine Haftung!!!)
 

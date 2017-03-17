@@ -80,7 +80,7 @@ Console.WriteLine(<span class="str">"Gender: "</span>+person.Gender);</pre>
 ...
 
 Console.WriteLine(<span class="str">"MyPerson: "</span>+person);</pre>
-![Untitled](https://az275061.vo.msecnd.net/blogmedia/2013/02/Untitled.png "Untitled")
+![Untitled](Untitled.png "Untitled")
 
 Works okay too, but you cannot use ToString() for other purposes anymore.
 
@@ -140,7 +140,7 @@ Open your package manager console and write:
 	margin: 0em;
 }
 .csharpcode .lnum { color: #606060; }
---></style>![Untitled2](https://az275061.vo.msecnd.net/blogmedia/2013/02/Untitled2.png "Untitled2")
+--></style>![Untitled2](Untitled2.png "Untitled2")
 
 &nbsp;
 

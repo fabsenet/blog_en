@@ -12,7 +12,7 @@ author: Fabian Wetzel
 
 In genau 8 Tagen muss ich meine Bachelorarbeit abgeben und da ich zwar gerne aber auch viel Google Reader lese, habe ich mich nun dazu entschieden, einen harten Entzug zu machen!
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2008/11/image4.png) 
+![image](image4.png) 
 
 Für die nächsten 8 Tage will ich nicht auf den GR-Button in meinen Lesezeichen klicken. Ich halte euch natürlich auf dem laufenden, wie ich durchhalte!
 

@@ -8,7 +8,7 @@ author: Fabian Wetzel
 
 Jetzt habe ich auch eine goldene Karte im Portemonnaie!
 
-&#160;![packstation goldcard](https://az275061.vo.msecnd.net/blogmedia/2010/01/packstationgoldcard.png "packstation goldcard") 
+&#160;![packstation goldcard](packstationgoldcard.png "packstation goldcard") 
 
 Aber wie kam es dazu?
 

@@ -9,7 +9,7 @@ author: Fabian Wetzel
 
 …oder so ähnlich. Werfen wir mal einen Blick auf folgenden Button:
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2009/06/image-thumb7.png "image")](https://az275061.vo.msecnd.net/blogmedia/2009/06/image20.png) 
+[![image](image-thumb7.png "image")](image20.png) 
 
 Gefunden hab ich das in einer PowerPoint-Präsentation. Auf den ersten Blick sieht diese Box echt cool aus. Aber sieht man sich das Ganze genauer an, geht das nicht mit rechten Dingen zu.
 

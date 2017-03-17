@@ -23,7 +23,7 @@ The attribute has 3 different constructors. The first one has no parameters at a
 
 The second constructor takes one string parameter. This is a message meant for others developers. If you use or try to use a method or class tagged with this attribute you will see the message and it will generate a compiler warning. I always use this message to explain “why?” and “what’s next?”. This means “Why is this message obsolete?”. It often is because the method has a vague naming or an obscure handling of some edge cases. But I see it as a good practice to always tell the caller what he should do next. So I always end the message with “please use the other method overload with parameter xyz.” or “please use method xyz instead”.
 
-![ObsoleteAttribute_in_VisualStudio](https://az275061.vo.msecnd.net/blogmedia/2015/02/ObsoleteAttribute_in_VisualStudio.png "ObsoleteAttribute_in_VisualStudio")
+![ObsoleteAttribute_in_VisualStudio](ObsoleteAttribute_in_VisualStudio.png "ObsoleteAttribute_in_VisualStudio")
 
 So why do I not simply refactor the method name and/or signature? Most legacy projects tend to have everything as public, have no unit tests and reuse code in several solutions in a mix+match style. It is hard to be absolutely certain to really find all callers. Some projects tend to do partial deployments as well. This means to replace only a subset of the assemblies in a deployment. This is most often done to save time. So as a baseline, I only refactor it, if I am sure it is safe and most of the time I cannot guarantee that. My next best way is to mark the method as obsolete and create a fixed version of it and then redirecting the caller using the message in the obsolete attribute.
 

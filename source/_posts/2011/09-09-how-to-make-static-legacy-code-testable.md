@@ -24,7 +24,7 @@ And the usages of these static classes are all over the place like so:
         <span style="color: green;">//... </span><span style="color: #2b91af;">SeriousService</span>.**DoSomething**(order.Name);
         <span style="color: green;">//... </span>}
 }</pre>
-![image](https://az275061.vo.msecnd.net/blogmedia/2011/09/image51.png "image")
+![image](image51.png "image")
 
 The challenge was to write a unit test which would test ExecuteOrder() without side effects in SeriousService.
 
@@ -34,7 +34,7 @@ Unluckily, changing the caller or the signature of the callee was no option to m
 
 After some thinking I came up with the idea to extract the functionality out of the static service:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2011/09/image52.png "image")
+![image](image52.png "image")
 
 The “new” static service endpoint has now a private static reference to the service implementation and all public methods forward there calls to this implementation. The new service implementation is based on an extracted interface. Caller and callee are still unchanged (red rectangle). In code, it looks like so:
 <pre class="code"><span style="color: blue;">interface </span><span style="color: #2b91af;">ISeriousService </span>{
@@ -59,7 +59,7 @@ The “new” static service endpoint has now a private static reference to the 
 }</pre>
 Until here, all we have done is to insert another level of indirection. But this enables us to replace the real functionality of the service with a mock:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2011/09/image53.png "image")
+![image](image53.png "image")
 
 This is possible if the service “endpoint” gets a public method to replace its implementation:
 <pre class="code"><span style="color: blue;">static class </span><span style="color: #2b91af;">SeriousService </span>{

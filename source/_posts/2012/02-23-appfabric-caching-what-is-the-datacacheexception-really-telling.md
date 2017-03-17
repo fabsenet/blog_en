@@ -17,7 +17,7 @@ The usage of the cache is quite simple and you will find it well documented with
 I consider the descriptiveness of the provided error messages as the real pain points. It basically always looks like this:
  > Microsoft.ApplicationServer.Caching.**DataCacheException** <p>ErrorCode&lt;ERRCA0017&gt;: SubStatus&lt;ES0006&gt;: There is a temporary failure. Please retry later. 
 
-It feels like the hole caching project throws this exception no matter what the real reason is. I am thinking, I really managed to produce all of them ![Smiley](https://az275061.vo.msecnd.net/blogmedia/2012/02/wlEmoticon-smile1.png) <p>Here is a short list for you to check against, if you managed to see this exception as well: 
+It feels like the hole caching project throws this exception no matter what the real reason is. I am thinking, I really managed to produce all of them ![Smiley](wlEmoticon-smile1.png) <p>Here is a short list for you to check against, if you managed to see this exception as well: 
 
 *   **Permissions:** You are not permitted to connect to the cache server. You should check, whether you granted the calling user access.
 *   **Security settings in client and server differ:** You can configure message-level and transport-level security on client and server separately and they basically need to be identically.

@@ -11,7 +11,7 @@ Wenn ich einen Wert mal non-standard formatiert ausgeben will, muss ich regelmä
 
 Jetzt habe ich ein schönes cheat sheet gefunden, was dies auf wenigen Seiten zusammenfasst.
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2010/07/image35.png "image")](http://john-sheehan.com/blog/wp-content/uploads/msnet-formatting-strings.pdf) 
+[![image](image35.png "image")](http://john-sheehan.com/blog/wp-content/uploads/msnet-formatting-strings.pdf) 
 
 [Quelle](http://john-sheehan.com/blog/net-cheat-sheets/)
 

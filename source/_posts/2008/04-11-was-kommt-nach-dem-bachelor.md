@@ -11,7 +11,7 @@ Ich habe zusammen mit meinen Kommilitonen hier aus Bielefeld mal etwas &#252;ber
 
 Ich kann diese Fragen f&#252;r mich nicht ins letzte Detail beantworten. Ich habe Statistiken f&#252;r Einstiegsgeh&#228;lter gesehen und da kann man rauslesen, dass man als Master mit einer Chance von 70% genauso viel bekommt wie als Bachelor; mit einer Chance von 20% erh&#228;lt man zwischen 5 und 10% mehr. Das Rechtfertigt aus meiner Sicht nicht unbedingt den Master. Die Frage, auf die man leider keine wirkliche Antwort geben kann, ist: Kommt in 10 Jahren ein Jobangebot herein geflattert, welches den Master zwingend ben&#246;tigt?
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2008/04/image7.png)](http://spreadsheets.google.com/pub?key=pOvmbQToSxvNA5PX4Rrr5MA) 
+[![image](image7.png)](http://spreadsheets.google.com/pub?key=pOvmbQToSxvNA5PX4Rrr5MA) 
 
 F&#252;r den Master spricht allerdings auch einiges. Wenn ich ihn jetzt mache, so bin ich anschlie&#223;end definitiv auf der sicheren Seite.
 

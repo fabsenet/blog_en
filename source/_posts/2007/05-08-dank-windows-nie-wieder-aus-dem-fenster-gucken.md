@@ -7,6 +7,6 @@ date: 2007-05-08T08:09:15.000Z
 author: Fabian Wetzel
 ---
 
-![](https://az275061.vo.msecnd.net/blogmedia/2007/05/vista_wetter.png)
+![](vista_wetter.png)
 
 

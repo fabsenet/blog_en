@@ -10,7 +10,7 @@ author: Fabian Wetzel
 
 Finally, you can take a look at my achievements in Visual Studio as well!
 
-![My Visual Studio Achievements](https://az275061.vo.msecnd.net/blogmedia/2012/01/image59.png "My Visual Studio Achievements")
+![My Visual Studio Achievements](image59.png "My Visual Studio Achievements")
 
 [You may do this](http://channel9.msdn.com/achievements/visualstudio "Channel 9 - Visual Studio Achievements") as well!
 

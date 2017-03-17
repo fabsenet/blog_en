@@ -19,19 +19,19 @@ So the first fix of this bug was to reset the error message at the start of the 
 
 While not observing bugs for now, I asked myself: Will there be bugs in high load scenarios where the single instance is used concurrently? To answer this, I produced the following CodeActivity:
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/05/051013_0850_WindowsWork1.png)
+![](051013_0850_WindowsWork1.png)
 
 This should always return true in a non-concurrent environment. I build this simple workflow to test the CodeActivity:
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/05/051013_0850_WindowsWork2.png)
+![](051013_0850_WindowsWork2.png)
 
 The published workflow has this simple interface:
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/05/051013_0850_WindowsWork3.png)
+![](051013_0850_WindowsWork3.png)
 
 So I created a simple console application to test the service. I had to do this concurrently providing a different number on every call.
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/05/051013_0850_WindowsWork4.png)
+![](051013_0850_WindowsWork4.png)
 
 If the service would return true in all cases, we would observe 10 dots in our console window. But it outputs "#########." Which means that concurrent calls interfere with each other.
 

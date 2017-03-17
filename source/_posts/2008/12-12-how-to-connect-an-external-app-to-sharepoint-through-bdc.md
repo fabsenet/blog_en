@@ -13,7 +13,7 @@ The used feature is called Business Data Catalog (=BDC) and is basically a huge 
 
 The first action should be the installation of the BDC Definition Editor. If you have the SharePoint SDK installed on your machine, point your explorer at &quot;%programfiles%2007 Office System Developer ResourcesToolsBDC Definition Editor&quot; and open Setup.exe. For a successful installation you need to run an **English** Version of Win XP or Server 2003.
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2008/12/image-thumb2.png)](https://az275061.vo.msecnd.net/blogmedia/2008/12/image5.png) 
+[![image](image-thumb2.png)](image5.png) 
 
 At first you need to select &quot;Add LOB System&quot; and provide your webservice Url or your Database credentials. Then you can select the Webservice method or provide sql queries to fetch the data. The editor generates the needed entities for you but you need to create the identifiers and filters on your own.
 
@@ -21,11 +21,11 @@ For basic functionality you need to provide a finder method, which returns a col
 
 This is enough for a basic setup - the next step is to export your configuration into an XML-file. Now you need to import this definition into your SharePoint Server: Open your central administration page, select your SharedServices and select &quot;Import application definition&quot; under the &quot;Business Data Catalog&quot;-section. Follow the dialog!
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2008/12/image-thumb3.png)](https://az275061.vo.msecnd.net/blogmedia/2008/12/image6.png)&#160; 
+[![image](image-thumb3.png)](image6.png)&#160; 
 
 If you did everything right, you can now add a business data list webpart to a SharePoint page. Choose your created type in the web part options and you have successfully created your own Business Data Catalog Application!
 
-&#160;![image](https://az275061.vo.msecnd.net/blogmedia/2008/12/image7.png)
+&#160;![image](image7.png)
 
 For further information on this topic, I suggest you these links:
 

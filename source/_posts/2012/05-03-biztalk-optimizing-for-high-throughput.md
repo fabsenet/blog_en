@@ -12,13 +12,13 @@ In a customer project we made the observation that receiving many large IDOCs fr
 
 The real problem is the transactional model which BizTalk is using. The adapter needs to physically receive one IDOC. It constructs a well-understood XML message from it using the XML disassembler and performs a map. The result is published to the messagebox and the IDOC is signaled as received. Basically assuming Microsoft did a good job concerning their performance, most of the time should be lost inside the map:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/05/image85.png "image")
+![image](image85.png "image")
 
 If you take a look at the physical connection between the SAP system and the BizTalk server you see a short transfer of one IDOC followed by a lengthy wait. To improve throughput we had the need to reduce these wait times. The extra challenge was to avoid introducing high costs or risks.
 
 The solution was to remove the map and to replace the XML disassembler with the pass-through pipeline:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/05/image86.png "image")
+![image](image86.png "image")
 
 This obviously changed the resulting messages. The receive port was directly bound to a MSMQ send port using a local queue. The queue exists on all BizTalk application server to increase load balancing. A second receive location was added to receive messages from that queue and to do the needed work (XML disassembler + map). 
 

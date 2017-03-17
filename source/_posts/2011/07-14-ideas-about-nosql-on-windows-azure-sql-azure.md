@@ -14,7 +14,7 @@ While I was considering [RavenDB](http://http://ravendb.net/) as an actual choic
 
 **Sql Azure**
 
-The next best choice is [Sql Azure](http://www.microsoft.com/windowsazure/sqlazure/database/). It feels like having a SQL Server in the cloud with all its pros and cons. I have quite good knowledge in designing and using relational databases and especially storing blobs in them. But this is no NoSql at all ![Winking smile](https://az275061.vo.msecnd.net/blogmedia/2011/07/wlEmoticon-winkingsmile2.png)
+The next best choice is [Sql Azure](http://www.microsoft.com/windowsazure/sqlazure/database/). It feels like having a SQL Server in the cloud with all its pros and cons. I have quite good knowledge in designing and using relational databases and especially storing blobs in them. But this is no NoSql at all ![Winking smile](wlEmoticon-winkingsmile2.png)
 
 Some [whitepapers](http://download.microsoft.com/download/9/E/9/9E9F240D-0EB6-472E-B4DE-6D9FCBB505DD/Windows%20Azure%20No%20SQL%20White%20Paper.pdf) suggest to use XML document columns to store schema-less documents inside SQL Azure to simulate a NoSql database. While technically possible I cannot imagine someone really doing this.
 

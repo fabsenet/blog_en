@@ -8,7 +8,7 @@ author: Fabian Wetzel
 
 Während ich das Skript für neuronale Netze so durcharbeite, hat es mich gepackt und ich habe ein [Hopfieldnetz](http://hopfieldsimulation.codeplex.com/ "Hopfield Simulation auf Codeplex") mal richtig implementiert, um zu sehen, ob es wirklich tut. Und das alle was davon haben, habe ich es einfach mal auf Codeplex unter der MIT Lizenz zur Verfügung gestellt.
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2010/09/image39.png "image")](http://hopfieldsimulation.codeplex.com/)
+[![image](image39.png "image")](http://hopfieldsimulation.codeplex.com/)
 
 Es wird mit einer Hand voll Muster trainiert und kann dann anschließend ein verrauschtes Bild eines der gelernten Muster zuordnen.
 

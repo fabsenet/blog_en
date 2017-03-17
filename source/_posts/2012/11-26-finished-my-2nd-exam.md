@@ -6,7 +6,7 @@ date: 2012-11-26T12:00:04.000Z
 author: Fabian Wetzel
 ---
 
-![Developing ASP.NET MVC 4.5 Web Applications](https://az275061.vo.msecnd.net/blogmedia/2012/11/112612_0959_Finishedmy21.png)
+![Developing ASP.NET MVC 4.5 Web Applications](112612_0959_Finishedmy21.png)
 
 Last Friday, I finished my second exam successfully! It was [exam 70-486 "Developing ASP.NET MVC 4.5 Web Applications"](http://www.microsoft.com/learning/en/us/Exam.aspx?ID=70-486).
 

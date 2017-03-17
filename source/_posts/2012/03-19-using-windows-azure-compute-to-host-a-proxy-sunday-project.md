@@ -11,35 +11,35 @@ If you are following my blog for some time or you hear me talking in person, you
 
 I started with installing Windows 8 Consumer preview into a virtual machine. I then installed Visual Studio 11 beta. Using the web plattform installer, I installed the Windows Azure SDK:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image62.png "image")
+![image](image62.png "image")
 
 and it fails:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image63.png "image")
+![image](image63.png "image")
 
 Google to the rescue: <!--more-->There is a way, you can [install all of it manually](http://www.windowsazure.com/en-us/develop/net/other-resources/windows-azure-on-windows-8/). Yeah! Only half an hour later:
 > Visual Studio 11 does not yet support the Windows Azure SDK for .NET.
 So I switched back to my Visual Studio 2010 on Vista and created a new project:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image64.png "image")
+![image](image64.png "image")
 
 and I added a Web Role:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image65.png "image")
+![image](image65.png "image")
 
 The idea at this point is to have a working squid installation inside the web project and starting it using a startup task. I created a new folder called Squid:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image66.png "image")
+![image](image66.png "image")
 
 I downloaded and extracted a windows binary version of squid 2.7 into a subfolder of my new squid folder. There are [some install and configuration steps](http://squid.acmeconsulting.it/Squid27.html). I am going to do the configuration part within the downloaded stuff but I need to create a small commandline script to do the install part.
 
 My folder looks now like so:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image67.png "image")
+![image](image67.png "image")
 
 And my startup script is:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image68.png "image")
+![image](image68.png "image")
 
 The squid.conf file is well documented but also very large. Here is an excerpt of my changes to the file:
 > acl authenticated_users proxy_auth REQUIRED
@@ -56,33 +56,33 @@ So I need to add a line to my startup script to add a new windows user account:
 > net user fabse superLongAndSecretPassword /ADD
 I think, Squid is now completely configured and ready to go. I need to add my install batch as a startup task and I need to make the inbound port for squid accessible from the outside. This is done in the ServiceDefinition.csdef:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image69.png "image")
+![image](image69.png "image")
 
 I am feeling lucky and are now going to deploy it in Windows Azure!
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image70.png "image")
+![image](image70.png "image")
 
 The first time you need to setup your certificate:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image71.png "image")
+![image](image71.png "image")
 
 You create a certificate, give it a name and you need to upload it into your windows azure subscription.
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image72.png "image")
+![image](image72.png "image")
 
 I am creating a new service:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image73.png "image")
+![image](image73.png "image")
 
 After this certificate-setup-trouble I am finally able to configure my publish settings:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image74.png "image")
+![image](image74.png "image")
 
 I think, I will need to have remote desktop access:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image75.png "image")
+![image](image75.png "image")
 
-Next and Publish! … and it failed ![Smile](https://az275061.vo.msecnd.net/blogmedia/2012/03/wlEmoticon-smile2.png)
+Next and Publish! … and it failed ![Smile](wlEmoticon-smile2.png)
 
 There is some trouble with my startup task. I have to change the command to:
 > &lt;Task commandLine="Squid/InstallAndStartSquid.cmd" executionContext="elevated" taskType="background" /&gt;
@@ -94,7 +94,7 @@ Please note as well that I changed the taskType to background. This change enabl
 
 and it failed…completely! It did not copy squid, it did not created the user account. I reproduced the execution on the target compute instance:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image76.png "image")
+![image](image76.png "image")
 
 The pathes are wrong! I was thinking the current path is in the Squid folder, were the batch file is, but is one folder up so I need to remove one “up” command. The second one is really obvious. My super long password is too long. Doooh!
 
@@ -104,7 +104,7 @@ The user is there, squid was copied, the service is there but it is not running.
 
 My solution folder holds now a zip archive and the command line version of 7zip:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image77.png "image")
+![image](image77.png "image")
 
 I removed the xcopy step in my batch file and replaced it with:
 > 7z x -oc: squid.zip
@@ -122,13 +122,13 @@ Squid is able to handle multiple authentications methods, but all have their own
 *   Digest: Improved version of basic, which does not transmit cleartext passwords over the wire.
 I decided to use Basic authentication for now and I am going to make a follow up project trying to establish a secure https connection between the browser and the proxy.
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image78.png "image")
+![image](image78.png "image")
 
 The second problem is that Azure does not allow wildcard IP addresses. I do not understand why this is the case, but nevertheless I need to workaround it. I removed the simple wildcard config “http_port 3128” and replaced it with an include statement:
 > include c:/squid/http_port.config
 Now I need to have a way to create this config file. I borrowed some source from [Steve Marx](http://blog.smarx.com/posts/tutorial-running-the-mongoose-web-server-in-windows-azure) and inserted them into my ServiceDefinition.csdef:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image79.png "image")
+![image](image79.png "image")
 
 This will (hopefully) provide the IP and port of my instance as an environment variable. The following command creates the needed config include file:
 > echo http_port %ADDRESS%:%PORT% &gt; c:squidhttp_port.config
@@ -136,15 +136,15 @@ So I included it in my startup batch script. **Delete and Publish!**
 
 It did not work, because the environment variables were not existing. I noticed the possibility to provide environment variables directly to the startup task:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2012/03/image80.png "image")
+![image](image80.png "image")
 
 **Delete and Publish (again)!**
 
 I could not connect to the instance using any method. I thought something went very wrong. So I deleted and published again! Same result. Looks like my ISP decided that this DNS name changes its address too often and blocked it completely(?). I changed my PC to the use the Google DNS 8.8.8.8 instead and I could connect again.
 
-There is somehow an issue with the Windows Firewall on the server. This is the one last step to take to get this thing working. I need to investigate it and make everything work in a way which not requires me to shutdown the firewall completely. But this really needs to wait now, as it is not even Sunday anymore ![Winking smile](https://az275061.vo.msecnd.net/blogmedia/2012/03/wlEmoticon-winkingsmile6.png)
+There is somehow an issue with the Windows Firewall on the server. This is the one last step to take to get this thing working. I need to investigate it and make everything work in a way which not requires me to shutdown the firewall completely. But this really needs to wait now, as it is not even Sunday anymore ![Winking smile](wlEmoticon-winkingsmile6.png)
 
-But I was curious at last and measured the network bandwich and making a real world test watching a video on youtube. Both were terrible slow ![Sad smile](https://az275061.vo.msecnd.net/blogmedia/2012/03/wlEmoticon-sadsmile.png) Maybe I should switch to an Azure data center in Europe?
+But I was curious at last and measured the network bandwich and making a real world test watching a video on youtube. Both were terrible slow ![Sad smile](wlEmoticon-sadsmile.png) Maybe I should switch to an Azure data center in Europe?
 
 _This blog entry is getting really long anyway, I think no one will ever read it. But nevertheless I am publishing it. It will be at least a (good) reference for myself._
 

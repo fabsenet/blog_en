@@ -10,7 +10,7 @@ date: 2013-09-13T15:43:49.000Z
 author: Fabian Wetzel
 ---
 
-[![Windows 8.1 Setup: Keep Windows settings, personal files, and apps](https://az275061.vo.msecnd.net/blogmedia/2013/09/windows81howtokeepwindowssettingspersonalfilesandapps_thumb.png "Windows 8.1 Setup: Keep Windows settings, personal files, and apps")](https://az275061.vo.msecnd.net/blogmedia/2013/09/windows81howtokeepwindowssettingspersonalfilesandapps.png)   
+[![Windows 8.1 Setup: Keep Windows settings, personal files, and apps](windows81howtokeepwindowssettingspersonalfilesandapps_thumb.png "Windows 8.1 Setup: Keep Windows settings, personal files, and apps")](windows81howtokeepwindowssettingspersonalfilesandapps.png)   
 
 Today I installed Windows 8.1 Pro over my desktop PC running Windows 8 Pro. The first time, I did not had the option to “Keep Windows settings, personal files, and apps” but I thought “Keep personal files only” would do its best to keep everything else as well. I did a complete backup using Acronis True Image just to be save.
 

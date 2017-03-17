@@ -8,7 +8,7 @@ date: 2009-04-05T09:52:08.000Z
 author: Fabian Wetzel
 ---
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2009/04/image18.png "image") 
+![image](image18.png "image") 
 
 Angeregt durch die Werbung im Fernsehen habe ich mir [Swoopo](http://www.swoopo.de) mal angesehen. Es werden Artikel versteigert und mit jedem Gebot steigt der Preis. Ein Gebot kostet 50 Cent und in diesem Beispiel geht der Preis nur um 1 Cent hoch. Zusätzlich kommen bis zu 10 Sekunden mehr auf die Uhr. Wer bei Ablauf der Uhr das letzte Gebot abgegeben hat, bekommt alles.
 

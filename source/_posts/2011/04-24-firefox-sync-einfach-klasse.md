@@ -15,7 +15,7 @@ Die Einrichtung ist einfach und wirklich schnell gemacht. Als zweites hab ich au
 
 Das Hinzufügen eines weiteren Gerätes ist vom Prozess ganz einfach: Das neue Gerät zeigt einen Code an, den man auf einem anderen Firefox der Gruppe eintippt.
 
-Hat man Geräte der Sync-Gruppe hinzugefügt, fällt als erstes auf, dass alle geräte die Favoriten aller anderen erhalten. Exakt gleiche werden wohl erkannt. Nach etwas Aufräumen hatte ich das Beste aus allen Welten auf jeder Welt ![Winking smile](https://az275061.vo.msecnd.net/blogmedia/2011/04/wlEmoticon-winkingsmile1.png)
+Hat man Geräte der Sync-Gruppe hinzugefügt, fällt als erstes auf, dass alle geräte die Favoriten aller anderen erhalten. Exakt gleiche werden wohl erkannt. Nach etwas Aufräumen hatte ich das Beste aus allen Welten auf jeder Welt ![Winking smile](wlEmoticon-winkingsmile1.png)
 
 Man kann jetzt geräteübergreifend Tabs öffnen. Ich kann also in der Bahn auf meinem Handy einen Artikel weiterlesen oder daheim nochmal den tollen Blog weiterlesen, über den ich auf der Arbeit gestolpert bin.
 

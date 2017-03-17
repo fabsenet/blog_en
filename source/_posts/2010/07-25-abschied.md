@@ -6,7 +6,7 @@ date: 2010-07-25T14:40:08.000Z
 author: Fabian Wetzel
 ---
 
-![b1 ohne nummernschild](https://az275061.vo.msecnd.net/blogmedia/2010/07/b1ohnenummernschild.jpg "b1 ohne nummernschild")
+![b1 ohne nummernschild](b1ohnenummernschild.jpg "b1 ohne nummernschild")
 
 Viele schöne Jahre neigen sich dem Ende zu. Ich habe versucht, mit dir [spritsparend zu fahren](https://fabse.net/blog/2007/07/16/meine-erfahrungen-zum-thema-spritsparen/), ich habe mich über deine [fehlende Klimaanlage](https://fabse.net/blog/2009/04/03/kurze-anmerkung/) geärgert aber dir auch irgendwann mal [schöne Alufelgen](https://fabse.net/blog/2007/05/10/der-kleine-hat-jetzt-alufelgen/) spendiert. Du hast mich fast 100.000 km unfallfrei begleitet.
 

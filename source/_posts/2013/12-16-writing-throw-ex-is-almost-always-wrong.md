@@ -72,7 +72,7 @@ static void Main(string[] args)
 
 Here is the output:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2013/12/image.png "image")
+![image](image.png "image")
 
 As you can see, `throw;` preserves the actual location, where the exception really was thrown.
 

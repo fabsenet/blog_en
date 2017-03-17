@@ -17,11 +17,11 @@ I installed the several Windows 8 preview versions in virtual machines and was u
 
 It basically feels like a slightly improved Windows 7\. Everything just works as expected and I really like the new start screen:
 
-[![Windows 8 start screen](https://az275061.vo.msecnd.net/blogmedia/2012/08/windows_8_start_screen_thumb.png "Windows 8 start screen")](https://az275061.vo.msecnd.net/blogmedia/2012/08/windows_8_start_screen.png)
+[![Windows 8 start screen](windows_8_start_screen_thumb.png "Windows 8 start screen")](windows_8_start_screen.png)
 
 But most of the time, I just press the Windows-Key followed by typing the application name I want to start and an enter key:
 
-![starting word](https://az275061.vo.msecnd.net/blogmedia/2012/08/starting_word6.png "starting word")
+![starting word](starting_word6.png "starting word")
 
 This works this way since Vista and I like it because you don’t have to use your mouse.
 
@@ -33,9 +33,9 @@ Everything works! Basically every single driver was installed. I had to install 
 
 I cannot give accurate details if 8 is really faster than Vista or 7\. I think I got the main improvement in performance because of switching to a solid state drive. It is soooo fast! Rebooting takes less than a minute from “workable” to “workable”. You cannot tell, if an app was minimized or just started. It is just there in an instant. But I have to admit, I am using fairly decent hardware.
 
-[![Windows 8 performance overview](https://az275061.vo.msecnd.net/blogmedia/2012/08/windows_8_performance1_thumb.png "Windows 8 performance overview")](https://az275061.vo.msecnd.net/blogmedia/2012/08/windows_8_performance1.png)
+[![Windows 8 performance overview](windows_8_performance1_thumb.png "Windows 8 performance overview")](windows_8_performance1.png)
 
-[![windows 8 performance details](https://az275061.vo.msecnd.net/blogmedia/2012/08/windows_8_performance2_thumb.png "windows 8 performance details")](https://az275061.vo.msecnd.net/blogmedia/2012/08/windows_8_performance2.png)
+[![windows 8 performance details](windows_8_performance2_thumb.png "windows 8 performance details")](windows_8_performance2.png)
 
 ## Conclusion
 

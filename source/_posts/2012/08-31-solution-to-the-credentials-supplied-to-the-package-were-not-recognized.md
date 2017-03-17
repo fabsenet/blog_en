@@ -8,7 +8,7 @@ date: 2012-08-31T10:40:19.000Z
 author: Fabian Wetzel
 ---
 
-![normal_webrequest_raven](https://az275061.vo.msecnd.net/blogmedia/2012/08/normal_webrequest_raven.png "normal_webrequest_raven")
+![normal_webrequest_raven](normal_webrequest_raven.png "normal_webrequest_raven")
 
 I have set up a web application. It is designed like a normal 3-tier architecture using Windows Azure Web Roles as a webserver and RavenDB as a database. RavenDB is hosted inside a Windows Azure Virtual Machine.
 
@@ -18,7 +18,7 @@ The deployment of the web roles has a startup project which installs the root ce
 
 I am keep getting the following yellow screens of death when accessing the database:
 
-[![The credentials supplied to the package were not recognized](https://az275061.vo.msecnd.net/blogmedia/2012/08/TheCredentialsSuppliedToThePackageWereNotRecognized_thumb.png "The credentials supplied to the package were not recognized")](https://az275061.vo.msecnd.net/blogmedia/2012/08/TheCredentialsSuppliedToThePackageWereNotRecognized.png)
+[![The credentials supplied to the package were not recognized](TheCredentialsSuppliedToThePackageWereNotRecognized_thumb.png "The credentials supplied to the package were not recognized")](TheCredentialsSuppliedToThePackageWereNotRecognized.png)
 
 The inner exception is correct. The first request is always unauthorized, giving information about the accepted authentications in the 401 response. The caller should do authentication with this information in a new request. This is standard HTTP and it should work. Except it does not.
 

@@ -9,7 +9,7 @@ author: Fabian Wetzel
 
 I really like PowerShell more and more lately. So at no surprise to me, I get better at using it every day. Today I made my own level-up at folder switching. Consider the following folder structure as an example:
 
-![sample_structure](https://az275061.vo.msecnd.net/blogmedia/2014/07/sample_structure.png)
+![sample_structure](sample_structure.png)
 
 So there are two alpha folders inside my samplefolder containing another folder each. So my PowerShell command line is at the samplefolder and I want to get into the gamma folder. I would have done the following in the past:
 

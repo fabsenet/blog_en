@@ -8,7 +8,7 @@ author: Fabian Wetzel
 
 Fabse.net gibts jetzt auch mit meinem Gamertag drauf:
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2009/06/image22.png "image")](http://fabse.net) 
+[![image](image22.png "image")](http://fabse.net) 
 
 Lustiger Gamertag, oder?
 

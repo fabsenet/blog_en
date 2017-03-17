@@ -14,7 +14,7 @@ Ich hatte nun den Fall, dass ich neben dem schon existierenden Pfad(linker Teil 
 
 Man kann eine Orchestration nun nicht nur über ein Receive-Shape starten lassen, sondern auch auch über mehrere Receives, die in einem Listen-Shape untergebracht wurden. Das hatte ich dann auch versucht.
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2010/02/image_thumb1.png "image")](https://az275061.vo.msecnd.net/blogmedia/2010/02/image32.png) 
+[![image](image_thumb1.png "image")](image32.png) 
 
 Auch wenn aus logischer Sicht kein Pfad möglich ist, der vom Direct Receive zum “Receive Follower” führt, verwehrt BizTalk die Kompilierung dieser Orchestration.
 

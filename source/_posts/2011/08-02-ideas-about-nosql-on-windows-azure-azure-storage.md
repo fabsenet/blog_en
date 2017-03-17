@@ -14,15 +14,15 @@ _This article is the third and last in my small series about NoSql-Solutions on 
 
 Microsoft proposes Azure Storage as the most scalable solution if you want to store data in the cloud. If you think of Windows Azure as an operating system for the cloud then Azure Storage is the supporting filesystem for it. It consist of three major parts: Tables, Queues and Blobs.
 
-![Blob](https://az275061.vo.msecnd.net/blogmedia/2011/08/Blob1.png "Blob")
+![Blob](Blob1.png "Blob")
 
 Azure Blobs are unstructured binary data just like files on a filesystem. You can&#160; store some additional metadata and you can control whether they are publicly available or protected.
 
-![Queue](https://az275061.vo.msecnd.net/blogmedia/2011/08/Queue.png "Queue")
+![Queue](Queue.png "Queue")
 
 Azure Queues is a persistent Queue implementation. It gives you an async and decoupled way to comunicate between components of your distributed application.
 
-![Table](https://az275061.vo.msecnd.net/blogmedia/2011/08/Table.png "Table")
+![Table](Table.png "Table")
 
 Azure Tables is some kind of low level SQL table. In comparison to a real SQL table there are some limititions. Each table has only a partition key and a row key for efficient access. These two keys form a row identifier. There is no equivalent to a non-clustered index so querying with conditions which do not contain these two key columns are always expensive in terms of time. The flipside of this coin is very high scalability. An Azure Table is not limited in size and may span over several nodes.
 
@@ -34,7 +34,7 @@ It has [some small limitations](http://weblogs.asp.net/vblasberg/archive/2009/02
 
 Azure Storage is not free (as well), but it costs much less than SQL Azure. Think of 10-times less depending on your usage behaviour! Azure storage costs you 0,106 € / GB and you also have to pay for every transaction on the storage. One million transactions cost you additional 0,71€.
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2011/08/image47.png "Storage Pricing compared")](http://www.microsoft.com/windowsazure/pricing-calculator/)
+[![image](image47.png "Storage Pricing compared")](http://www.microsoft.com/windowsazure/pricing-calculator/)
 
 &#160;
 

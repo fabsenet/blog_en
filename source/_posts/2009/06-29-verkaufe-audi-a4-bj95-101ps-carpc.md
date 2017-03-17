@@ -43,14 +43,14 @@ Die Zeit drängt, wenn sich keiner meldet, werde ich am Wochenende den ganzen Ca
 Meine Preisvorstellung sind 900 Euro. (Der Händler hat mir 700 geboten und ich denke meine Komponenten und die ganze Arbeit sind 200 wert.) Das wäre natürlich ein Privatverkauf ohne Garantie/Rückgabe.
 
 &#160;
- [![audi1](https://az275061.vo.msecnd.net/blogmedia/2009/06/audi1-thumb.jpg "audi1")](https://az275061.vo.msecnd.net/blogmedia/2009/06/audi1.jpg)   
+ [![audi1](audi1-thumb.jpg "audi1")](audi1.jpg)   
 
-[![audi2](https://az275061.vo.msecnd.net/blogmedia/2009/06/audi2-thumb.jpg "audi2")](https://az275061.vo.msecnd.net/blogmedia/2009/06/audi2.jpg) 
+[![audi2](audi2-thumb.jpg "audi2")](audi2.jpg) 
 
 &#160;
 
 Das ist der Touchscreen in der Mittelkonsole, bekomme leider kein gutes Foto hin… (MM400, 7 Zoll, Auto-On):
 
-[![Touchscreen in der Mittelkonsole](https://az275061.vo.msecnd.net/blogmedia/2009/06/tft-thumb.jpg "Touchscreen in der Mittelkonsole")](https://az275061.vo.msecnd.net/blogmedia/2009/06/tft.jpg)
+[![Touchscreen in der Mittelkonsole](tft-thumb.jpg "Touchscreen in der Mittelkonsole")](tft.jpg)
 
 

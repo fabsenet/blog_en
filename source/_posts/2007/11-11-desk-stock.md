@@ -12,13 +12,13 @@ Ich hab so ein St&#xF6;kchen vom [Eike](http://www.oneiric.de/blog/2007/10/18/ma
 Hintergrundbildchen sind relativ unkreativ, Ordnung bei den Icons gibt es gelegentlich. Aber seht selbst:
 
 Mein Notebook:   
-[![Desktop Notebook](https://az275061.vo.msecnd.net/blogmedia/2007/11/desktop-notebook-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2007/11/desktop-notebook.jpg) 
+[![Desktop Notebook](desktop-notebook-thumb.jpg)](desktop-notebook.jpg) 
 
 Mein Desktop-PC:   
-[![Desktop Desktop-PC](https://az275061.vo.msecnd.net/blogmedia/2007/11/desktop-desktop-pc-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2007/11/desktop-desktop-pc.jpg)
+[![Desktop Desktop-PC](desktop-desktop-pc-thumb.jpg)](desktop-desktop-pc.jpg)
 
 Mein Arbeits-PC (jetzt wisst ihr, warum ich arbeiten gehe ;-) ):   
-[![Desktop Arbeits-PC](https://az275061.vo.msecnd.net/blogmedia/2007/11/desktop-arbeits-pc-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2007/11/desktop-arbeits-pc.jpg)&#xA0; 
+[![Desktop Arbeits-PC](desktop-arbeits-pc-thumb.jpg)](desktop-arbeits-pc.jpg)&#xA0; 
 
 So dann geht es jetzt noch ans weiter werfen:
 

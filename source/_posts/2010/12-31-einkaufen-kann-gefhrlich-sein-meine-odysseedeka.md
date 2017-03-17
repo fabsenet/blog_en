@@ -6,7 +6,7 @@ date: 2010-12-31T12:25:03.000Z
 author: Fabian Wetzel
 ---
 
-Also dieser Artikel ist gewissermaßen ein Ausreißer. Er handelt nicht von BizTalk, nicht von .Net und auch irgendwie so gar nicht von meinen sonstigen Affinitäten. Jede Hausfrau wird hier zur Abwechslung nichts lernen können ![Winking smile](https://az275061.vo.msecnd.net/blogmedia/2010/12/wlEmoticon-winkingsmile.png)
+Also dieser Artikel ist gewissermaßen ein Ausreißer. Er handelt nicht von BizTalk, nicht von .Net und auch irgendwie so gar nicht von meinen sonstigen Affinitäten. Jede Hausfrau wird hier zur Abwechslung nichts lernen können ![Winking smile](wlEmoticon-winkingsmile.png)
 
 Ich war vor kurzem Einkaufen. Lebensmittel. Ich war sogar zwei mal. Ich war etwas verschnupft und daher zuhause und musste Essen kaufen. Ganz anders als sonst war es Werktags am späten Vormittag. Das Bild im Edeka ist da ein ganz anderes. Hauptsächlich findet man Rentner. Sie haben Zettel in der Hand, fahren mit ihrem Wagen wirr durch die Gegend und bleiben auch mal auf den befahrensten Kreuzungen abrupt stehen. Das ist zum Beispiel die Einfahrt zum Getränkebereich. Sie machen auch alle ihr eigenes Ding und achten nicht darauf, dich vielleicht mal vorbei zu lassen. Es war nicht zu voll und ich wollte auch bloß ganz wenig holen und zurück nach hause. Es ging also.
 

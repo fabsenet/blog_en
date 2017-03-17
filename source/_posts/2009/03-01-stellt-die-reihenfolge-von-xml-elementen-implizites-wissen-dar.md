@@ -12,13 +12,13 @@ Bei einem Erfahrungsaustausch in der Firma kam die Frage auf, ob die Reihenfolge
 
 Beispiel war dabei eine Person, die mehrere Telefonnummern hat:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2009/03/image15.png "image") 
+![image](image15.png "image") 
 
 Wenn man jetzt sagt, dass die erste Telefonnummer immer die primäre Kontaktadresse ist, dann hätte die Reihenfolge der Elemente ja ein implizites Wissen.
 
 Kann ich das so machen oder müsste ich es laut XML Spezifikation immer explizit gestalten:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2009/03/image16.png "image") 
+![image](image16.png "image") 
 
 Das war die Frage. Ich persönlich denke, dass die Reihenfolge Wissen darstellt und deshalb jeder Verarbeitungsschritt diese Reihenfolge erhalten muss. Argumente der Gegenseite waren, dass ja z.B. bei XHTML &lt;div&gt; – Tags beliebig verteilt werden können im Dokument und man sie anschließend durch CSS dahin bekommt, wo sie hingehören. Gegenbeispiel ist dabei aber ein Dokument mit mehreren Textabsätzen. Würde man hier nicht allen &lt;p&gt; – Tags eine Style-direktive zuweisen, könnten die Textabsätze ja verwürfelt werden, was sicherlich nicht im Sinne des Designer war.
 

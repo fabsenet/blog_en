@@ -13,7 +13,7 @@ Bisher hab ich dann eine Hand voll Tabs in ein neues Fenster bewegt und das Ganz
 
 “Tabs gruppieren” ist mein neuer bester Freund im Firefox 4:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2011/04/image46.png "image")
+![image](image46.png "image")
 
 Der Shortcut ist Strg+Shift+E. Man bekommt eine Übersicht mit Vorschaubildchen aller offenen Tabs und kann diese durch Klicken und Ziehen auf mehre Gruppen verteilen. Jeweils nur die Tabs einer Gruppe sind im Firefox als Tabs auch zu sehen, die anderen sind versteckt. Will man nun zwischen den Gruppen wechseln, geht man zuerst wieder zur Übersicht und klickt den jenigen Tab an. Es wird die jeweilige Gruppe aktiviert und der angeklickte Tab geöffnet.
 

@@ -14,7 +14,7 @@ All videos have hand-written closed captions and the last one also has hand-tran
 
 As I disabled comments on this blog, I kindly ask you to tell me, what you think either via email (see Impressums page) or via youtube comments.
 
-It is fun watching myself to grow my presentation skills with every video ![Smiley](https://az275061.vo.msecnd.net/blogmedia/2013/10/wlEmoticon-smile.png)
+It is fun watching myself to grow my presentation skills with every video ![Smiley](wlEmoticon-smile.png)
 
 <iframe height="315" src="//www.youtube.com/embed/ah9Hcp22whQ" frameborder="0" width="560" allowfullscreen></iframe>
 

@@ -9,6 +9,6 @@ author: Fabian Wetzel
  Ich war da wohl im letzten Eintrag ein Bild schuldig geblieben...
 
 Blick aus meinem B&#252;ro:
- [![752](https://az275061.vo.msecnd.net/blogmedia/2009/01/752-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2009/01/752.jpg)
+ [![752](752-thumb.jpg)](752.jpg)
 
 

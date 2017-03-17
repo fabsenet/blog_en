@@ -22,6 +22,6 @@ Sollte jetzt der Eindruck entstanden sein, dass RavenDB langsam ist, dann muss i
 
 Ich bin sehr beendruckt von RavenDB und kann jedem nur empfehlen, sich selbst einen Eindruck zu verschaffen.
 
-_Mein Ostermontag ist jedenfalls gut angelegt_ ![Open-mouthed smile](https://az275061.vo.msecnd.net/blogmedia/2011/04/wlEmoticon-openmouthedsmile.png)
+_Mein Ostermontag ist jedenfalls gut angelegt_ ![Open-mouthed smile](wlEmoticon-openmouthedsmile.png)
 
 

@@ -21,7 +21,7 @@ In my first parts, I had a learning curve which let me build up a checklist to a
 * Audio
   * Are there any noises? Close the windows, disable the ventilation, close the room door, wait until the children are asleep.
   * Is the mic positioning good? Try to place the mic as near to you as possible, but do not breath directly into it. Position your pop filter between you and mic (if you have one).
-  * Prevent distractions! Switch off the phone, close Skype, close browser tabs which could make sounds like Facebook. Some pages have advertising with sounds as well and outlook will also receive a mail everytime ![Zwinkerndes Smiley](https://az275061.vo.msecnd.net/blogmedia/2013/11/wlEmoticon-winkingsmile.png)
+  * Prevent distractions! Switch off the phone, close Skype, close browser tabs which could make sounds like Facebook. Some pages have advertising with sounds as well and outlook will also receive a mail everytime ![Zwinkerndes Smiley](wlEmoticon-winkingsmile.png)
 * Setup
   * XSplit: Open it, load the right presentation for the game you are going to play. Test your shortcuts, setup sound volume and check if the correct microphone is selected.
   * The game: Start it!! Load the last save game and remember what has happened in the last part.
@@ -34,12 +34,12 @@ In my first parts, I had a learning curve which let me build up a checklist to a
 * Tell them what has happened and what they should expect in this part but keep it short.
 * _Start playing!_
 * keep an eye on the timer.
-* When the time is over, find a good spot in your game to make a break and say goodbye to your audience. If you are needy, ask for thumbs up or for subscriptions ![Zwinkerndes Smiley](https://az275061.vo.msecnd.net/blogmedia/2013/11/wlEmoticon-winkingsmile.png)
+* When the time is over, find a good spot in your game to make a break and say goodbye to your audience. If you are needy, ask for thumbs up or for subscriptions ![Zwinkerndes Smiley](wlEmoticon-winkingsmile.png)
 * Wait 3 seconds after your last word and stop the recording 
 
 ## After the recording
 
-*   Re-enable all distractions and open the window again, but do not wake up any children ![Zwinkerndes Smiley](https://az275061.vo.msecnd.net/blogmedia/2013/11/wlEmoticon-winkingsmile.png)
+*   Re-enable all distractions and open the window again, but do not wake up any children ![Zwinkerndes Smiley](wlEmoticon-winkingsmile.png)
 * Check whether the recording is appropriate for a public audience. Did someone else speak password or sensitive data? Was your desktop visible? In this case you may want to edit the movie.
 * Upload it to Youtube, but do not worry, it will not be visible right away even if your internet connection is fast.
 * Setup the title, the description and all other metadata of video.

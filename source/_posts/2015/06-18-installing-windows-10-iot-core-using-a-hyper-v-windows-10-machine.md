@@ -28,12 +28,12 @@ I made a new folder on my Desktop PC (D:\win10-on-rpi) and extracted the flash i
 *   All content inside C:\Windows\System32\Dism
 Important is to copy the content from the Dism folder directly into folder and not into a subfolder. This is not intuitive, but works.
 
-[![windows10-iot-raspberry-pi2-flash-folder](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder.png)](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder.png)
+[![windows10-iot-raspberry-pi2-flash-folder](windows10-iot-raspberry-pi2-flash-folder.png)](windows10-iot-raspberry-pi2-flash-folder.png)
 
 At this point I opened a powershell command prompt as an administrator and executed the Dism-command.
 ```
 D:\win10-on-rpi&gt; ./dism.exe /Apply-Image /ImageFile:Flash.ffu /ApplyDrive:\\.\PhysicalDrive7 /SkipPlatformCheck
 ```
-[![windows10-iot-raspberry-pi2-flash-folder-dism-completed](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder-dism-completed.png)](https://az275061.vo.msecnd.net/blogmedia/2015/06/windows10-iot-raspberry-pi2-flash-folder-dism-completed.png)
+[![windows10-iot-raspberry-pi2-flash-folder-dism-completed](windows10-iot-raspberry-pi2-flash-folder-dism-completed.png)](windows10-iot-raspberry-pi2-flash-folder-dism-completed.png)
 
 

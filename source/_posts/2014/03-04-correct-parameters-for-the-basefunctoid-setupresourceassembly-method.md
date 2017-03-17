@@ -8,7 +8,7 @@ author: Fabian Wetzel
 
 If you are writing your own BizTalk Functoid you have to provide information about your Ressources used to describe your functoid name, details and icon. For this task, you have to call the SetupResourceAssembly function in your functoid constructor. Okay, but what are the correct parameter values? The [MSDN article](https://msdn.microsoft.com/en-us/library/microsoft.biztalk.basefunctoids.basefunctoid.setupresourceassembly.aspx) is not only not good but plain wrong.
 
-![](https://az275061.vo.msecnd.net/blogmedia/2014/03/030414_1242_CorrectPara1.png)
+![](030414_1242_CorrectPara1.png)
 
 resAsmName does NOT expect the name of the assembly, but the full qualified name of your resource dictionary.
 
@@ -18,7 +18,7 @@ The second parameter is the assembly, which contains the resource dictionary. He
 
 To make this more refactoring safe, I would suggest the following call instead:
 
-![](https://az275061.vo.msecnd.net/blogmedia/2014/03/030414_1242_CorrectPara2.png)
+![](030414_1242_CorrectPara2.png)
 
 This way, you can change your default namespace without fear of breaking "magic" strings.
 

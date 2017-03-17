@@ -18,20 +18,20 @@ Frustriert habe ich mich umgeschaut und gelesen, dass der Telekom-Proxy wohl sch
 
 2\. In den Optionen von FoxyProxy einen neuen Proxy anlegen* und ihn auf den Telekom-Proxy (www-proxy.t-online.de mit Port 80) einstellen.
 
-[![Proxydetails einstellen](https://az275061.vo.msecnd.net/blogmedia/2011/10/image_thumb10.png "Proxydetails einstellen")](https://az275061.vo.msecnd.net/blogmedia/2011/10/image56.png)
+[![Proxydetails einstellen](image_thumb10.png "Proxydetails einstellen")](image56.png)
 
 3\. Bei den Url-Mustern noch ein Muster für Youtube hinterlegen:
 
-[![Url-Muster für Youtube hinterlegen](https://az275061.vo.msecnd.net/blogmedia/2011/10/image_thumb11.png "Url-Muster für Youtube hinterlegen")](https://az275061.vo.msecnd.net/blogmedia/2011/10/image57.png)
+[![Url-Muster für Youtube hinterlegen](image_thumb11.png "Url-Muster für Youtube hinterlegen")](image57.png)
 
 4\. Der FoxyProxy-Modus sollte “Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten” sein. Das sollte bei euch dann alles so aussehen:
 
-[![Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten](https://az275061.vo.msecnd.net/blogmedia/2011/10/image_thumb12.png "Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten")](https://az275061.vo.msecnd.net/blogmedia/2011/10/image58.png)
+[![Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten](image_thumb12.png "Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten")](image58.png)
 
 Und nun wieder viel Spaß auf Youtube!
 
 &#160;
 
-*Es gibt Bonuspunkte, wenn man den Proxy Magenta färbt ![Winking smile](https://az275061.vo.msecnd.net/blogmedia/2011/10/wlEmoticon-winkingsmile4.png)
+*Es gibt Bonuspunkte, wenn man den Proxy Magenta färbt ![Winking smile](wlEmoticon-winkingsmile4.png)
 
 

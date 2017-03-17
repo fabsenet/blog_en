@@ -8,7 +8,7 @@ author: Fabian Wetzel
 
 Ich bin das ganze Wochenende allein und mir ist schon Freitagabend so langweilig, dass ich mit meinem Firefox etwas rumspielen musste. Nach dem mein neuer Monitor ein Breitbildgerät ist, war ich mit etwas probieren in der Lage, alle Toolbar-Elemente so anzuordnen, dass sie in eine Zeile passen. Da ist mir jedenfalls zwischen den anderen vorhandenen Elementen aus dem "Anpassen"-Dialog eins aufgefallen. "Nächste &amp; Vorherige" heißt das Element und es sieht so aus:
 
-![google search next-prev](https://az275061.vo.msecnd.net/blogmedia/2008/01/google-search-next-prev.jpg)
+![google search next-prev](google-search-next-prev.jpg)
 
 Ich hab es probiert und es funktioniert sehr gut: man sucht etwas bei Google, klickt ein beliebiges Ergebnis an (mit öffnen im selben Tab!) und kann dann auf dieser Seite auch nach Herzenslust rumklicken. Mit den Buttons kann man dann anschließend zum nächsten (oder vorherigen) Suchtreffer springen. Eine sehr schöne Sache.
 

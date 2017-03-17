@@ -12,9 +12,9 @@ Ich habe wegen Dima Lust bekommen, mal so ein Tool zu schreiben. Es Fehlen noch 
 
 Besonders stolz bin ich auf die Visualisierung von sich überschneidenden Kanten. Da hab ich auch eine ganze Weile dran gesessen.
 
-![](https://az275061.vo.msecnd.net/blogmedia/2006/12/graphless_screenshot.png)
+![](graphless_screenshot.png)
 
-Nach dem [Download](https://az275061.vo.msecnd.net/blogmedia/2006/12/GraphLess.zip "GraphLess jetzt downloaden!"), dem Entpacken und dem Starten, habt ihr folgende Möglichkeiten:
+Nach dem [Download](GraphLess.zip "GraphLess jetzt downloaden!"), dem Entpacken und dem Starten, habt ihr folgende Möglichkeiten:
 
 *   Linke Maustaste: Ecken verschieben.
 *   Mittlere Maustaste: Ecken oder Kanten löschen.

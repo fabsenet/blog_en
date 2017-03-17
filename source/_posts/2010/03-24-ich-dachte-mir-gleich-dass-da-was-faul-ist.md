@@ -8,7 +8,7 @@ date: 2010-03-24T20:01:12.000Z
 author: Fabian Wetzel
 ---
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2010/03/image_thumb2.png "image")](https://az275061.vo.msecnd.net/blogmedia/2010/03/image33.png) 
+[![image](image_thumb2.png "image")](image33.png) 
 
 Die anderen Überladungen von Match() tun dann aber ihren Job richtig…
 

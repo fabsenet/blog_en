@@ -12,7 +12,7 @@ The final part is actually leaving Azure Websites :-(
 
 The service is really good and works as expected but there is one single problem. I want to host my blog under my own domain ( blog.fabse.net ). This feature is supported by Azure Websites but you have to use reserved instances for this. The minimum size for reserved instances is small! So my feature request is not cheap:
 
-![small_vm_pricing](https://az275061.vo.msecnd.net/blogmedia/2012/09/small_vm_pricing.png "small_vm_pricing")
+![small_vm_pricing](small_vm_pricing.png "small_vm_pricing")
 
 While I was happy with the service, I was not happy with the price tag. I decided to use an Azure VM instead. This way I can have much more possibilities/features for the same amount of money or less through using extra small instances.
 
@@ -26,7 +26,7 @@ After verifying the resulting install, I changed the DNS configuration of my dom
 
 The Azure VMs are available as extra small instances, so using them over Websites saves money:
 
-![extra_small_virtual_machine_price](https://az275061.vo.msecnd.net/blogmedia/2012/09/extra_small_virtual_machine_price.png "extra_small_virtual_machine_price")
+![extra_small_virtual_machine_price](extra_small_virtual_machine_price.png "extra_small_virtual_machine_price")
 
 I basically switched from PaaS to IaaS. I got full control over the virtual machine at the cost of doing all the administration stuff myself (security, updates, backups, …)
 

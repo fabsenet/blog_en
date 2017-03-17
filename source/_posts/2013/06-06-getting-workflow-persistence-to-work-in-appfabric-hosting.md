@@ -10,11 +10,11 @@ author: Fabian Wetzel
 
 We were using Windows Workflow Foundation 4 in a customer project and we tried to host them on Windows Server AppFabric Hosting. The hosting basically worked, but there was always the pain of persistence. Consider a simple Hello World workflow as a sample (File, New, WCF Workflow Service):
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/06/060613_1326_GettingWork1.png)
+![](060613_1326_GettingWork1.png)
 
 This should work as is without problems. Now I added the Persist shape:
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/06/060613_1326_GettingWork2.png)
+![](060613_1326_GettingWork2.png)
 
 Having this workflow running in AppFabric is not possible. It will start instances but they will fail on reaching the Persist shape. I thought, a Hello World sample with a Persist shape cannot be wrong, so it had to be the environment then.
 
@@ -24,17 +24,17 @@ It turns out, it is the workflow which was wrong! I should have known better, be
 
 I see the tooling as part of the problem as well, because at no point I was told, this aint gona work! Visual Studio does not warn you and the appfabric hosting monitoring kindly does not tell the bloody details at all:
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/06/060613_1326_GettingWork3.png)
+![](060613_1326_GettingWork3.png)
 
 The German text basically is saying: Dear Sir, I tried as hard as I could but I was not possible to persist your instance because of an error. You could have a look at the inner exception, but I am not going to give it to you!
 
 I had to get the big gun to kill this bug :-) I attached Visual Studio to the IIS worker process (w3wp.exe). Then you have to uncheck "Just my code" in the debugger options:
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/06/060613_1326_GettingWork4.png)
+![](060613_1326_GettingWork4.png)
 
 And at last, you have to register for all thrown exceptions (Debug &gt; Exceptions…):
 
-![](https://az275061.vo.msecnd.net/blogmedia/2013/06/060613_1326_GettingWork5.png)
+![](060613_1326_GettingWork5.png)
 
 At this point, I only had to start an instance of the offending workflow and watched for all exceptions. Turns out, he could not serialize some of my workflow variables.
 

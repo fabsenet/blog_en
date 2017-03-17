@@ -11,7 +11,7 @@ Normalerweise werden ja anhand des eingegebenen Textes in der Adresszeile nur be
 
 [CyberSearch](https://addons.mozilla.org/en-US/firefox/addon/7931) erlaubt einem das einrichten von Keywords, so dass man direkt die Google-Suchergebnisse als Vorschläge bekommt!
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2008/07/image13.png)
+![image](image13.png)
 
 Auf der [Seite der Entwickler](http://cybernetnews.com/cybersearch/) gibt es auch ein englischsprachiges Video, wie man das ganze richtig nutzt.
 

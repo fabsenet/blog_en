@@ -10,7 +10,7 @@ author: Fabian Wetzel
 
  Neues Gadget = Neue Probleme = Schlaflose Nächte ... Lösung!
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2008/07/image11.png)Ich habe mir einen iPod Classic als etwas verfrühtes Geburtstagsgeschenk gegönnt und es ist auch alles ganz toll und so....bis ich bemerkte, dass er weder Bewertungen der Lieder noch deren letzten Abspielzeitpunkt nach iTunes synct.
+![image](image11.png)Ich habe mir einen iPod Classic als etwas verfrühtes Geburtstagsgeschenk gegönnt und es ist auch alles ganz toll und so....bis ich bemerkte, dass er weder Bewertungen der Lieder noch deren letzten Abspielzeitpunkt nach iTunes synct.
 
 Es gab da wohl vor einem Jahr mal Probleme mit, wenn man neben dem Musikhören auch Spiele spielte und dann syncte, aber das wurde schon längst mit einem Firmwareupdate behoben.
 

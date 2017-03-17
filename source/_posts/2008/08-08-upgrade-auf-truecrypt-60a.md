@@ -13,9 +13,9 @@ Fazit ist, dass der Geschwindigkeitsgewinn im Mittel 80-100% beträgt. Ist auch 
 Wen das jetzt überzeugt, geht auf [Truecrypt.org](http://www.truecrypt.org)!
 
 Vorher:
-[![tc51a](https://az275061.vo.msecnd.net/blogmedia/2008/08/tc51a-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2008/08/tc51a.jpg)
+[![tc51a](tc51a-thumb.jpg)](tc51a.jpg)
 
 Nachher:
-[![tc60a](https://az275061.vo.msecnd.net/blogmedia/2008/08/tc60a-thumb.jpg)](https://az275061.vo.msecnd.net/blogmedia/2008/08/tc60a.jpg)
+[![tc60a](tc60a-thumb.jpg)](tc60a.jpg)
 
 

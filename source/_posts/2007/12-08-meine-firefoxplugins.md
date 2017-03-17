@@ -28,7 +28,7 @@ Also dann gehts mal los:
 *   [Web Developer Toolbar](https://addons.mozilla.org/de/firefox/addon/60): Diese Leiste hatte ich, bevor ich Firebug kannte. Man kann z.b. global die Styles abschalten, aber Firebug bietet so ziemlich alle Funktionen genauso oder besser.
 Und so sieht er dann aus:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2007/12/google_black.png)
+![image](google_black.png)
 
 _Ich hatte übrigens eh kein Licht an außer dem Notebook_ :-)
 

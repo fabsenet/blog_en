@@ -9,11 +9,11 @@ author: Fabian Wetzel
 
 Nach “F5” kommt erst dieses Fenster:
 
-![image](https://az275061.vo.msecnd.net/blogmedia/2009/09/image28.png "image")
+![image](image28.png "image")
 
 Und dann dieses:
 
-![ArgumentException occured: Der Kulturname &quot;uploads&quot; wird nicht unterstützt. Parametername: name](https://az275061.vo.msecnd.net/blogmedia/2009/09/image29.png "ArgumentException occured: Der Kulturname &quot;uploads&quot; wird nicht unterstützt. Parametername: name")
+![ArgumentException occured: Der Kulturname &quot;uploads&quot; wird nicht unterstützt. Parametername: name](image29.png "ArgumentException occured: Der Kulturname &quot;uploads&quot; wird nicht unterstützt. Parametername: name")
 
 Es handelt sich um eine Silverlight-Anwendung mit den .Net RIA Services. Bilder sind auch involviert. Der Fehler kommt, egal ob die Anwendung im Internet Explorer oder im Firefox startet, allerdings nur einmal nach einem Rebuild. Folgende Starts haben den Fehler nicht und klicke ich auf “Continue” funktioniert meine Anwendung auch ganz normal.
 

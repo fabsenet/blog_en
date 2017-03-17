@@ -8,7 +8,7 @@ date: 2009-07-27T09:59:34.000Z
 author: Fabian Wetzel
 ---
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2009/07/image-thumb9.png "image")](https://az275061.vo.msecnd.net/blogmedia/2009/07/image24.png) 
+[![image](image-thumb9.png "image")](image24.png) 
 
 Ich hab mich etwas mit den .Net RIA Services beschäftigt und möchte nun einen groben Überblick geben. Wir stellen uns also eine 3-Schichten Architektur vor, bestehend aus Silverlight 3, ASP.net und einem quasi beliebigem Data Access Layer.
 

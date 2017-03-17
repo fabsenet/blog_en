@@ -11,7 +11,7 @@ In case you have the complete infrastructure up and running you could create the
 
 Consider a two-step approval process for your travelling expenses as shown in the following figure:
 
-![Visio diagram of a two-step travelling expenses approval process.](https://az275061.vo.msecnd.net/blogmedia/2009/01/image8.png "Visio diagram of a two-step travelling expenses approval process.") 
+![Visio diagram of a two-step travelling expenses approval process.](image8.png "Visio diagram of a two-step travelling expenses approval process.") 
 
 It is worth noting, that you need to ask the right manager for approval in the first step but that everyone from the HR department should be able to approve the second step.
 
@@ -19,7 +19,7 @@ To implement this workflow using K2 you could use the Visio-integrated designer 
 
 So you start the K2 Designer for Visual Studio and start modeling the process. In case you know what you are doing, you may come up with something equally to the following:
 
-![K2 for Visual Stuidio diagram of a two-step travelling expenses approval process.](https://az275061.vo.msecnd.net/blogmedia/2009/01/image9.png "K2 for Visual Stuidio diagram of a two-step travelling expenses approval process.") 
+![K2 for Visual Stuidio diagram of a two-step travelling expenses approval process.](image9.png "K2 for Visual Stuidio diagram of a two-step travelling expenses approval process.") 
 
 The workflow is bound to a Sharepoint library and starts automatically if someone submits a new form to this library. The manager is determined depending on the user who submitted the form. The manager gets a notification via e-mail about the new workflow instance or he will see his task if he checks his Sharepoint task list or his K2 Workspace page. He can open the InfoPath-form, add comments and decide whether he want to accept or reject it. In case of a rejection the originator of the request gets notified and has now the possibility to adjust his form.
 

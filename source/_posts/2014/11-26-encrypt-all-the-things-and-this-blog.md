@@ -25,14 +25,14 @@ This was a thing, I had planned anyway for a while. Because I want my blog to be
 
 Moving the blog was easy. I reconfigured the IIS web site binding, moved the wordpress code in a sub folder and changed the wordpress settings. It really took not more than 5 minutes.
 
-Making sure all old URLs still work was the part I was most afraid of. I used URL rewriting in the IIS to issue permanent redirects for everything from blog.fabse.net/* to fabse.net/blog/*. This *HAS* to work, because otherwise I would loose all subscribed readers of the feed. And it does work, so everything is fine ![Smiley](https://az275061.vo.msecnd.net/blogmedia/2014/11/wlEmoticon-smile.png)
+Making sure all old URLs still work was the part I was most afraid of. I used URL rewriting in the IIS to issue permanent redirects for everything from blog.fabse.net/* to fabse.net/blog/*. This *HAS* to work, because otherwise I would loose all subscribed readers of the feed. And it does work, so everything is fine ![Smiley](wlEmoticon-smile.png)
 
 Getting the certificate was easy. For now, it is a 30-day free certificate from [psw.net](https://www.psw.net/ssl-zertifikate.cfm). I first wanted to make sure, everything works as expected before I order a real certificate. 
 
 The real pain point is that a secure site is only allowed to load secure resources. I had to find and fix all occurrences of this issue.
 
-To finalize the secure setup, I [configured](http://www.hass.de/content/setup-your-iis-ssl-perfect-forward-secrecy-and-tls-12) IIS to be even more secure including the use of forward secrecy and an URL redirect from http to https. The result is a very secure blog reading experience ![Smiley](https://az275061.vo.msecnd.net/blogmedia/2014/11/wlEmoticon-smile.png)
+To finalize the secure setup, I [configured](http://www.hass.de/content/setup-your-iis-ssl-perfect-forward-secrecy-and-tls-12) IIS to be even more secure including the use of forward secrecy and an URL redirect from http to https. The result is a very secure blog reading experience ![Smiley](wlEmoticon-smile.png)
 
-[![image](https://az275061.vo.msecnd.net/blogmedia/2014/11/image.png "image")](https://www.ssllabs.com/ssltest/analyze.html?d=fabse.net)
+[![image](image.png "image")](https://www.ssllabs.com/ssltest/analyze.html?d=fabse.net)
 
 
