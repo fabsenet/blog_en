@@ -106,9 +106,11 @@ js_minifier:
     - '*.min.js'
 
 image_minifier:
-  enable: true
+  enable: false
   interlaced: false
-  multipass: true
+  multipass: false
   optimizationLevel: 2
   pngquant: true
   progressive: false
+  exclude: 
+    - '*.svg'
