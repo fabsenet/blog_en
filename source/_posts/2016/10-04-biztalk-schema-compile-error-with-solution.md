@@ -13,7 +13,7 @@ description: >-
   error
 ---
 
-**Problem: **I tried to compile my BizTalk project and all I got was this compile time (!) error:
+**Problem:** I tried to compile my BizTalk project and all I got was this compile time (!) error:
 > MySchema.xsd : error BEC2004: Object reference not set to an instance of an object.
 Not helpful at all!
 
