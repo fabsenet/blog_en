@@ -8,7 +8,7 @@ date: 2013-01-24T01:02:31.000Z
 author: Fabian Wetzel
 ---
 
-I stumbled upon a piece of code in a Codeproject article. Tthe download contains 1000s of lines of code and I am not going to link to it here but it is this piece of code I saw:
+I stumbled upon a piece of code in a Codeproject article. The download contains 1000s of lines of code and I am not going to link to it here but it is this piece of code I saw:
 <pre class="csharpcode"><span class="kwrd">if</span> (<span class="kwrd">string</span>.Compare(metadataLocation, <span class="str">"remote"</span>, <span class="kwrd">true</span>) == 0)
 {
     metadata = cloudBlob.Metadata;
@@ -59,7 +59,7 @@ In my way of understanding this piece of code I noticed, that Compare(…)==0 ba
     metadata = cloudBlob.Metadata;
 }</pre>
 
-But the meaning of this small piece of code ist still not clear. The condition is true, if the metadataLocation equals remote, so the question asked is, whether the location is a remote location. I introduced a variable to write this piece of knowledge into the code itself:
+But the meaning of this small piece of code is still not clear. The condition is true, if the metadataLocation equals remote, so the question asked is, whether the location is a remote location. I introduced a variable to write this piece of knowledge into the code itself:
 <pre class="csharpcode">var isRemoteMetadataLocationUsed = String.Equals(metadataLocation, <span class="str">"remote"</span>, InvariantCultureIgnoreCase);
 <span class="kwrd">if</span> (isRemoteMetadataLocationUsed)
 {
@@ -95,6 +95,6 @@ At this point it is possible to follow the high level code path (e.g. is it a re
 
 In terms of performance: I don’t care! I think the compiler will inline the extra variable again.
 
-Source code is read many more often than written, so it should be readable and understandable. Take a look at the first peace of code and the last one and decide for yourself, which one is better readable?!
+Source code is read many more times than written, so it should be readable and understandable. Take a look at the first piece of code and the last one and decide for yourself, which one is better readable?!
 
 
