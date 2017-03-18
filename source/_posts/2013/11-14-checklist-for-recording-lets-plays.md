@@ -8,7 +8,7 @@ date: 2013-11-14T20:57:44.000Z
 author: Fabian Wetzel
 ---
 
-My new hobby is to make let’s plays myself. Let’s plays are basically recordings of someone playing a video game and commenting on it at the same time. I really like doing it, because it is consuming media and producing content at the same time.
+My new hobby is to make let's plays myself. Let's plays are basically recordings of someone playing a video game and commenting on it at the same time. I really like doing it, because it is consuming media and producing content at the same time.
 
 In my first parts, I had a learning curve which let me build up a checklist to avoid doing the same error again in the future:
 

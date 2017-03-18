@@ -16,10 +16,10 @@ Man kann eine Orchestration nun nicht nur über ein Receive-Shape starten lassen
 
 [![image](image_thumb1.png "image")](image32.png) 
 
-Auch wenn aus logischer Sicht kein Pfad möglich ist, der vom Direct Receive zum “Receive Follower” führt, verwehrt BizTalk die Kompilierung dieser Orchestration.
+Auch wenn aus logischer Sicht kein Pfad möglich ist, der vom Direct Receive zum "Receive Follower" führt, verwehrt BizTalk die Kompilierung dieser Orchestration.
 
 Der Versuch, den Receive aus dem Receive Port durch einen Filter auf der MessageBox zu formulieren fruchtete ebenfalls nicht. Finales Ergebnis war, die gemeinsame Funktionalität in einer separaten Orchestration auszulagern und für den Direct Receive eine zusätzliche Orchestration zu bauen, die einen Call macht.
 
-Außerdem ist die Fehlermeldung “unknown system error” auch sehr hilfreich beim Finden des eigentlichen Problems, denn eigentlich ist die Orchestration viel größer, als hier auf dem Screenshot zu sehen.
+Außerdem ist die Fehlermeldung "unknown system error" auch sehr hilfreich beim Finden des eigentlichen Problems, denn eigentlich ist die Orchestration viel größer, als hier auf dem Screenshot zu sehen.
 
 

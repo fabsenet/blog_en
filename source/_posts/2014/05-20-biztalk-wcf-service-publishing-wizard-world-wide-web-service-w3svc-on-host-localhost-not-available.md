@@ -23,7 +23,7 @@ And after clicking next I only observed:
 > 
 >(Microsoft.BizTalk.Adapter.Wcf.Publishing.WebDirectory.WebDirectoryException) World Wide Web service (W3SVC) on host "localhost" not available.
 > 
->**The following Windows component may not be installed: Application Server -&gt; Internet Information Services (IIS) -&gt; Common Files.**
+>**The following Windows component may not be installed: Application Server: Internet Information Services (IIS): Common Files.**
 > 
 > Unknown error (0x80005000)
 > 

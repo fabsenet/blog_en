@@ -12,7 +12,9 @@ Ich habe ein Script gesucht, was möglichst intelligent die Struktur der Indexe 
 Genau das tut das Script auf [http://ola.hallengren.com/](http://ola.hallengren.com/ "http://ola.hallengren.com/")
 
 Nachdem man die Stored Procedure bei sich eingerichtet hat, genügt ein Aufruf von
-  <pre>dbo.IndexOptimize 'MeineDatenbank'</pre>
+```sql
+dbo.IndexOptimize 'MeineDatenbank'
+```
 
 Ich kann das Script wärmstens empfehlen und der Blogeintrag ist auch so eine Art Referenz für mich ![Smiley](wlEmoticon-smile.png)
 

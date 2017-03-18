@@ -6,10 +6,10 @@ date: 2007-12-17T13:21:13.000Z
 author: Fabian Wetzel
 ---
 
-Nach dem letzten Freitag mein letzter Tag im alten B&#252;ro war, ist das ganze Haus umgezogen in die Etagen 14, 15 und 17 des gro&#223;en Telekom Hochhauses im Zentrum Bielefelds. Trotz anderer Erwartungen hat mich heute morgen ein voll funktionst&#252;chtiger PC samt Telefon erwartet. Aber das sch&#246;nste ist die Aussicht aus dem Fenster.
+Nach dem letzten Freitag mein letzter Tag im alten Büro war, ist das ganze Haus umgezogen in die Etagen 14, 15 und 17 des großen Telekom Hochhauses im Zentrum Bielefelds. Trotz anderer Erwartungen hat mich heute morgen ein voll funktionstüchtiger PC samt Telefon erwartet. Aber das schönste ist die Aussicht aus dem Fenster.
 
-[![B&#252;ro Aussicht](bro-aussicht-thumb1.jpg)](bro-aussicht1.jpg)
+[![Büro Aussicht](bro-aussicht-thumb1.jpg)](bro-aussicht1.jpg)
 
-Ich bin in der 15\. von 17 Etagen und alle anderen Geb&#228;ude in Bielefeld haben gesch&#228;tzte 7 Etagen. Man kann wirklich alles &#252;berschauen. 
+Ich bin in der 15\. von 17 Etagen und alle anderen Gebäude in Bielefeld haben geschätzte 7 Etagen. Man kann wirklich alles überschauen. 
 
 

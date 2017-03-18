@@ -13,7 +13,7 @@ Ich hatte in einer Nachricht mal folgende Frage bekommen und will die eigentlich
 > Hast du es eigentlich je bereut, dich auf ein lizensiertes Produkt zu stürzen? Ich frag bloß, weil viele bei uns z.B. denken, warum soll ich viel Geld für .Net an MS zahlen, wenn ich das woanders auch umsonst haben kann...
 Bei uns in der Firma haben wir neben dem Microsoft-Bereich auch Java- und SAP-Teams. Ich sehe die Leute nicht sehr häufig, aber hin und wieder kann man sich auch von denen ein Bild machen. Ich sage das, denn letztendlich kann man nur zwischen den Sachen wählen, die es wirklich gibt (Erträumen ist keine Alternative).
 
-Lizenzen kosten Geld, das ist klar und Microsoft verschenkt nichts, das ist auch klar. Ein sonst eigentlich ganz netter Kollege sagt hin und wieder “Was nichts kostet, ist auch nichts.” Das würde ich so nicht unterschreiben, aber hin und wieder läuft es darauf hinaus.
+Lizenzen kosten Geld, das ist klar und Microsoft verschenkt nichts, das ist auch klar. Ein sonst eigentlich ganz netter Kollege sagt hin und wieder "Was nichts kostet, ist auch nichts." Das würde ich so nicht unterschreiben, aber hin und wieder läuft es darauf hinaus.
 
 Um wieder auf den Punkt zu kommen. Die Frage lässt offen, ob es um Office, Windows, klassische .Net Entwicklung oder um Dienstleistungen und Entwicklungen im Bereich SharePoint oder CRM geht (oder ganz was anderes?).
 

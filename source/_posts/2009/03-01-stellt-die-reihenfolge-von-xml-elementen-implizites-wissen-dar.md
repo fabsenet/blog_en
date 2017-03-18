@@ -20,7 +20,7 @@ Kann ich das so machen oder müsste ich es laut XML Spezifikation immer explizit
 
 ![image](image16.png "image") 
 
-Das war die Frage. Ich persönlich denke, dass die Reihenfolge Wissen darstellt und deshalb jeder Verarbeitungsschritt diese Reihenfolge erhalten muss. Argumente der Gegenseite waren, dass ja z.B. bei XHTML &lt;div&gt; – Tags beliebig verteilt werden können im Dokument und man sie anschließend durch CSS dahin bekommt, wo sie hingehören. Gegenbeispiel ist dabei aber ein Dokument mit mehreren Textabsätzen. Würde man hier nicht allen &lt;p&gt; – Tags eine Style-direktive zuweisen, könnten die Textabsätze ja verwürfelt werden, was sicherlich nicht im Sinne des Designer war.
+Das war die Frage. Ich persönlich denke, dass die Reihenfolge Wissen darstellt und deshalb jeder Verarbeitungsschritt diese Reihenfolge erhalten muss. Argumente der Gegenseite waren, dass ja z.B. bei XHTML `<div>` – Tags beliebig verteilt werden können im Dokument und man sie anschließend durch CSS dahin bekommt, wo sie hingehören. Gegenbeispiel ist dabei aber ein Dokument mit mehreren Textabsätzen. Würde man hier nicht allen `<p>` – Tags eine Style-direktive zuweisen, könnten die Textabsätze ja verwürfelt werden, was sicherlich nicht im Sinne des Designer war.
 
 Ich hab dazu mal die [XML RFC](http://www.w3.org/TR/2008/REC-xml-20081126/) konsultiert:
   > Note that the order of attribute specifications in a start-tag or empty-element tag is not significant.  

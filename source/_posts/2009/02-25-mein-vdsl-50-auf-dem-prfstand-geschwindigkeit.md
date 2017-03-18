@@ -17,7 +17,7 @@ Sehr selten findet man brauchbare Ergebnisse auch in der Praxis:
 
 ![image](image13.png "image")
 
-Meistens hingegen habe ich hingegen Geschwindigkeiten von rund 200 kBit/s. Ich denke dass gerade viele Fileserver in der Bandbreite pro Benutzer beschränkt sind und das dies kein “Fehler” der Telekom ist.
+Meistens hingegen habe ich hingegen Geschwindigkeiten von rund 200 kBit/s. Ich denke dass gerade viele Fileserver in der Bandbreite pro Benutzer beschränkt sind und das dies kein "Fehler" der Telekom ist.
 
 ![image](image14.png "image")
 

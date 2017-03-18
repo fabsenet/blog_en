@@ -8,7 +8,7 @@ author: Fabian Wetzel
 
  Ich war da wohl im letzten Eintrag ein Bild schuldig geblieben...
 
-Blick aus meinem B&#252;ro:
+Blick aus meinem Büro:
  [![752](752-thumb.jpg)](752.jpg)
 
 

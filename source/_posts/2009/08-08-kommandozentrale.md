@@ -1,5 +1,5 @@
 ---
-title: “Kommandozentrale”
+title: "Kommandozentrale"
 tags:
   - Allgemein
 date: 2009-08-08T10:13:12.000Z

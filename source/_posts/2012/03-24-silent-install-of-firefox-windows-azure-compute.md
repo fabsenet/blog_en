@@ -15,9 +15,11 @@ I downloaded the [Windows Azure Bootstrapper](http://bootstrap.codeplex.com/) an
 ![image](image81.png "image")
 
 The second and last step was adding the following startup-task to my ServiceDefinition.csdef:
-  > &lt;Task commandLine=&quot;StartupBinsBootStrapper.exe -lr c:Resourcesfirefoxsetup.exe -get http://download.mozilla.org/?product=firefox-11.0 -run c:Resourcesfirefoxsetup.exe -Args /S&quot; executionContext=&quot;elevated&quot; taskType =&quot;background&quot; /&gt;  
+```xml
+<Task commandLine="StartupBinsBootStrapper.exe -lr c:Resourcesfirefoxsetup.exe -get http://download.mozilla.org/?product=firefox-11.0 -run c:Resourcesfirefoxsetup.exe -Args /S" executionContext="elevated" taskType ="background" />
+```
 
-It downloads the current Firefox version to c:Resources and executes the silent install.
+It downloads the current Firefox version to `c:\Resources` and executes the silent install.
 
 **Publish!** _Works! ![Smile](wlEmoticon-smile4.png)_
 

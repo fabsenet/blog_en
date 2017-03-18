@@ -7,7 +7,7 @@ date: 2014-11-26T11:21:51.000Z
 author: Fabian Wetzel
 ---
 
-Google started to favor secure sites in search results. “Encrypt all the things” is trying to create a certificate authority to provide free SSL certificates. And last but not least are all the news stories about government agencies doing evil stuff here and there. This was enough motivation for me to secure my blog with https as well.
+Google started to favor secure sites in search results. "Encrypt all the things" is trying to create a certificate authority to provide free SSL certificates. And last but not least are all the news stories about government agencies doing evil stuff here and there. This was enough motivation for me to secure my blog with https as well.
 
 My blog was running on a subdomain (blog.fabse.net) and there was a redirect from the main domain. To secure this, I would have needed a certificate which would cover
 
@@ -15,7 +15,7 @@ My blog was running on a subdomain (blog.fabse.net) and there was a redirect fro
 *   www.fabse.net
 *   blog.fabse.net 
 
-Because of the non-standard subdomain “blog” you need either a wildcard certificate or a multi-domain certificate and as it turns out, both are quite expensive. The reasonable priced certificates will only secure a single domain with and without the www, so I had to move my blog.
+Because of the non-standard subdomain "blog" you need either a wildcard certificate or a multi-domain certificate and as it turns out, both are quite expensive. The reasonable priced certificates will only secure a single domain with and without the www, so I had to move my blog.
 
 This was a thing, I had planned anyway for a while. Because I want my blog to be only one part of my web site and this should be reflected in the URL as well. So long story short, the plan of action was:
 

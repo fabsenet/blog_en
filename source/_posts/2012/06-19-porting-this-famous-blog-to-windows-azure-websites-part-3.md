@@ -24,7 +24,6 @@ The biggest show-stopper for now is Azure Websites not supporting custom domain 
 ![reserved_mode](reserved_mode.png "reserved_mode")
 
 I think, this will not be the end of the road for me, because the small instance is too powerful but also too expensive in the long run. The questions here are: Why is it not possible to use Extra Small Instances in reserved mode? And why is it impossible to set custom domain names in shared mode? It feels like an artificial limit to me.
-<!--more-->
 
 **Appendix:** Here is a small overview of my current DNS settings:
 

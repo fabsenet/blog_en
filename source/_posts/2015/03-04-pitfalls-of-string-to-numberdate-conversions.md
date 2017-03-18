@@ -6,17 +6,17 @@ tags:
   - Coding Guideline
 date: 2015-03-04T10:30:16.000Z
 author: Fabian Wetzel
-subtitle: 'Having a string and converting it to a Number is easy, isn’t it?'
-description: 'Having a string and converting it to a Number is easy, isn’t it?'
+subtitle: 'Having a string and converting it to a Number is easy, isn't it?'
+description: 'Having a string and converting it to a Number is easy, isn't it?'
 ---
 
-Having a string and converting it to a Number is easy, isn’t it?
+Having a string and converting it to a Number is easy, isn't it?
 
 ![Convert.ToDouble(string)](convert_todouble_simple.png "Convert.ToDouble(string)")
 
-But what does it actually print on the console? As usually, that depends! It depends on your own user profile and its culture. Are you using a culture, where “.” (dot) is a decimal divider or a thousands separator?
+But what does it actually print on the console? As usually, that depends! It depends on your own user profile and its culture. Are you using a culture, where "." (dot) is a decimal divider or a thousands separator?
 
-So the example above will print “1.23” if you have an English culture setting or it will print “123” if you have a German culture. So that is most probably not what you want. What you want is consistency and predictability.
+So the example above will print "1.23" if you have an English culture setting or it will print "123" if you have a German culture. So that is most probably not what you want. What you want is consistency and predictability.
 
 As a kind of an **anti pattern** (which I saw already way to often) you could replace dot with comma or comma with dot depending on what you want and you may get it. I am not showing samples on purpose here, **but the key take-away is to not use string replacings for this purpose!**
 

@@ -23,7 +23,7 @@ But most of the time, I just press the Windows-Key followed by typing the applic
 
 ![starting word](starting_word6.png "starting word")
 
-This works this way since Vista and I like it because you don’t have to use your mouse.
+This works this way since Vista and I like it because you don't have to use your mouse.
 
 ## Compatibility
 
@@ -31,7 +31,7 @@ Everything works! Basically every single driver was installed. I had to install 
 
 ## Performance
 
-I cannot give accurate details if 8 is really faster than Vista or 7\. I think I got the main improvement in performance because of switching to a solid state drive. It is soooo fast! Rebooting takes less than a minute from “workable” to “workable”. You cannot tell, if an app was minimized or just started. It is just there in an instant. But I have to admit, I am using fairly decent hardware.
+I cannot give accurate details if 8 is really faster than Vista or 7\. I think I got the main improvement in performance because of switching to a solid state drive. It is soooo fast! Rebooting takes less than a minute from "workable" to "workable". You cannot tell, if an app was minimized or just started. It is just there in an instant. But I have to admit, I am using fairly decent hardware.
 
 [![Windows 8 performance overview](windows_8_performance1_thumb.png "Windows 8 performance overview")](windows_8_performance1.png)
 
@@ -39,6 +39,6 @@ I cannot give accurate details if 8 is really faster than Vista or 7\. I think I
 
 ## Conclusion
 
-The first week using Windows 8 was amazing. I wasn’t missing my old Vista at any time. I think Microsoft did a great job and I see a bright future for Windows 8.
+The first week using Windows 8 was amazing. I wasn't missing my old Vista at any time. I think Microsoft did a great job and I see a bright future for Windows 8.
 
 

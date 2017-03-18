@@ -26,11 +26,12 @@ You can then do your Linq queries!
 ![](120312_0939_ODataislike2.png)
 
 The shown query translates to this HTTP get request (broken in multiple lines for readability):
-<pre>`http://localhost:51985/odataFuel.svc/FuelReadings()?
-$filter=KmStand ge 33000 
-&amp;$orderby=KmStand 
-`&amp;$skip=0 
-&amp;$top=1</pre>
+
+    http://localhost:51985/odataFuel.svc/FuelReadings()?
+    $filter=KmStand ge 33000 
+    &amp;$orderby=KmStand&$skip=0
+    &$top=1
+
 It is easy to see the translated Linq parts inside the URL. This URL is testable through a web browser and returns readable xml:
 
 ![](120312_0939_ODataislike3.png)

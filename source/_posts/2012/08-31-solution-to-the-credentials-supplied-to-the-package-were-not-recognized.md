@@ -28,69 +28,54 @@ Finally I thought of [my own issues with kerberos in the past](https://fabse.net
 
 Basic authentication transmits passwords as clear text but this is not a security risk because the channel itself is ssl-encrypted.
 
-Windows authentication internally uses NTLM in a “one hop” scenario but switches to Kerberos if a “double hop” is involved. Normally it tries to get the correct token to let the webserver impersonate the user against the database. I am unsure, why it even tries to use kerberos because my webserver uses forms authentication and does not try to impersonate against the database.
+Windows authentication internally uses NTLM in a "one hop" scenario but switches to Kerberos if a "double hop" is involved. Normally it tries to get the correct token to let the webserver impersonate the user against the database. I am unsure, why it even tries to use kerberos because my webserver uses forms authentication and does not try to impersonate against the database.
 
 Nevertheless, the error is gone for me!
 
-Click more to see the** full stacktrace** of the error.
+**full stacktrace** of the error:
 
-<!--more-->
+    Server Error in ‘/‘ Application.
 
-<span style="font-size: xx-small;">Server Error in '/' Application.</span>
+    The credentials supplied to the package were not recognized
 
-<span style="font-size: xx-small;">**The credentials supplied to the package were not recognized**</span>
+    Description: An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
 
-<span style="font-size: xx-small;">Description: An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.</span>
+    Exception Details: System.ComponentModel.Win32Exception: The credentials supplied to the package were not recognized
 
-<span style="font-size: xx-small;">Exception Details: System.ComponentModel.Win32Exception:** The credentials supplied to the package were not recognized**</span>
+    Source Error:
 
-<span style="font-size: xx-small;">Source Error:</span>
+    An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.
 
-<span style="font-size: xx-small;">An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.</span>
+    Stack Trace:
 
-<span style="font-size: xx-small;">Stack Trace:</span>
+    [Win32Exception (0x80004005): The credentials supplied to the package were not recognized]
+    System.Net.NTAuthentication.GetOutgoingBlob(Byte[] incomingBlob, Boolean throwOnError, SecurityStatus& statusCode) +7831731
+    System.Net.NTAuthentication.GetOutgoingBlob(String incomingBlob) +91
+    System.Net.NegotiateClient.DoAuthenticate(String challenge, WebRequest webRequest, ICredentials credentials, Boolean preAuthenticate) +7949240
+    System.Net.NegotiateClient.Authenticate(String challenge, WebRequest webRequest, ICredentials credentials) +18
+    System.Net.AuthenticationManager.Authenticate(String challenge, WebRequest request, ICredentials credentials) +149
+    System.Net.AuthenticationState.AttemptAuthenticate(HttpWebRequest httpWebRequest, ICredentials authInfo) +7948614
+    System.Net.HttpWebRequest.CheckResubmitForAuth() +7951782
+    System.Net.HttpWebRequest.CheckResubmit(Exception& e) +126
 
-<span style="font-size: xx-small;">**[Win32Exception (0x80004005): The credentials supplied to the package were not recognized]**
-System.Net.NTAuthentication.GetOutgoingBlob(Byte[] incomingBlob, Boolean throwOnError, SecurityStatus&amp; statusCode) +7831731
-System.Net.NTAuthentication.GetOutgoingBlob(String incomingBlob) +91
-System.Net.NegotiateClient.DoAuthenticate(String challenge, WebRequest webRequest, ICredentials credentials, Boolean preAuthenticate) +7949240
-System.Net.NegotiateClient.Authenticate(String challenge, WebRequest webRequest, ICredentials credentials) +18
-System.Net.AuthenticationManager.Authenticate(String challenge, WebRequest request, ICredentials credentials) +149
-System.Net.AuthenticationState.AttemptAuthenticate(HttpWebRequest httpWebRequest, ICredentials authInfo) +7948614
-System.Net.HttpWebRequest.CheckResubmitForAuth() +7951782
-System.Net.HttpWebRequest.CheckResubmit(Exception&amp; e) +126</span>
+    [WebException: The remote server returned an error: (401) Unauthorized.]
+    System.Net.HttpWebRequest.GetResponse() +7864676
+    Raven.Client.Connection.HttpJsonRequest.ReadJsonInternal(Func1 getResponse) +705 Raven.Client.Connection.HttpJsonRequest.ReadResponseJson() +496 Raven.Client.Connection.ServerClient.DirectQuery(String index, IndexQuery query, String operationUrl, String[] includes) +1261 Raven.Client.Connection.<>c__DisplayClass40.<Query>b__3f(String u) +36 Raven.Client.Connection.ReplicationInformer.TryOperation(Func2 operation, String operationUrl, Boolean avoidThrowing, T& result) +302
+    Raven.Client.Connection.ReplicationInformer.ExecuteWithReplication(String method, String primaryUrl, Int32 currentRequest, Int32 currentReadStripingBase, Func2 operation) +507 Raven.Client.Connection.ServerClient.ExecuteWithReplication(String method, Func2 operation) +128
+    Raven.Client.Document.AbstractDocumentQuery2.ExecuteActualQuery() +260 Raven.Client.Document.AbstractDocumentQuery2.InitSync() +423
+    Raven.Client.Document.AbstractDocumentQuery2.get_QueryResult() +21 Raven.Client.Linq.RavenQueryProviderProcessor1.ExecuteQuery() +384
+    Raven.Client.Linq.RavenQueryInspector1.GetEnumerator() +38 System.Collections.Generic.List1..ctor(IEnumerable1 collection) +382 System.Linq.Enumerable.ToList(IEnumerable1 source) +80
+    MyWebProject.Web.Controllers.AdminController.Tokens() +108
+    lambda_method(Closure , ControllerBase , Object[] ) +79
+    System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary2 parameters) +248 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary2 parameters) +39
+    System.Web.Mvc.<>cDisplayClass15.<InvokeActionMethodWithFilters>b12() +125
+    System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func1 continuation) +640 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters) +312
+    System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName) +691
+    System.Web.Mvc.Controller.ExecuteCore() +162
+    System.Web.Mvc.ControllerBase.Execute(RequestContext requestContext) +305
+    System.Web.Mvc.<>cDisplayClassb.<BeginProcessRequest>b5() +62
+    System.Web.Mvc.Async.<>cDisplayClass1.<MakeVoidDelegate>b0() +20
+    System.Web.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute() +469
+    System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously) +375
 
-<span style="font-size: xx-small;">**[WebException: The remote server returned an error: (401) Unauthorized.]**
-System.Net.HttpWebRequest.GetResponse() +7864676
-Raven.Client.Connection.HttpJsonRequest.ReadJsonInternal(Func`1 getResponse) +705
-Raven.Client.Connection.HttpJsonRequest.ReadResponseJson() +496
-Raven.Client.Connection.ServerClient.DirectQuery(String index, IndexQuery query, String operationUrl, String[] includes) +1261
-Raven.Client.Connection.&lt;&gt;c__DisplayClass40.&lt;Query&gt;b__3f(String u) +36
-Raven.Client.Connection.ReplicationInformer.TryOperation(Func`2 operation, String operationUrl, Boolean avoidThrowing, T&amp; result) +302
-Raven.Client.Connection.ReplicationInformer.ExecuteWithReplication(String method, String primaryUrl, Int32 currentRequest, Int32 currentReadStripingBase, Func`2 operation) +507
-Raven.Client.Connection.ServerClient.ExecuteWithReplication(String method, Func`2 operation) +128
-Raven.Client.Document.AbstractDocumentQuery`2.ExecuteActualQuery() +260
-Raven.Client.Document.AbstractDocumentQuery`2.InitSync() +423
-Raven.Client.Document.AbstractDocumentQuery`2.get_QueryResult() +21
-Raven.Client.Linq.RavenQueryProviderProcessor`1.ExecuteQuery() +384
-Raven.Client.Linq.RavenQueryInspector`1.GetEnumerator() +38
-System.Collections.Generic.List`1..ctor(IEnumerable`1 collection) +382
-System.Linq.Enumerable.ToList(IEnumerable`1 source) +80
-MyWebProject.Web.Controllers.AdminController.Tokens() +108
-lambda_method(Closure , ControllerBase , Object[] ) +79
-System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters) +248
-System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters) +39
-System.Web.Mvc.&lt;&gt;c__DisplayClass15.&lt;InvokeActionMethodWithFilters&gt;b__12() +125
-System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodFilter(IActionFilter filter, ActionExecutingContext preContext, Func`1 continuation) +640
-System.Web.Mvc.ControllerActionInvoker.InvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters) +312
-System.Web.Mvc.ControllerActionInvoker.InvokeAction(ControllerContext controllerContext, String actionName) +691
-System.Web.Mvc.Controller.ExecuteCore() +162
-System.Web.Mvc.ControllerBase.Execute(RequestContext requestContext) +305
-System.Web.Mvc.&lt;&gt;c__DisplayClassb.&lt;BeginProcessRequest&gt;b__5() +62
-System.Web.Mvc.Async.&lt;&gt;c__DisplayClass1.&lt;MakeVoidDelegate&gt;b__0() +20
-System.Web.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute() +469
-System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously) +375</span>
-
-<span style="font-size: xx-small;">Version Information: Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.0.30319.272</span>
-
-
+    Version Information: Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.0.30319.272

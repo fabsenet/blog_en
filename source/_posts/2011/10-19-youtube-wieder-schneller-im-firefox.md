@@ -24,13 +24,13 @@ Frustriert habe ich mich umgeschaut und gelesen, dass der Telekom-Proxy wohl sch
 
 [![Url-Muster für Youtube hinterlegen](image_thumb11.png "Url-Muster für Youtube hinterlegen")](image57.png)
 
-4\. Der FoxyProxy-Modus sollte “Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten” sein. Das sollte bei euch dann alles so aussehen:
+4\. Der FoxyProxy-Modus sollte "Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten" sein. Das sollte bei euch dann alles so aussehen:
 
 [![Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten](image_thumb12.png "Verwende Proxies entsprechend ihrer konfigurierten Muster und Prioritäten")](image58.png)
 
 Und nun wieder viel Spaß auf Youtube!
 
-&#160;
+ 
 
 *Es gibt Bonuspunkte, wenn man den Proxy Magenta färbt ![Winking smile](wlEmoticon-winkingsmile4.png)
 

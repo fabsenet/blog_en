@@ -7,7 +7,7 @@ date: 2008-04-01T15:06:21.000Z
 author: Fabian Wetzel
 ---
 
-Ich mag ja [Paint.net](http://www.getpaint.net/). Es ist kostenlos und bietet dennoch eine reichhaltige Menge an Funktionien ohne Werbung. Nur eins st&#246;rt mich:
+Ich mag ja [Paint.net](http://www.getpaint.net/). Es ist kostenlos und bietet dennoch eine reichhaltige Menge an Funktionien ohne Werbung. Nur eins stört mich:
 
 [![Paint.net Updatedialog](image6.png)](http://www.getpaint.net/) 
 

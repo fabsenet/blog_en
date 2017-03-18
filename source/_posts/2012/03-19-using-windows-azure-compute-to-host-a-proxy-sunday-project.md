@@ -17,7 +17,7 @@ and it fails:
 
 ![image](image63.png "image")
 
-Google to the rescue: <!--more-->There is a way, you can [install all of it manually](http://www.windowsazure.com/en-us/develop/net/other-resources/windows-azure-on-windows-8/). Yeah! Only half an hour later:
+Google to the rescue: There is a way, you can [install all of it manually](http://www.windowsazure.com/en-us/develop/net/other-resources/windows-azure-on-windows-8/). Yeah! Only half an hour later:
 > Visual Studio 11 does not yet support the Windows Azure SDK for .NET.
 So I switched back to my Visual Studio 2010 on Vista and created a new project:
 
@@ -85,8 +85,11 @@ I think, I will need to have remote desktop access:
 Next and Publish! … and it failed ![Smile](wlEmoticon-smile2.png)
 
 There is some trouble with my startup task. I have to change the command to:
-> &lt;Task commandLine="Squid/InstallAndStartSquid.cmd" executionContext="elevated" taskType="background" /&gt;
-The path was wrong and the publishing tool is verifying the path. I also had to change the batch script file-properties to “Copy always”. The script itself is now in another location as the squid source so I added a first step inside the script to change the directory:
+```xml
+<Task commandLine="Squid/InstallAndStartSquid.cmd" executionContext="elevated" taskType="background" />
+```
+
+The path was wrong and the publishing tool is verifying the path. I also had to change the batch script file-properties to "Copy always". The script itself is now in another location as the squid source so I added a first step inside the script to change the directory:
 > cd ....Squid
 Please note as well that I changed the taskType to background. This change enables me to RDP into the role instance even if my task needs very long, fails or blocks.
 
@@ -96,7 +99,7 @@ and it failed…completely! It did not copy squid, it did not created the user a
 
 ![image](image76.png "image")
 
-The pathes are wrong! I was thinking the current path is in the Squid folder, were the batch file is, but is one folder up so I need to remove one “up” command. The second one is really obvious. My super long password is too long. Doooh!
+The pathes are wrong! I was thinking the current path is in the Squid folder, were the batch file is, but is one folder up so I need to remove one "up" command. The second one is really obvious. My super long password is too long. Doooh!
 
 Fixing these two small bugs and publish! The Publish wizzard notices that the current stage ist already running. I want to replace it. In real environments you would deploy to a staging instance in this case. it was some kind of inplace update. It is using the exact same compute instance without rebooting.
 
@@ -124,14 +127,16 @@ I decided to use Basic authentication for now and I am going to make a follow up
 
 ![image](image78.png "image")
 
-The second problem is that Azure does not allow wildcard IP addresses. I do not understand why this is the case, but nevertheless I need to workaround it. I removed the simple wildcard config “http_port 3128” and replaced it with an include statement:
+The second problem is that Azure does not allow wildcard IP addresses. I do not understand why this is the case, but nevertheless I need to workaround it. I removed the simple wildcard config "http_port 3128" and replaced it with an include statement:
 > include c:/squid/http_port.config
 Now I need to have a way to create this config file. I borrowed some source from [Steve Marx](http://blog.smarx.com/posts/tutorial-running-the-mongoose-web-server-in-windows-azure) and inserted them into my ServiceDefinition.csdef:
 
 ![image](image79.png "image")
 
 This will (hopefully) provide the IP and port of my instance as an environment variable. The following command creates the needed config include file:
-> echo http_port %ADDRESS%:%PORT% &gt; c:squidhttp_port.config
+    
+    echo http_port %ADDRESS%:%PORT% > c:\squidhttp_port.config
+
 So I included it in my startup batch script. **Delete and Publish!**
 
 It did not work, because the environment variables were not existing. I noticed the possibility to provide environment variables directly to the startup task:

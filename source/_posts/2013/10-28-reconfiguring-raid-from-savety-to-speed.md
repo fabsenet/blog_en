@@ -8,7 +8,7 @@ date: 2013-10-28T11:30:30.000Z
 author: Fabian Wetzel
 ---
 
-I was investing in a [Synology DS214](http://www.amazon.de/gp/product/B00FWX3UNE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00FWX3UNE&amp;linkCode=as2&amp;tag=fabsenetfabse-21) lately and put all my valuable data there in a Synology Hybrid Raid and configured a cloud backup for this, so my Raid 5 on my desktop PC was free of stuff and I started to use it to store uncompressed video. While you may noticed my video tutorials, I also do randomly “lets plays” or “watch me play” of whatever game there is. Which is Starcraft 2 most of the time.
+I was investing in a [Synology DS214](http://www.amazon.de/gp/product/B00FWX3UNE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B00FWX3UNE&amp;linkCode=as2&amp;tag=fabsenetfabse-21) lately and put all my valuable data there in a Synology Hybrid Raid and configured a cloud backup for this, so my Raid 5 on my desktop PC was free of stuff and I started to use it to store uncompressed video. While you may noticed my video tutorials, I also do randomly "lets plays" or "watch me play" of whatever game there is. Which is Starcraft 2 most of the time.
 
 I record this videos uncompressed which yields roughly 100GB per hour of gameplay. Before I upload this to YouTube, I compress this using MP4 to 2GB per hour. This is a time consuming process and I noticed, it is limited by the read speed of my drive rather than the CPU or GPU.
 

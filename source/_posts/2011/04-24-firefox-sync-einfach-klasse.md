@@ -11,7 +11,7 @@ author: Fabian Wetzel
 
 Oder einfach und klasse? Ein Desktop-PC zuhause, ein PC auf der Arbeit (genau genommen sogar 2) und jetzt auch noch ein Handy mit Firefox drauf haben mich dazu veranlasst, mir Firefox Sync mal anzusehen.
 
-Die Einrichtung ist einfach und wirklich schnell gemacht. Als zweites hab ich auf dem Handy um “Tabs von anderen PCs” gebeten. Auch dort ist die Einrichtung super einfach und es hat alles direkt geklappt. Man erhält eine Liste der Tabs vom PC und kann wählen, welche man ebenfalls auf dem Handy öffnen möchte.
+Die Einrichtung ist einfach und wirklich schnell gemacht. Als zweites hab ich auf dem Handy um "Tabs von anderen PCs" gebeten. Auch dort ist die Einrichtung super einfach und es hat alles direkt geklappt. Man erhält eine Liste der Tabs vom PC und kann wählen, welche man ebenfalls auf dem Handy öffnen möchte.
 
 Das Hinzufügen eines weiteren Gerätes ist vom Prozess ganz einfach: Das neue Gerät zeigt einen Code an, den man auf einem anderen Firefox der Gruppe eintippt.
 

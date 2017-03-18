@@ -14,7 +14,7 @@ My decision had been to use Azure blob storage and to write an intelligent clien
 
 Later, I discovered some harder problems beyond my API design. Especially multiple concurrent writers updating the same secondary indexes or transactionality over multiple documents brought me headaches. I was aiming too high.
 
-So I was going a step back and thought about my real aims. I don’t want to write another database, I want to write a service using a database! So my conclusion was to throw all my custom database stuff away. I really like RavenDB in all its parts and it proved itself as a working solution, so I rethought my earlier analysis and decided to host RavenDB.
+So I was going a step back and thought about my real aims. I don't want to write another database, I want to write a service using a database! So my conclusion was to throw all my custom database stuff away. I really like RavenDB in all its parts and it proved itself as a working solution, so I rethought my earlier analysis and decided to host RavenDB.
 
 So I had to decide about the new physical architecture. I was thinking about hosting RavenDB using a clouddrive inside the WebRole as well. This solution has limitations because of how the clouddrive works. Scaling beyond one instance is not easy and installing a new stage and doing VIP switches becomes basically impossible.
 

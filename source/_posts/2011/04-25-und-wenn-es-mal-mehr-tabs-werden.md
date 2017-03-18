@@ -7,11 +7,11 @@ date: 2011-04-25T19:34:18.000Z
 author: Fabian Wetzel
 ---
 
-Wenn es bei mir so viele Tabs werden, dass in einem Fenster die Tabs “scrollbar” werden, verliere ich immer die Übersicht. Ich versuche dann Tabs zu schließen. Aber gerade wenn man mehr als eine Sache recherchiert, ist das nicht ohne weiteres möglich.
+Wenn es bei mir so viele Tabs werden, dass in einem Fenster die Tabs "scrollbar" werden, verliere ich immer die Übersicht. Ich versuche dann Tabs zu schließen. Aber gerade wenn man mehr als eine Sache recherchiert, ist das nicht ohne weiteres möglich.
 
 Bisher hab ich dann eine Hand voll Tabs in ein neues Fenster bewegt und das Ganze am besten irgendwie inhaltlich gruppiert. Durch die Nicht-Gewöhnung an mehrere Browserfenster führt das bei mir aber auch zu Verwirrung.
 
-“Tabs gruppieren” ist mein neuer bester Freund im Firefox 4:
+"Tabs gruppieren" ist mein neuer bester Freund im Firefox 4:
 
 ![image](image46.png "image")
 

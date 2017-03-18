@@ -6,26 +6,28 @@ date: 2006-11-25T00:38:03.000Z
 author: Fabian Wetzel
 ---
 
-<pre class="csharpcode"><span class="rem">//Billiges search and replace im Clipboard</span>
-<span class="kwrd">public</span> <span class="kwrd">void</span> replaceText()
+```cs
+//Billiges search and replace im Clipboard
+public void replaceText()
 {
-    <span class="kwrd">if</span>(Clipboard.ContainsText())
+    if(Clipboard.ContainsText())
     {
         String text = Clipboard.GetText();
 
-        <span class="kwrd">if</span> (!text.Equals(lastText))
+        if (!text.Equals(lastText))
         {
             lastText = text =
-                  text.Replace(<span class="str">"-01-"</span>, <span class="str">"-Informieren-"</span>);
+                  text.Replace("-01-", "-Informieren-");
 
             Clipboard.SetText(text);
 
         }
     }
-}</pre>
+}
+```
 
 **Update:** Den Code gibts wohl nicht in Farbe ?!
 
 **Update²:** Es geht doch, man muss nur mal die Styles in Theme einbinden!
 
-
+**Update³:** In Markdown konvertiert und Hexo macht jetzt das Code-Styling

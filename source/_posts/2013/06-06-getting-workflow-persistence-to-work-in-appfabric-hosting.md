@@ -32,7 +32,7 @@ I had to get the big gun to kill this bug :-) I attached Visual Studio to the II
 
 ![](060613_1326_GettingWork4.png)
 
-And at last, you have to register for all thrown exceptions (Debug &gt; Exceptions…):
+And at last, you have to register for all thrown exceptions (Debug > Exceptions…):
 
 ![](060613_1326_GettingWork5.png)
 

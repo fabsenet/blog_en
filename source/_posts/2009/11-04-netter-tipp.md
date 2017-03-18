@@ -8,15 +8,15 @@ date: 2009-11-04T21:31:47.000Z
 author: Fabian Wetzel
 ---
 
-[![image](image_thumb.png "image")](image31.png) 
+[![](image_thumb.png)](image31.png) 
 
----------------------------   
-Netter Tipp von Fabse.net!    
----------------------------    
-Bekommt man so Fehlermeldungen und will die googeln, dann muss man immer die lästigen 0x0815-Fehlermeldungen abtippen. Aber es geht einfacher. STRG+C und man hat die Meldung in der Hand!    
----------------------------    
-Ja&#160;&#160; Nein&#160;&#160; Abbrechen&#160;&#160; 
----------------------------
+    ---------------------------   
+    Netter Tipp von Fabse.net!    
+    ---------------------------    
+    Bekommt man so Fehlermeldungen und will die googeln, dann muss man immer die lästigen 0x0815-Fehlermeldungen abtippen. Aber es geht einfacher. STRG+C und man hat die Meldung in der Hand!    
+    ---------------------------    
+    Ja   Nein   Abbrechen   
+    ---------------------------
 
 Orginaler Tipp kam von meinen Arbeitskollegen Martin!
 

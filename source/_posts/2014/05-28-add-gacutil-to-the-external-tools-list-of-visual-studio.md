@@ -10,11 +10,11 @@ author: Fabian Wetzel
 
 I often have the need to rapidly add my build output to the global assembly cache of .Net. You can do this using a post build event but it really is not ideal. Therefore I added the gacutil command as an external command.
 
-If you want to do this, you first have to figure out the location of your gacutil.exe. Please open the “Developer Command Prompt for Visual Studio”. You can then type “where gacutil” and it will tell you the location(s) of your executable.
+If you want to do this, you first have to figure out the location of your gacutil.exe. Please open the "Developer Command Prompt for Visual Studio". You can then type "where gacutil" and it will tell you the location(s) of your executable.
 
 ![developer_command_prompt_where_gacutil](developer_command_prompt_where_gacutil.png "developer_command_prompt_where_gacutil")
 
-Then you switch back to Visual Studio and select the “Tools” menu. Then “External Tools…”.
+Then you switch back to Visual Studio and select the "Tools" menu. Then "External Tools…".
 
 Click Add to insert a new Item and set it to the following values. Please notice the different argument values for installing and uninstalling from the GAC.
 

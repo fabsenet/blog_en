@@ -15,6 +15,6 @@ Mir fallen 1000 und ein Sprüche dazu ein, aber ich lass mal die Bilder einfach 
 
 [![image](image-thumb12.png "image")](image27.png) 
 
-Zitat eines Kommilitonen von damals: “Java stinkt” ;-)
+Zitat eines Kommilitonen von damals: "Java stinkt" ;-)
 
 

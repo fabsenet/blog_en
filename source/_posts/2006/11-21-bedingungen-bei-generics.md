@@ -8,19 +8,23 @@ author: Fabian Wetzel
 
 Also ich hab da so eine generische Methode:
 
-<font face="Courier New" color="#0080c0" size="2">private T getItem&lt;T&gt;(LinkedList&lt;T&gt; items, GetModes mode) where T : IKoordinate
+```cs
+private T GetItem<T>(LinkedList<T> items, GetModes mode) where T : IKoordinate
 {
-&nbsp;&nbsp;&nbsp; return null; //Fehler!
-}</font>
+    return null; //Fehler!
+}
+```
 
 Jedenfalls hatte ich das Problem, dass sie im Fehlerfall auch null zurückgeben kann, was vom Compiler aber angemeckert wurde.
 
 Durch [Marco](http://blog.mwiedemeyer.de "marco") war die Lösung schnell gefunden:
 
-<font color="#0080c0"><font face="Courier New" size="2">private T getItem&lt;T&gt;(LinkedList&lt;T&gt; items, GetModes mode) where T : **<u>class,</u>** IKoordinate</font> 
+```cs
+private T GetItem<T>(LinkedList<T> items, GetModes mode) where T : class, IKoordinate
 {
-&nbsp;&nbsp;&nbsp; return null; //OK!
-}</font>
+    return null; //OK!
+}
+```
 
 Mit der zusätzlichen Bedingung sagt man dem Compiler, dass T eine Klasse sein muss. Eine Klasse darf null sein und damit ist alles in Butter. Nach meinem Verständnis impliziert die Bedingung, dass T das Interface IKoordinate bieten muss, auch, dass T eine Klasse ist, aber vielleicht hab ich auch einen anderen Punkt nicht im "Blickfeld". Jedenfalls geht der zweite Quellcode!
 

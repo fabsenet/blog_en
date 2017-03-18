@@ -6,7 +6,7 @@ date: 2014-10-17T11:23:15.000Z
 author: Fabian Wetzel
 ---
 
-You did not read much from me here for the last months, did you? I was coding a simulator for Network Creation Games and I was writing my master thesis about it as well. Now it’s done. Mostly.
+You did not read much from me here for the last months, did you? I was coding a simulator for Network Creation Games and I was writing my master thesis about it as well. Now it's done. Mostly.
 
 What is Network Creation Games you ask? It is a game inspired by the internet itself. There is a graph and each node is a player. Every player has to build edges or use edges from other players to connect to all other player. Operating an edge introduces costs and using the edges from others has costs as well. Each player has the target to optimize their own costs to a minimum. The game ends, when no player is doing anything anymore.
 

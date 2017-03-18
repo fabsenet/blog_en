@@ -16,7 +16,7 @@ Microsoft proposes Azure Storage as the most scalable solution if you want to st
 
 ![Blob](Blob1.png "Blob")
 
-Azure Blobs are unstructured binary data just like files on a filesystem. You can&#160; store some additional metadata and you can control whether they are publicly available or protected.
+Azure Blobs are unstructured binary data just like files on a filesystem. You can  store some additional metadata and you can control whether they are publicly available or protected.
 
 ![Queue](Queue.png "Queue")
 
@@ -36,7 +36,7 @@ Azure Storage is not free (as well), but it costs much less than SQL Azure. Thin
 
 [![image](image47.png "Storage Pricing compared")](http://www.microsoft.com/windowsazure/pricing-calculator/)
 
-&#160;
+ 
 
 ## Azure Storage for my project?
 

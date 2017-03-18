@@ -10,12 +10,12 @@ author: Fabian Wetzel
 ---
 
 Will man ein Service Principal Name (SPN) einrichten, dann benötigt man dafür auf jeden Fall einen Domain-Admin-Account. 
-  > C:Usersdomadm&gt;setspn -A HTTP/meinserver:815 meinserver     
-> Registering ServicePrincipalNames for …… Failed to assign SPN on account …… -&gt; **Insufficient access rights to perform the operation.**  
+> C:\Usersdomadm\\>setspn -A HTTP/meinserver:815 meinserver     
+> Registering ServicePrincipalNames for …… Failed to assign SPN on account …… \->\\ **Insufficient access rights to perform the operation.**  
 
 Wenn man dann immer noch besagte Fehlermeldung erhält, dann kann man natürlich alle möglichen Leute fragen, ob der DomainAdmin nicht mehr DomainAdmin ist oder man kann auch das Netz durchsuchen und so die ein oder andere Stunde verstreichen lassen.
 
-Generell wäre aber die Effizienz am höchsten, wenn man einfach “Als Administrator ausführen” wählt für die Kommandozeile! *arg*
+Generell wäre aber die Effizienz am höchsten, wenn man einfach "Als Administrator ausführen" wählt für die Kommandozeile! *arg*
 
 Zu meiner Verteidigung will ich sagen, dass ich auf allen anderen Servern UAC schon vor einiger Zeit abgestellt hatte, aber dieser Server es aber leider an hatte.
 
