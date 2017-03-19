@@ -2,7 +2,7 @@
 title: Hello Hexo - I replaced my WordPress blog
 author: Fabian Wetzel
 date: 2017-03-17 22:56:15
-cover: 2017/03/17/Hello-Hexo-I-replaced-WordPress/cover.jpg
+cover: img/brandenburger_tor.jpg
 tags:
 subtitle: I was not that happy anymore with my blog running on WordPress so I decided to migrate away
 description: I was not that happy anymore with my blog running on WordPress so I decided to migrate away
