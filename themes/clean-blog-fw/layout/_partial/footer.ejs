@@ -7,7 +7,7 @@
                 <ul class="list-inline text-center">
                     <% if (theme.twitter_url) { %>
                         <li>
-                            <a href="<%- theme.twitter_url%>" target="_blank">
+                            <a href="<%- theme.twitter_url%>" target="_blank" title="view Twitter profile">
                              <svg class="icon icon-twitter"><use xlink:href="<%- url_for("icons.svg") %>#icon-twitter"></use></svg>
                             </a>
                         </li>
@@ -15,7 +15,7 @@
 
                     <% if (theme.facebook_url) { %>
                         <li>
-                            <a href="<%- theme.facebook_url%>" target="_blank">
+                            <a href="<%- theme.facebook_url%>" target="_blank" title="open Facebook profile">
                              <svg class="icon icon-facebook"><use xlink:href="<%- url_for("icons.svg") %>#icon-facebook"></use></svg>
                             </a>
                         </li>
@@ -23,7 +23,7 @@
 
                     <% if (theme.github_url) { %>
                         <li>
-                            <a href="<%- theme.github_url%>" target="_blank">
+                            <a href="<%- theme.github_url%>" target="_blank" title="view GitHub profile">
                              <svg class="icon icon-github"><use xlink:href="<%- url_for("icons.svg") %>#icon-github"></use></svg>
                             </a>
                         </li>
@@ -31,14 +31,29 @@
 
                     <% if (theme.mailto) { %>
                         <li>
-                            <a href="mailto:<%- theme.mailto%>" target="_blank">
+                            <a href="mailto:<%- theme.mailto%>" target="_blank" title="send a regular old email">
                              <svg class="icon icon-mail"><use xlink:href="<%- url_for("icons.svg") %>#icon-mail"></use></svg>
                             </a>
                         </li>
                     <% } %>
                 </ul>
-                <p class="copyright text-muted">&copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br></p>
-            </div>
+           
+           
+            <ul class="list-inline text-center">
+                <% for (var i in theme.menu){ %>
+                    <li>
+                        <a href="<%- theme.menu[i].url ? url_for(theme.menu[i].url) : url_for(theme.menu[i]) %>">
+                            <%= i %>
+                        </a>
+                    </li>
+                <% } %>
+            </ul>
+            
+            <p class="copyright text-muted">&copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br></p>
+
         </div>
+        </div>
+
+
     </div>
 </footer>
