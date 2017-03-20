@@ -4,6 +4,10 @@
     item.tags.forEach(function(tag){
         tags.push('<a href="' + config.root + tag.path + '">#' + tag.name + '</a>');
     });
+
+    tags = tags.sort(function (a, b) {
+    return a.toLowerCase().localeCompare(b.toLowerCase());
+});
 %>
 
 <%- tags.join(' ') %>
