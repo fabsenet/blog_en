@@ -14,8 +14,8 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 baseurl: https://fabse.net
-url: https://fabse.net/blog2
-root: /blog2/
+url: https://fabse.net/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
