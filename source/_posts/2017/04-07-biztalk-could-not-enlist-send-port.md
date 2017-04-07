@@ -21,11 +21,7 @@ The solution deployed using the BizTalk deployment framework and is ready to sta
 
 # Root Cause
 
-The send port has a filter tag which has encoded xml as content. this content is very sensitive to whitespace changes. This can happen if a code editor reformats the xml.
-
-# Solution
-
-The solution would be much simpler, if the error message would be helpful. It actually should have prevented the binding import altogether, because it is actually true: the xml in the binding is broken. I am using BizTalk 2016 but the error exists basically in all BizTalk versions as far as I know.
+The send port has a filter tag which has encoded xml as content. this content is very sensitive to whitespace changes. This can happen if a code editor reformats the xml. I am using BizTalk 2016 but the error exists basically in all BizTalk versions as far as I know.
 
 The broken code looks like:
 ```xml
@@ -51,3 +47,12 @@ The working code would be:
   &lt;/Group&gt;
   &lt;/Filter&gt;</Filter>
 ```
+
+# Solution
+
+If you can, then rollback the last changes in your bindings file. I was too lazy and made two regex replacements:
+
+- replace `<Filter>\s+` with `<Filter>`
+- replace `\s+</Filter>` with `</Filter>`
+
+After this, I had to do a full build and redeploy, but the error was gone.
