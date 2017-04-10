@@ -1,10 +1,13 @@
 ---
 author: Fabian Wetzel
 title: Could not enlist send port. The text associated with this error code could not be found.
-date: 2017-04-07 16:14:15
+date: 2017-04-10 10:25:15
 tags:
-subtitle:
-description:
+ - BizTalk
+ - coding
+ - C#
+subtitle: The filter tag in my binding was messed up, I was not aware of it and the error is not helpful either.
+description: The filter tag in my binding was messed up, I was not aware of it and the error is not helpful either.
 ---
 
 # Problem
@@ -50,7 +53,7 @@ The working code would be:
 
 # Solution
 
-If you can, then rollback the last changes in your bindings file. I was too lazy and made two regex replacements:
+If you have proper source control running for you, then just rollback the last changes in your bindings file. I was too lazy and made two regex replacements:
 
 - replace `<Filter>\s+` with `<Filter>`
 - replace `\s+</Filter>` with `</Filter>`
