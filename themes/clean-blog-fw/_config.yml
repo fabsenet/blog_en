@@ -12,8 +12,13 @@ menu:
 menu_title: #Configurable Title
 
 # URL of the Home page image
-#index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
-index_cover: img/blog_logo.jpg
+index_cover: /img/blog_logo/1920.jpg
+index_coversrcset:
+ - /img/blog_logo/192.jpg 192w
+ - /img/blog_logo/480.jpg 480w
+ - /img/blog_logo/960.jpg 960w
+ - /img/blog_logo/1440.jpg 1440w
+ - /img/blog_logo/1920.jpg 1920w
 
 # Default post title
 default_post_title: Untitled

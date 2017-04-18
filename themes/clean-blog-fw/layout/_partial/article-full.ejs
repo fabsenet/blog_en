@@ -1,14 +1,23 @@
 <!-- Page Header -->
 <!-- Set your background image for this header in your post front-matter: cover -->
 <%
-    let cover = item.cover || theme.index_cover;
+    let cover,srcset;
+    if(typeof item !== 'undefined' && item.cover){
+        cover = item.cover;
+        srcset = item.coversrcset;
+    }
+    else if(theme.index_cover) {
+        cover = theme.index_cover;
+        srcset = theme.index_coversrcset;
+    }
+
     let cover_mapped = url_for(cover);
+    let srcset_mapped = null;
 
     //tranform the srcset
-    // sample: "img/hamburger_hafen@0,1x.jpg 600w, img/hamburger_hafen@0,25x.jpg 1500w, img/hamburger_hafen@0,5x.jpg 3000w, img/hamburger_hafen@1,0x.jpg"
-    let srcset_mapped = null;
-    if(item.coversrcset){
-        let srcsetEntrys = item.coversrcset.map(s => s.trim());
+    // sample: ["img/hamburger_hafen@0,1x.jpg 600w", "img/hamburger_hafen@0,25x.jpg 1500w", "img/hamburger_hafen@0,5x.jpg 3000w", "img/hamburger_hafen@1,0x.jpg"]
+    if(srcset) {
+        let srcsetEntrys = srcset.map(s => s.trim());
 
         //entry is now either "url widht_description" or only "url" and the url needs to be mapped
         srcsetEntrys = srcsetEntrys.map(entry => {
@@ -20,6 +29,7 @@
         srcset_mapped = 'srcset="' + srcsetEntrys.reduce((s1,s2) => s1+", "+s2) + '"';
     }
 %>
+
 <header class="intro-header">
     <img src="<%- cover_mapped %>" <%- srcset_mapped %> />
 </header>
