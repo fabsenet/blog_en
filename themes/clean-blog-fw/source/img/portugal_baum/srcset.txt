@@ -1,0 +1,6 @@
+coversrcset:
+ - /img/portugal_baum/250.jpg 250w
+ - /img/portugal_baum/500.jpg 500w
+ - /img/portugal_baum/1000.jpg 1000w
+ - /img/portugal_baum/1500.jpg 1500w
+ - /img/portugal_baum/2500.jpg 2500w
