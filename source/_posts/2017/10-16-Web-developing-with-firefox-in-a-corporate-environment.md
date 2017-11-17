@@ -16,7 +16,6 @@ coversrcset:
  - /img/sphere/2000.jpg 2000w
  - /img/sphere/original.jpg 3000w
 ---
-
 # Motivation
 
 This post is basically a summary of settings, which I apply to a fresh install of firefox on a company PC to prepare it for some web development and make it basically usable in the environment.
