@@ -3,7 +3,7 @@ author: Fabian Wetzel
 title: Getting around translated content on the web
 subtitle: I usually do not like translated programming content because it could be out of date or a translated exception message might make it difficult to google
 description: I usually do not like translated programming content because it could be out of date or a translated exception message might make it difficult to google. Continue reading this in my blog.
-date: 2017-10-16 20:16:50
+date: 2017-11-17 16:19:50
 tags:
  - firefox
  - My Setup
