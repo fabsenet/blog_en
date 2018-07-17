@@ -3,7 +3,7 @@ author: Fabian Wetzel
 title: Running Jekyll on Windows using Docker
 subtitle: Switching from Jekyll via Windows 10 Subsystem for Linux to a Docker containter based local build is easier than I thought
 description: Switching from Jekyll via Windows 10 Subsystem for Linux to a Docker containter based local build is easier than I thought. Continue reading this in my blog.
-date: 2018-07-04 16:19:50
+date: 2018-07-16 16:19:50
 tags:
  - blog
  - My Setup
