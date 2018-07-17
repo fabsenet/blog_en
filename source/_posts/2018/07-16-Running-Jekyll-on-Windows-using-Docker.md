@@ -30,7 +30,7 @@ My target is to have two commands for my local command line which support my wri
 
 # Installing Docker
 
-Well, that is kind of easy. You open the docker page, click download, double click... 
+Well, that is kind of easy. You open the docker page, click download, double click...
 
 You want the [Docker Community Edtion for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows).
 
