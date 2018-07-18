@@ -93,10 +93,10 @@ I now want to serve the blog locally. If you want to change the command executed
 docker run --volume=${PWD}:/srv/jekyll --volume=jekyllbundlecache:/usr/local/bundle jekyll/jekyll jekyll serve
 ```
 
-This will start `jekyll serve` inside the container serving the site on port 4000. The problem is, it is not accessible from outside the container, so lets change that! You can bind a container port to a real port using the `-p` option with flexible options or you can simply expose it via `--expose`:
+This will start `jekyll serve` inside the container serving the site on port 4000. The problem is, it is not accessible from outside the container, so lets change that! You can bind a container port to a real port using the `-p` option. In this case I am mapping the port 4000 to 4000:
 
 ```powershell
-docker run --volume=${PWD}:/srv/jekyll --volume=jekyllbundlecache:/usr/local/bundle --expose 4000 jekyll/jekyll jekyll serve
+docker run --volume=${PWD}:/srv/jekyll --volume=jekyllbundlecache:/usr/local/bundle -p 4000:4000 jekyll/jekyll jekyll serve
 ```
 
 **First part done!** That is all I wanted for my first command.
@@ -109,6 +109,8 @@ I have no idea how to actually upload files in a Linux environment so I run the 
 docker run --volume=${PWD}:/srv/jekyll --volume=jekyllbundlecache:/usr/local/bundle -it jekyll/jekyll bash
 ```
 
+The `-it` command emulates a terminal also in a way that it makes CTRL+c work as expected so this is also useful in serving jekyll locally!
+
 *To find an end to this blog post, I leave the code for the actually uploading out.*
 
 ## Doing more than one command in a container
@@ -119,4 +121,22 @@ If I change the command from `jekyll serve` to `jekyll build` it will build the 
 docker run --volume=${PWD}:/srv/jekyll --volume=jekyllbundlecache:/usr/local/bundle jekyll/jekyll bash -c "jekyll build && echo 'upload command here'"
 ```
 
-**Second command done!** Thanks for reading!
+**Second command done!**
+
+# In summary: The commands are:
+
+Serve locally on port 4000:
+
+```powershell
+docker run --name blog_de_serve -it --rm --volume=${PWD}:/srv/jekyll --volume=jekyllbundlecache:/usr/local/bundle -p 4000:4000 jekyll/jekyll jekyll serve
+```
+
+Build+Publish:
+
+```powershell
+docker run --rm --volume=${PWD}:/srv/jekyll --volume=jekyllbundlecache:/usr/local/bundle jekyll/builder bash -c "jekyll build && echo 'upload command here'"
+```
+
+The jekyll/builder image includes uploading tools like scp, lftp, ...!
+
+Thanks for reading!
