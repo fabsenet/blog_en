@@ -2,7 +2,8 @@
 menu:
   Home: /
   Archives: /archive
-  Impressum: /impressum
+  Imprint: /impressum
+  Data Privacy: /impressum
   RSS-Feed: /feed
 #  Github:
  #   url: https://github.com/klugjo/hexo-theme-clean-blog
