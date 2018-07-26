@@ -3,7 +3,7 @@ author: Fabian Wetzel
 title: Automating Jekyll-based web page build and deployments
 subtitle: I describe my journey to fully automate the building and deployment of a Jekyll based blog from checkin to running in production
 description: I describe my journey to fully automate the building and deployment of a Jekyll based blog from checkin to running in production. Continue reading this in my blog.
-date: 2018-07-25 16:19:50
+date: 2018-07-26 16:19:50
 tags:
  - blog
  - My Setup
@@ -180,11 +180,11 @@ From there, I selected `create new function...` and I was guided through some ch
 
 Now I need to put the container template deployment in the function somehow. I provide only a small summary of what I did here because the post is sooo long already:
 
-- added the template an extra file with `CopyToOutputDirectory=PreserveNewest`
-- added the boilerplate class from the portal (automation script) and added all missing values
-- added the nuget packages the boilerplate class requires (`dotnet add package ...`)
-- registered an app identity which is allowed to deploy stuff. ([docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal?view=azure-cli-latest))
-- copied various IDs and secret in the code from that app identity, azure AD, and so on.
+- added the template as an [embedded ressource](https://stackoverflow.com/questions/38762368/embedded-resource-in-net-core-libraries)
+- added the boilerplate class from the portal (automation script) and added all missing values:
+  - added the nuget packages the boilerplate class requires (`dotnet add package ...`)
+  - registered an app identity which is allowed to deploy stuff. ([docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal?view=azure-cli-latest))
+  - copied various IDs and secret in the code from that app identity, azure AD, and so on.
 
 ...and it worked after only 20 minutes of tinkering. Nice!
 
@@ -194,8 +194,28 @@ This is probably the easiest part. I go to my repo on GitHub. You should probabl
 
 ![GitHub Add Webhook dialog](github_add_webhook.png)
 
-I also secured everything with some signature verification from a [very good blog post](http://michaco.net/blog/HowToValidateGitHubWebhooksInCSharpWithASPNETCoreMVC).
+I also secured everything with some signature verification from a [very good blog post](http://michaco.net/blog/HowToValidateGitHubWebhooksInCSharpWithASPNETCoreMVC), except it did not work because it reads the body as a string and converts it back to a byte-array and it maybe does not use the same encoding for both steps? I converted it to reading the body directly as a `byte[]` and converted that later to a string.
+
+Key points:
+
+```cs
+var ms = new MemoryStream();
+request.Body.CopyTo(ms);
+var requestBytes = ms.ToArray();
+
+ms.Position = 0;
+var requestBody = new StreamReader(ms).ReadToEnd();
+```
+
+What kept me from finishing this earlier was that the container instance sometimes is stuck in the state creating or pending and nothing happens. I tracked that down to the git revision used for building the blog. Simply providing `master` works, but GitHub push events state them as `refs/heads/master`. The long version stops the container instance from deploying. I think it has to do with the slashes. This code fixed it for me:
+
+```cs
+if(branch.StartsWith("refs/heads/"))
+{
+    branch = branch.Substring("refs/heads/".Length);
+}
+```
 
 # Final thoughts
 
-It was actually a fun ride to bring so many technologies and services together! So much was new to me and I managed to get int working anyway. I am feeling very very successful right now!
+It was actually a fun ride to bring so many bleeding edge technologies and services together! So much was new to me and I managed to get it working anyway. I am feeling very very successful right now!
